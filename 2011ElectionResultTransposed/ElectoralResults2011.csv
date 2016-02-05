@@ -1,339 +1,2029 @@
-Electoral district number,Electoral district name,All votes,Conservative votes,NDP-New Democratic Party votes,Liberal votes,Bloc Quebecois votes,Green Party votes,Other votes
-59001,Abbotsford,37467.0,25059.0,7210.0,3258.0,0.0,1744.0,195.0
-24001,Abitibi--Baie-James--Nunavik--Eeyou,31549.0,7116.0,14140.0,3302.0,5762.0,1228.0,0.0
-24002,Abitibi--Temiscamingue,47970.0,4751.0,24584.0,2840.0,15111.0,687.0,0.0
-13001,Acadie--Bathurst,46847.0,7749.0,32361.0,6706.0,0.0,31.0,0.0
-24003,Ahuntsic-Cartierville,48600.0,4166.0,14550.0,15127.0,13767.0,708.0,284.0
-35001,Ajax,44166.0,19535.0,6624.0,16754.0,0.0,1200.0,53.0
-24004,Alfred-Pellan,48159.0,5397.0,20329.0,10752.0,10766.0,699.0,219.0
-35002,Algoma--Manitoulin--Kapuskasing,39175.0,12733.0,19560.0,5662.0,0.0,1208.0,11.0
-24005,Argenteuil--La Petite-Nation,43917.0,6461.0,19765.0,6034.0,10216.0,1155.0,285.0
-35003,Aurora--Oak Ridges--Richmond Hill,39258.0,20223.0,6263.0,10941.0,0.0,1364.0,472.0
-10001,Avalon,35626.0,13214.0,10164.0,11820.0,0.0,225.0,200.0
-24006,Avignon--La Mitis--Matane--Matapedia,36524.0,4808.0,9726.0,8476.0,12599.0,918.0,0.0
-48001,Banff--Airdrie,42326.0,29941.0,5534.0,3412.0,0.0,3278.0,165.0
-35004,Barrie--Innisfil,41174.0,25226.0,8347.0,5153.0,0.0,2191.0,258.0
-35005,Barrie--Springwater--Oro-Medonte,44870.0,24477.0,8983.0,7601.0,0.0,2734.0,1082.0
-47001,Battlefords--Lloydminster,26033.0,17166.0,7304.0,880.0,0.0,679.0,0.0
-48002,Battle River--Crowfoot,47713.0,39646.0,4694.0,1027.0,0.0,1859.0,486.0
-35006,Bay of Quinte,50006.0,25905.0,11508.0,10442.0,0.0,1887.0,265.0
-35007,Beaches--East York,48669.0,11067.0,20265.0,14967.0,0.0,2240.0,130.0
-24007,Beauce,52046.0,26400.0,15614.0,5723.0,3472.0,840.0,0.0
-24020,Beauport-C�te-de-Beaupre-�le d'Orleans-Charlevoix,47171.0,10852.0,18040.0,2516.0,14932.0,805.0,25.0
-24008,Beauport--Limoilou,47589.0,12031.0,21847.0,3025.0,9584.0,884.0,221.0
-13002,Beausejour,45486.0,14427.0,10654.0,18509.0,0.0,1897.0,0.0
-24009,Becancour--Nicolet--Saurel,49732.0,6478.0,17705.0,5024.0,19046.0,1479.0,0.0
-24010,Bellechasse--Les Etchemins--Levis,58821.0,25850.0,19890.0,3421.0,8757.0,903.0,0.0
-24011,Beloeil--Chambly,58707.0,4665.0,25008.0,5295.0,16091.0,914.0,6734.0
-24012,Berthier--Maskinonge,48964.0,6228.0,20193.0,5911.0,15183.0,1144.0,304.0
-10002,Bonavista--Burin--Trinity,30858.0,9412.0,4302.0,16806.0,0.0,271.0,66.0
-24015,Bourassa,37913.0,3115.0,12268.0,14585.0,7212.0,589.0,143.0
-48003,Bow River,36469.0,30412.0,2975.0,1291.0,0.0,1244.0,547.0
-35008,Brampton Centre,34798.0,16146.0,8074.0,8823.0,0.0,1548.0,205.0
-35009,Brampton East,28623.0,8440.0,10775.0,8775.0,0.0,487.0,148.0
-35010,Brampton North,39811.0,19455.0,7498.0,11209.0,0.0,1466.0,184.0
-35011,Brampton South,35557.0,16148.0,5837.0,12585.0,0.0,804.0,186.0
-35012,Brampton West,28506.0,11977.0,5594.0,10285.0,0.0,448.0,201.0
-46001,Brandon--Souris,33298.0,21256.0,8203.0,1912.0,0.0,1912.0,18.0
-35013,Brantford--Brant,55085.0,26667.0,15947.0,10410.0,0.0,1766.0,295.0
-24016,Brome--Missisquoi,52538.0,6256.0,22405.0,11588.0,11171.0,1120.0,0.0
-24017,Brossard--Saint-Lambert,48986.0,6283.0,18031.0,16046.0,7812.0,740.0,76.0
-35014,Bruce--Grey--Owen Sound,51054.0,28744.0,9008.0,8203.0,0.0,5099.0,0.0
-35015,Burlington,61252.0,33162.0,11548.0,14235.0,0.0,2165.0,140.0
-59002,Burnaby North--Seymour,43290.0,19149.0,15218.0,6804.0,0.0,1681.0,438.0
-59003,Burnaby South,36525.0,14471.0,16071.0,4282.0,0.0,1317.0,386.0
-48004,Calgary Centre,41451.0,22949.0,6286.0,7926.0,0.0,4283.0,8.0
-48005,Calgary Confederation,50772.0,26619.0,8035.0,8957.0,0.0,6955.0,201.0
-48006,Calgary Forest Lawn,30900.0,19573.0,4064.0,5396.0,0.0,1638.0,227.0
-48007,Calgary Heritage,46734.0,34761.0,5662.0,3486.0,0.0,2567.0,256.0
-48008,Calgary Midnapore,48776.0,37021.0,5146.0,3124.0,0.0,3137.0,345.0
-48009,Calgary Nose Hill,42061.0,29143.0,5377.0,4646.0,0.0,2838.0,59.0
-48010,Calgary Rocky Ridge,44045.0,30178.0,5050.0,5571.0,0.0,3189.0,51.0
-48011,Calgary Shepard,39602.0,29905.0,4407.0,2846.0,0.0,2202.0,240.0
-48012,Calgary Signal Hill,44972.0,29199.0,4759.0,6947.0,0.0,3946.0,120.0
-48013,Calgary Skyview,29460.0,16573.0,2958.0,8438.0,0.0,1363.0,129.0
-35016,Cambridge,44829.0,23644.0,12512.0,6923.0,0.0,1614.0,134.0
-12001,Cape Breton--Canso,38998.0,12719.0,7817.0,17196.0,0.0,1264.0,0.0
-11001,Cardigan,21130.0,8107.0,2164.0,10486.0,0.0,373.0,0.0
-59004,Cariboo--Prince George,43237.0,24325.0,13017.0,2191.0,0.0,2673.0,1033.0
-35088,Carleton,46909.0,28929.0,6262.0,9786.0,0.0,1931.0,0.0
-47004,Carlton Trail--Eagle Creek,32640.0,22310.0,7962.0,1278.0,0.0,854.0,236.0
-12002,Central Nova,38875.0,21494.0,10422.0,5424.0,0.0,1481.0,57.0
-59005,Central Okanagan--Similkameen--Nicola,48893.0,26690.0,12736.0,4918.0,0.0,3796.0,754.0
-24019,Charlesbourg--Haute-Saint-Charles,53779.0,16288.0,24197.0,3511.0,8756.0,837.0,189.0
-46002,Charleswood--St. James--Assiniboia--Headingley,40418.0,23264.0,8134.0,7433.0,0.0,1587.0,0.0
-11002,Charlottetown,18468.0,6040.0,4632.0,7292.0,0.0,417.0,87.0
-35017,Chatham-Kent--Leamington,46375.0,24672.0,12595.0,7554.0,0.0,1551.0,4.0
-24022,Chicoutimi--Le Fjord,43096.0,11016.0,16237.0,2480.0,12418.0,655.0,288.0
-59006,Chilliwack--Hope,38190.0,22748.0,8973.0,4273.0,0.0,1923.0,276.0
-46003,Churchill--Keewatinook Aski,21203.0,5540.0,10962.0,4213.0,0.0,490.0,0.0
-24021,Ch�teauguay--Lacolle,45393.0,5460.0,22116.0,4630.0,12216.0,866.0,105.0
-59007,Cloverdale--Langley City,37639.0,21598.0,9288.0,4442.0,0.0,1738.0,580.0
-10003,Coast of Bays--Central--Notre Dame,28777.0,8726.0,3920.0,15805.0,0.0,253.0,74.0
-24023,Compton--Stanstead,49772.0,5900.0,23531.0,5970.0,13153.0,1210.0,5.0
-59008,Coquitlam--Port Coquitlam,40285.0,22372.0,12476.0,3330.0,0.0,1744.0,364.0
-59009,Courtenay--Alberni,57473.0,25798.0,23399.0,3860.0,0.0,3933.0,480.0
-59010,Cowichan--Malahat--Langford,47760.0,20567.0,20818.0,2774.0,0.0,3454.0,153.0
-12003,Cumberland--Colchester,37546.0,19875.0,8439.0,6903.0,0.0,2015.0,315.0
-47002,Cypress Hills--Grasslands,32408.0,22870.0,6741.0,1895.0,0.0,901.0,0.0
-12004,Dartmouth--Cole Harbour,43999.0,11013.0,16026.0,15279.0,0.0,1683.0,0.0
-46004,Dauphin--Swan River--Neepawa,34429.0,22212.0,8540.0,2180.0,0.0,1470.0,27.0
-35018,Davenport,39063.0,5553.0,20985.0,10897.0,0.0,1335.0,294.0
-59011,Delta,45842.0,21983.0,12862.0,8514.0,0.0,2177.0,307.0
-47003,Desnethe--Missinippi--Churchill River,20833.0,9766.0,9454.0,1098.0,0.0,513.0,0.0
-35019,Don Valley East,35173.0,12794.0,7694.0,13503.0,0.0,993.0,188.0
-35020,Don Valley North,39214.0,15802.0,8128.0,14626.0,0.0,517.0,142.0
-35021,Don Valley West,45325.0,19894.0,4872.0,18804.0,0.0,1616.0,140.0
-24024,Dorval--Lachine--LaSalle,45512.0,6441.0,18712.0,13382.0,5250.0,1364.0,361.0
-24025,Drummond,47420.0,7555.0,24489.0,3979.0,10410.0,987.0,0.0
-35022,Dufferin--Caledon,48549.0,28647.0,6409.0,6361.0,0.0,7132.0,0.0
-35023,Durham,50576.0,27901.0,12011.0,7855.0,0.0,2306.0,499.0
-48014,Edmonton Centre,43091.0,19909.0,11126.0,10226.0,0.0,1535.0,297.0
-48015,Edmonton Griesbach,37766.0,19833.0,14152.0,2483.0,0.0,1298.0,0.0
-48016,Edmonton Manning,34179.0,18954.0,9082.0,3112.0,0.0,983.0,2049.0
-48017,Edmonton Mill Woods,35452.0,20895.0,9005.0,4157.0,0.0,1062.0,335.0
-48018,Edmonton Riverbend,43269.0,25689.0,9158.0,6271.0,0.0,2149.0,0.0
-48019,Edmonton Strathcona,49808.0,20084.0,26752.0,1422.0,0.0,1165.0,384.0
-48020,Edmonton West,38527.0,24733.0,7502.0,4801.0,0.0,1416.0,73.0
-48021,Edmonton--Wetaskiwin,41280.0,31196.0,5892.0,2364.0,0.0,1688.0,142.0
-35024,Eglinton--Lawrence,48389.0,22652.0,5613.0,18590.0,0.0,1534.0,0.0
-11003,Egmont,19153.0,10467.0,2369.0,5997.0,0.0,320.0,0.0
-35025,Elgin--Middlesex--London,48898.0,28388.0,11774.0,6559.0,0.0,1478.0,700.0
-46005,Elmwood--Transcona,34290.0,16085.0,15363.0,1779.0,0.0,1053.0,7.0
-59026,Esquimalt--Saanich--Sooke,56654.0,21305.0,22325.0,5494.0,0.0,7286.0,242.0
-35026,Essex,50220.0,24239.0,17529.0,7161.0,0.0,1217.0,73.0
-35027,Etobicoke Centre,53290.0,22307.0,7792.0,21616.0,0.0,1431.0,146.0
-35028,Etobicoke--Lakeshore,50916.0,20486.0,10338.0,17866.0,0.0,2047.0,183.0
-35029,Etobicoke North,35072.0,11207.0,8283.0,14929.0,0.0,60.0,594.0
-35030,Flamborough--Glanbrook,45384.0,25144.0,10344.0,7671.0,0.0,1892.0,336.0
-59012,Fleetwood--Port Kells,34583.0,16543.0,11435.0,5418.0,0.0,888.0,306.0
-48022,Foothills,46129.0,35899.0,4655.0,1624.0,0.0,2193.0,1758.0
-48023,Fort McMurray--Cold Lake,25650.0,18602.0,3366.0,2767.0,0.0,915.0,0.0
-13003,Fredericton,38772.0,18213.0,9422.0,9314.0,0.0,1609.0,214.0
-13004,Fundy Royal,39374.0,22817.0,10577.0,4109.0,0.0,1859.0,6.0
-24026,Gaspesie--Les �les-de-la-Madeleine,35332.0,6738.0,10186.0,6021.0,11684.0,702.0,0.0
-24027,Gatineau,51335.0,4110.0,31894.0,7082.0,7664.0,586.0,0.0
-35031,Glengarry--Prescott--Russell,54904.0,26802.0,9149.0,16801.0,0.0,1964.0,187.0
-48024,Grande Prairie--Mackenzie,33845.0,25763.0,5212.0,1076.0,0.0,1271.0,525.0
-35032,Guelph,59021.0,19352.0,9880.0,25588.0,0.0,3619.0,582.0
-35033,Haldimand--Norfolk,50366.0,25655.0,10062.0,12549.0,0.0,1665.0,435.0
-35034,Haliburton--Kawartha Lakes--Brock,54701.0,32841.0,12068.0,7030.0,0.0,2760.0,0.0
-12005,Halifax,46033.0,8292.0,23761.0,11805.0,0.0,2022.0,152.0
-12006,Halifax West,39779.0,12005.0,11317.0,14824.0,0.0,1632.0,0.0
-35035,Hamilton Centre,34423.0,8078.0,20742.0,4509.0,0.0,172.0,925.0
-35036,Hamilton East--Stoney Creek,44848.0,16557.0,19848.0,6090.0,0.0,1278.0,1075.0
-35037,Hamilton Mountain,45009.0,14535.0,21806.0,7041.0,0.0,1270.0,358.0
-35038,Hamilton West--Ancaster--Dundas,53204.0,22555.0,14997.0,13254.0,0.0,1985.0,408.0
-35039,Hastings--Lennox and Addington,43076.0,23629.0,10335.0,7352.0,0.0,1476.0,285.0
-24028,Hochelaga,47231.0,3403.0,22425.0,5544.0,14529.0,790.0,547.0
-24029,Honore-Mercier,45019.0,5857.0,15856.0,15083.0,7205.0,726.0,297.0
-24030,Hull--Aylmer,50278.0,5050.0,29552.0,10304.0,4362.0,1012.0,0.0
-35121,Humber River--Black Creek,27724.0,6122.0,7721.0,13030.0,0.0,450.0,401.0
-35040,Huron--Bruce,53241.0,29255.0,13493.0,8784.0,0.0,1455.0,254.0
-24031,Joliette,50750.0,4919.0,23813.0,3244.0,16751.0,2025.0,0.0
-24032,Jonquiere,46655.0,15926.0,19829.0,1264.0,8985.0,601.0,52.0
-59013,Kamloops--Thompson--Cariboo,55993.0,29279.0,20682.0,3001.0,0.0,2847.0,185.0
-35041,Kanata--Carleton,50803.0,27285.0,7765.0,13445.0,0.0,2307.0,0.0
-59014,Kelowna--Lake Country,48339.0,28220.0,10328.0,5546.0,0.0,4244.0,0.0
-35042,Kenora,24586.0,11567.0,6855.0,5381.0,0.0,636.0,147.0
-46006,Kildonan--St. Paul,36628.0,21416.0,11007.0,2887.0,0.0,970.0,348.0
-12007,Kings--Hants,40164.0,14714.0,8043.0,15887.0,0.0,1520.0,0.0
-35044,Kingston and the Islands,56636.0,19288.0,12242.0,22666.0,0.0,2437.0,0.0
-35043,King--Vaughan,38823.0,22177.0,4779.0,10676.0,0.0,1063.0,127.0
-35045,Kitchener Centre,46997.0,18968.0,10305.0,15175.0,0.0,2155.0,395.0
-35046,Kitchener--Conestoga,40274.0,21915.0,7351.0,9454.0,0.0,1468.0,86.0
-35047,Kitchener South--Hespeler,39662.0,20306.0,10219.0,7506.0,0.0,1587.0,47.0
-59015,Kootenay--Columbia,52801.0,26448.0,20510.0,1840.0,0.0,3394.0,609.0
-10004,Labrador,10692.0,4256.0,2120.0,4177.0,0.0,139.0,0.0
-24035,Lac-Saint-Jean,54290.0,22946.0,17446.0,1766.0,11403.0,729.0,0.0
-24036,Lac-Saint-Louis,54261.0,15434.0,16312.0,18502.0,1693.0,2319.0,0.0
-48025,Lakeland,41182.0,32527.0,4623.0,2101.0,0.0,1739.0,191.0
-35048,Lambton--Kent--Middlesex,50776.0,29322.0,12162.0,7186.0,0.0,1693.0,413.0
-35049,Lanark--Frontenac--Kingston,50182.0,30151.0,9092.0,8219.0,0.0,2451.0,274.0
-59016,Langley--Aldergrove,44641.0,29383.0,8637.0,4009.0,0.0,2345.0,264.0
-24033,La Pointe-de-l'�le,49685.0,3801.0,23615.0,5016.0,16081.0,936.0,238.0
-24034,La Prairie,50653.0,4786.0,25308.0,6696.0,13034.0,735.0,91.0
-24037,LaSalle--emard--Verdun,48865.0,4759.0,22071.0,8939.0,11453.0,1248.0,392.0
-24038,Laurentides--Labelle,56586.0,5246.0,24800.0,7169.0,17799.0,1423.0,149.0
-24039,Laurier--Sainte-Marie,51098.0,2018.0,23750.0,5453.0,17855.0,1349.0,677.0
-24040,Laval--Les �les,44642.0,7333.0,21069.0,9207.0,5755.0,794.0,483.0
-35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,49319.0,29989.0,9032.0,7839.0,0.0,2460.0,0.0
-48026,Lethbridge,41163.0,21618.0,12329.0,3759.0,0.0,1845.0,1614.0
-24042,Levis--Lotbiniere,56344.0,22469.0,21688.0,2867.0,8383.0,936.0,0.0
-35051,London--Fanshawe,47456.0,16098.0,23655.0,5709.0,0.0,1410.0,581.0
-35052,London North Centre,53442.0,19802.0,12974.0,18298.0,0.0,2160.0,211.0
-35053,London West,58343.0,26296.0,14830.0,15594.0,0.0,1563.0,59.0
-10005,Long Range Mountains,35841.0,9050.0,6394.0,19770.0,0.0,371.0,258.0
-24041,Longueuil--Charles-LeMoyne,47420.0,4996.0,21545.0,6317.0,13419.0,1142.0,0.0
-24043,Longueuil--Saint-Hubert,52654.0,4601.0,26335.0,5313.0,15162.0,1155.0,87.0
-24044,Louis-Hebert,60436.0,13195.0,23359.0,8109.0,14636.0,996.0,143.0
-24045,Louis-Saint-Laurent,56614.0,21278.0,22576.0,3607.0,8127.0,852.0,175.0
-13005,Madawaska--Restigouche,35922.0,14541.0,6949.0,12497.0,0.0,645.0,1290.0
-11004,Malpeque,20294.0,7934.0,2970.0,8605.0,0.0,785.0,0.0
-24046,Manicouagan,38717.0,4502.0,18458.0,2131.0,12654.0,973.0,0.0
-24065,Marc-Aurele-Fortin,47272.0,4904.0,23156.0,6545.0,11471.0,1106.0,90.0
-35054,Markham--Stouffville,47185.0,23820.0,8011.0,13661.0,0.0,1285.0,406.0
-35055,Markham--Thornhill,38075.0,13857.0,8907.0,14129.0,0.0,998.0,187.0
-35056,Markham--Unionville,39330.0,18024.0,6500.0,13249.0,0.0,1182.0,376.0
-48027,Medicine Hat--Cardston--Warner,37348.0,25659.0,5579.0,4165.0,0.0,1659.0,288.0
-24047,Megantic--L'erable,45420.0,22321.0,11930.0,2712.0,7542.0,667.0,250.0
-35057,Milton,33844.0,18630.0,5593.0,8184.0,0.0,1310.0,127.0
-24048,Mirabel,47484.0,4381.0,23526.0,3681.0,14728.0,958.0,212.0
-13006,Miramichi--Grand Lake,34504.0,18352.0,7889.0,7371.0,0.0,847.0,40.0
-59017,Mission--Matsqui--Fraser Canyon,33640.0,18329.0,10769.0,2827.0,0.0,1560.0,153.0
-35058,Mississauga Centre,42677.0,17792.0,8106.0,15670.0,0.0,987.0,122.0
-35059,Mississauga East--Cooksville,44250.0,19268.0,7813.0,15999.0,0.0,959.0,210.0
-35060,Mississauga--Erin Mills,46468.0,21646.0,7504.0,15978.0,0.0,1274.0,66.0
-35061,Mississauga--Lakeshore,51742.0,24271.0,6617.0,19069.0,0.0,1593.0,196.0
-35062,Mississauga--Malton,36634.0,13715.0,8584.0,13478.0,0.0,744.0,111.0
-35063,Mississauga--Streetsville,46237.0,21325.0,7033.0,16179.0,0.0,1689.0,10.0
-13007,Moncton--Riverview--Dieppe,44409.0,16327.0,12638.0,13546.0,0.0,1899.0,0.0
-24049,Montarville,52163.0,5010.0,23227.0,6524.0,15167.0,1278.0,959.0
-24050,Montcalm,44754.0,3555.0,23228.0,2203.0,14071.0,1696.0,0.0
-24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,47545.0,17276.0,17285.0,2743.0,9550.0,691.0,0.0
-47005,Moose Jaw--Lake Centre--Lanigan,37669.0,22963.0,12256.0,1427.0,0.0,1020.0,9.0
-24052,Mount Royal,39006.0,13891.0,6963.0,16151.0,1136.0,683.0,183.0
-59018,Nanaimo--Ladysmith,55883.0,22571.0,25294.0,3732.0,0.0,4007.0,275.0
-35064,Nepean,51128.0,26087.0,9117.0,13863.0,0.0,2063.0,0.0
-13008,New Brunswick Southwest,33006.0,18702.0,7695.0,4478.0,0.0,1683.0,454.0
-35065,Newmarket--Aurora,47281.0,25558.0,7467.0,11207.0,0.0,2071.0,976.0
-59019,New Westminster--Burnaby,40943.0,14231.0,21200.0,3562.0,0.0,1773.0,177.0
-35066,Niagara Centre,48548.0,18969.0,20957.0,6970.0,0.0,1204.0,445.0
-35067,Niagara Falls,53980.0,28748.0,12681.0,10206.0,0.0,2086.0,259.0
-35068,Niagara West,43722.0,26000.0,8400.0,6249.0,0.0,1970.0,1100.0
-35069,Nickel Belt,44148.0,12373.0,24276.0,6209.0,0.0,1231.0,59.0
-35070,Nipissing--Timiskaming,42212.0,15368.0,8919.0,15403.0,0.0,2519.0,0.0
-59037,North Island--Powell River,50890.0,23424.0,21241.0,3237.0,0.0,2625.0,367.0
-59020,North Okanagan--Shuswap,56922.0,31510.0,15075.0,4251.0,0.0,6081.0,4.0
-35071,Northumberland--Peterborough South,55048.0,29376.0,11331.0,11611.0,0.0,2575.0,154.0
-59021,North Vancouver,50304.0,23923.0,8481.0,14948.0,0.0,2631.0,323.0
-61001,Northwest Territories,15577.0,5001.0,7140.0,2872.0,0.0,477.0,87.0
-24053,Notre-Dame-de-Gr�ce--Westmount,44638.0,7879.0,15648.0,17072.0,1817.0,1955.0,271.0
-62001,Nunavut,7875.0,3930.0,1525.0,2260.0,0.0,160.0,0.0
-35072,Oakville,58215.0,30068.0,8117.0,17890.0,0.0,2140.0,0.0
-35073,Oakville North--Burlington,46841.0,25369.0,7264.0,12632.0,0.0,1453.0,122.0
-35076,Orleans,64006.0,28917.0,8945.0,24306.0,0.0,1832.0,7.0
-35074,Oshawa,52489.0,26839.0,19474.0,4022.0,0.0,1863.0,294.0
-35075,Ottawa Centre,64685.0,13992.0,33738.0,13015.0,0.0,3258.0,686.0
-35077,Ottawa South,58971.0,19625.0,10710.0,25954.0,0.0,1787.0,895.0
-35078,Ottawa--Vanier,56219.0,15710.0,16126.0,21418.0,0.0,2843.0,122.0
-35079,Ottawa West--Nepean,56606.0,25297.0,11195.0,17824.0,0.0,2283.0,3.0
-24054,Outremont,41879.0,3344.0,23319.0,9056.0,4859.0,936.0,361.0
-35080,Oxford,48804.0,28783.0,12418.0,4707.0,0.0,2110.0,786.0
-24055,Papineau,45892.0,2313.0,13526.0,17407.0,11419.0,866.0,356.0
-35081,Parkdale--High Park,50945.0,7924.0,24046.0,16757.0,0.0,1666.0,552.0
-35082,Parry Sound--Muskoka,46409.0,25864.0,11217.0,5330.0,0.0,3776.0,222.0
-48028,Peace River--Westlock,37256.0,28986.0,4857.0,1357.0,0.0,1438.0,616.0
-35083,Perth--Wellington,46401.0,25281.0,9861.0,8341.0,0.0,2112.0,806.0
-35084,Peterborough--Kawartha,57382.0,28436.0,14342.0,12231.0,0.0,2107.0,268.0
-35085,Pickering--Uxbridge,49097.0,22573.0,7731.0,16482.0,0.0,2218.0,96.0
-24014,Pierre-Boucher--Les Patriotes--Vercheres,53255.0,4482.0,23882.0,5262.0,18212.0,1125.0,291.0
-24056,Pierrefonds--Dollard,48025.0,12901.0,16390.0,14632.0,2392.0,1710.0,0.0
-59022,Pitt Meadows--Maple Ridge,38417.0,21068.0,13404.0,2068.0,0.0,1877.0,0.0
-24057,Pontiac,50369.0,13191.0,23810.0,7646.0,4808.0,824.0,87.0
-46007,Portage--Lisgar,33958.0,25739.0,3467.0,2032.0,0.0,1915.0,809.0
-59023,Port Moody--Coquitlam,43459.0,20202.0,17581.0,3706.0,0.0,1849.0,120.0
-24058,Portneuf--Jacques-Cartier,52468.0,0.0,22387.0,3463.0,10745.0,1279.0,14594.0
-47006,Prince Albert,33281.0,20775.0,10482.0,1144.0,0.0,741.0,142.0
-59024,Prince George--Peace River--Northern Rockies,39367.0,24349.0,10177.0,2033.0,0.0,2386.0,421.0
-46008,Provencher,35005.0,24627.0,6358.0,2356.0,0.0,1039.0,625.0
-24059,Quebec,52518.0,9330.0,22394.0,4735.0,14685.0,1144.0,228.0
-48030,Red Deer--Lacombe,40624.0,31453.0,5807.0,1449.0,0.0,1918.0,0.0
-48029,Red Deer--Mountain View,47256.0,37507.0,5628.0,1671.0,0.0,2385.0,66.0
-47007,Regina--Lewvan,38513.0,16893.0,17398.0,3156.0,0.0,1061.0,0.0
-47008,Regina--Qu'Appelle,30451.0,16196.0,11768.0,1447.0,0.0,907.0,127.0
-47009,Regina--Wascana,36566.0,13057.0,7342.0,15271.0,0.0,898.0,0.0
-35086,Renfrew--Nipissing--Pembroke,51398.0,27462.0,6903.0,6545.0,0.0,877.0,9611.0
-24060,Repentigny,58264.0,4342.0,30339.0,4614.0,17962.0,1007.0,0.0
-24061,Richmond--Arthabaska,53303.0,13145.0,17316.0,3711.0,18033.0,1098.0,0.0
-59025,Richmond Centre,34082.0,19788.0,6203.0,6390.0,0.0,1698.0,0.0
-35087,Richmond Hill,42532.0,18521.0,7244.0,15150.0,0.0,1612.0,4.0
-24018,Rimouski-Neigette--Temiscouata--Les Basques,42716.0,6218.0,18360.0,4101.0,13170.0,867.0,0.0
-24062,Riviere-des-Mille-�les,52441.0,5399.0,25757.0,5819.0,14223.0,1242.0,0.0
-24063,Riviere-du-Nord,47696.0,4022.0,26291.0,3078.0,13450.0,857.0,0.0
-24064,Rosemont--La Petite-Patrie,54128.0,2338.0,27643.0,4951.0,17731.0,906.0,558.0
-59027,Saanich--Gulf Islands,62462.0,22784.0,6898.0,3788.0,0.0,28993.0,0.0
-12008,Sackville--Preston--Chezzetcook,38996.0,11771.0,21174.0,4409.0,0.0,1636.0,3.0
-46009,Saint Boniface--Saint Vital,40419.0,20261.0,6381.0,12611.0,0.0,1165.0,0.0
-24066,Saint-Hyacinthe--Bagot,51500.0,8108.0,26963.0,2784.0,12651.0,994.0,0.0
-24067,Saint-Jean,52539.0,5603.0,24943.0,4644.0,16023.0,1326.0,0.0
-13009,Saint John--Rothesay,35964.0,17882.0,11052.0,5750.0,0.0,992.0,288.0
-24068,Saint-Laurent,32467.0,6207.0,9437.0,13914.0,2088.0,680.0,140.0
-24069,Saint-Leonard--Saint-Michel,37235.0,5074.0,12026.0,15702.0,3591.0,658.0,178.0
-24070,Saint-Maurice--Champlain,55176.0,9452.0,22777.0,6031.0,15712.0,1120.0,89.0
-24071,Salaberry--Suro�t,54009.0,6850.0,23546.0,4394.0,18227.0,991.0,0.0
-35091,Sarnia--Lambton,49665.0,26112.0,14856.0,6931.0,0.0,1252.0,514.0
-47010,Saskatoon--Grasswood,36075.0,18119.0,14373.0,2642.0,0.0,900.0,43.0
-47011,Saskatoon--University,35120.0,17067.0,13344.0,3374.0,0.0,1027.0,310.0
-47012,Saskatoon West,30458.0,12956.0,15574.0,1146.0,0.0,783.0,0.0
-35092,Sault Ste. Marie,40388.0,16316.0,15124.0,7966.0,0.0,846.0,138.0
-35093,Scarborough--Agincourt,37738.0,12887.0,6788.0,17196.0,0.0,866.0,0.0
-35094,Scarborough Centre,36809.0,12842.0,11286.0,11738.0,0.0,945.0,0.0
-35095,Scarborough--Guildwood,34593.0,11998.0,9235.0,12381.0,0.0,770.0,207.0
-35096,Scarborough North,35830.0,11959.0,12673.0,10344.0,0.0,578.0,277.0
-35097,Scarborough--Rouge Park,40730.0,12867.0,12621.0,14156.0,0.0,975.0,112.0
-35098,Scarborough Southwest,39379.0,12474.0,13730.0,11554.0,0.0,1601.0,20.0
-46010,Selkirk--Interlake--Eastman,42683.0,28380.0,10696.0,2071.0,0.0,1482.0,53.0
-24072,Shefford,53982.0,7908.0,27577.0,4856.0,12617.0,1022.0,0.0
-24073,Sherbrooke,52870.0,4866.0,22981.0,5182.0,18691.0,925.0,228.0
-48032,Sherwood Park--Fort Saskatchewan,50324.0,24889.0,5648.0,3254.0,0.0,2046.0,14486.0
-35099,Simcoe--Grey,55259.0,26765.0,9631.0,7000.0,0.0,3059.0,8807.0
-35100,Simcoe North,51591.0,27795.0,10540.0,9931.0,0.0,3020.0,300.0
-59028,Skeena--Bulkley Valley,35402.0,12235.0,19549.0,1277.0,0.0,1131.0,1208.0
-47013,Souris--Moose Mountain,30777.0,22425.0,5690.0,1718.0,0.0,945.0,0.0
-59029,South Okanagan--West Kootenay,55496.0,24847.0,21886.0,3944.0,0.0,4514.0,308.0
-12009,South Shore--St. Margarets,46954.0,19709.0,16940.0,8431.0,0.0,1876.0,0.0
-59030,South Surrey--White Rock,45178.0,23890.0,8671.0,8625.0,0.0,2648.0,1343.0
-35101,Spadina--Fort York,36970.0,7713.0,18351.0,9014.0,0.0,1541.0,350.0
-48031,St. Albert--Edmonton,42844.0,27627.0,8600.0,4642.0,0.0,1973.0,0.0
-35089,St. Catharines,49529.0,25089.0,11860.0,10249.0,0.0,1896.0,436.0
-10006,St. John's East,36858.0,7538.0,26042.0,2864.0,0.0,415.0,0.0
-10007,St. John's South--Mount Pearl,38684.0,9366.0,17924.0,11103.0,0.0,281.0,9.0
-59031,Steveston--Richmond East,33799.0,18224.0,7714.0,6287.0,0.0,1399.0,177.0
-35102,Stormont--Dundas--South Glengarry,47550.0,29538.0,8313.0,8510.0,0.0,1038.0,151.0
-48033,Sturgeon River--Parkland,43607.0,33789.0,5657.0,2385.0,0.0,1742.0,35.0
-35103,Sudbury,45441.0,12881.0,22684.0,8172.0,0.0,1359.0,345.0
-59032,Surrey Centre,32580.0,11618.0,13040.0,5787.0,0.0,1186.0,948.0
-59033,Surrey--Newton,32471.0,8903.0,11457.0,11068.0,0.0,844.0,199.0
-12010,Sydney--Victoria,37051.0,14023.0,7049.0,14788.0,0.0,1191.0,0.0
-24075,Terrebonne,49720.0,4011.0,25626.0,3441.0,15303.0,1339.0,0.0
-24013,Therese-De Blainville,48322.0,4715.0,24181.0,4961.0,13456.0,1012.0,0.0
-35104,Thornhill,46114.0,29140.0,5299.0,10374.0,0.0,1141.0,160.0
-35105,Thunder Bay--Rainy River,37260.0,10138.0,18125.0,8085.0,0.0,911.0,0.0
-35106,Thunder Bay--Superior North,37649.0,11162.0,18882.0,6202.0,0.0,1137.0,265.0
-35107,Timmins--James Bay,33703.0,10744.0,16832.0,5389.0,0.0,741.0,0.0
-13010,Tobique--Mactaquac,34455.0,21410.0,6594.0,5592.0,0.0,854.0,7.0
-35108,Toronto Centre,37350.0,6475.0,13617.0,14829.0,0.0,1943.0,486.0
-35109,Toronto--Danforth,48086.0,6885.0,29235.0,8472.0,0.0,3107.0,387.0
-35090,Toronto--St. Paul's,49000.0,15886.0,11087.0,19564.0,0.0,2196.0,267.0
-24076,Trois-Rivieres,56907.0,7483.0,28280.0,5707.0,13775.0,1079.0,583.0
-35110,University--Rosedale,46661.0,9393.0,20452.0,14266.0,0.0,2175.0,379.0
-59034,Vancouver Centre,41563.0,10828.0,10951.0,12895.0,0.0,6268.0,622.0
-59035,Vancouver East,44238.0,8361.0,27794.0,4382.0,0.0,3383.0,318.0
-59036,Vancouver Granville,43645.0,15442.0,10672.0,13138.0,0.0,4028.0,374.0
-59038,Vancouver Kingsway,36579.0,10177.0,18752.0,5917.0,0.0,1292.0,441.0
-59039,Vancouver Quadra,46531.0,16953.0,6722.0,20227.0,0.0,2629.0,0.0
-59040,Vancouver South,36701.0,15571.0,7733.0,12390.0,0.0,810.0,202.0
-24074,Vaudreuil--Soulanges,55478.0,9770.0,24134.0,6873.0,13129.0,1574.0,0.0
-35111,Vaughan--Woodbridge,38449.0,21750.0,4113.0,11807.0,0.0,780.0,0.0
-59041,Victoria,60417.0,14275.0,30679.0,8448.0,0.0,7015.0,0.0
-24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,40074.0,4772.0,16627.0,11014.0,6424.0,1118.0,122.0
-24078,Vimy,47163.0,6020.0,20138.0,9598.0,10256.0,908.0,239.0
-35112,Waterloo,53634.0,22192.0,8014.0,20552.0,0.0,2508.0,366.0
-35113,Wellington--Halton Hills,55154.0,35131.0,7146.0,9034.0,0.0,3527.0,316.0
-12011,West Nova,42954.0,20204.0,5631.0,15632.0,0.0,1487.0,0.0
-59042,West Vancouver--Sunshine Coast--Sea to Sky Country,52062.0,23840.0,11177.0,12395.0,0.0,3971.0,679.0
-35114,Whitby,52771.0,31034.0,11297.0,7644.0,0.0,2628.0,168.0
-35115,Willowdale,38984.0,16167.0,7384.0,15281.0,0.0,152.0,0.0
-35116,Windsor--Tecumseh,44540.0,14945.0,22235.0,5764.0,0.0,1354.0,242.0
-35117,Windsor West,39745.0,12577.0,21592.0,4327.0,0.0,1096.0,153.0
-46011,Winnipeg Centre,25955.0,7173.0,13928.0,2872.0,0.0,1830.0,152.0
-46012,Winnipeg North,26668.0,7295.0,9439.0,9331.0,0.0,475.0,125.0
-46013,Winnipeg South,39642.0,20511.0,5605.0,12684.0,0.0,848.0,0.0
-46014,Winnipeg South Centre,46620.0,19185.0,8554.0,17058.0,0.0,1501.0,321.0
-48034,Yellowhead,40013.0,31238.0,5154.0,1158.0,0.0,2135.0,328.0
-35118,York Centre,35544.0,17249.0,5650.0,11815.0,0.0,832.0,0.0
-35119,York--Simcoe,38678.0,24623.0,7187.0,4384.0,0.0,2073.0,408.0
-35120,York South--Weston,35198.0,8559.0,14122.0,11542.0,0.0,975.0,0.0
-47014,Yorkton--Melville,34274.0,23607.0,7526.0,2267.0,0.0,818.0,58.0
-60001,Yukon,16057.0,5422.0,2308.0,5290.0,0.0,3037.0,0.0
+Electoral district number,Electoral district name,Political affiliation (2011),All votes,Number of Votes obtained (2011)
+59001,Abbotsford,Conservative ,37467.0,25059.0
+59001,Abbotsford,NDP-New Democratic Party ,37467.0,7210.0
+59001,Abbotsford,Liberal ,37467.0,3258.0
+59001,Abbotsford,Bloc Quebecois ,37467.0,0.0
+59001,Abbotsford,Green Party ,37467.0,1744.0
+59001,Abbotsford,Other ,37467.0,195.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Conservative ,31549.0,7116.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,NDP-New Democratic Party ,31549.0,14140.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Liberal ,31549.0,3302.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Bloc Quebecois ,31549.0,5762.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Green Party ,31549.0,1228.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Other ,31549.0,0.0
+24002,Abitibi--Temiscamingue,Conservative ,47970.0,4751.0
+24002,Abitibi--Temiscamingue,NDP-New Democratic Party ,47970.0,24584.0
+24002,Abitibi--Temiscamingue,Liberal ,47970.0,2840.0
+24002,Abitibi--Temiscamingue,Bloc Quebecois ,47970.0,15111.0
+24002,Abitibi--Temiscamingue,Green Party ,47970.0,687.0
+24002,Abitibi--Temiscamingue,Other ,47970.0,0.0
+13001,Acadie--Bathurst,Conservative ,46847.0,7749.0
+13001,Acadie--Bathurst,NDP-New Democratic Party ,46847.0,32361.0
+13001,Acadie--Bathurst,Liberal ,46847.0,6706.0
+13001,Acadie--Bathurst,Bloc Quebecois ,46847.0,0.0
+13001,Acadie--Bathurst,Green Party ,46847.0,31.0
+13001,Acadie--Bathurst,Other ,46847.0,0.0
+24003,Ahuntsic-Cartierville,Conservative ,48600.0,4166.0
+24003,Ahuntsic-Cartierville,NDP-New Democratic Party ,48600.0,14550.0
+24003,Ahuntsic-Cartierville,Liberal ,48600.0,15127.0
+24003,Ahuntsic-Cartierville,Bloc Quebecois ,48600.0,13767.0
+24003,Ahuntsic-Cartierville,Green Party ,48600.0,708.0
+24003,Ahuntsic-Cartierville,Other ,48600.0,284.0
+35001,Ajax,Conservative ,44166.0,19535.0
+35001,Ajax,NDP-New Democratic Party ,44166.0,6624.0
+35001,Ajax,Liberal ,44166.0,16754.0
+35001,Ajax,Bloc Quebecois ,44166.0,0.0
+35001,Ajax,Green Party ,44166.0,1200.0
+35001,Ajax,Other ,44166.0,53.0
+24004,Alfred-Pellan,Conservative ,48159.0,5397.0
+24004,Alfred-Pellan,NDP-New Democratic Party ,48159.0,20329.0
+24004,Alfred-Pellan,Liberal ,48159.0,10752.0
+24004,Alfred-Pellan,Bloc Quebecois ,48159.0,10766.0
+24004,Alfred-Pellan,Green Party ,48159.0,699.0
+24004,Alfred-Pellan,Other ,48159.0,219.0
+35002,Algoma--Manitoulin--Kapuskasing,Conservative ,39175.0,12733.0
+35002,Algoma--Manitoulin--Kapuskasing,NDP-New Democratic Party ,39175.0,19560.0
+35002,Algoma--Manitoulin--Kapuskasing,Liberal ,39175.0,5662.0
+35002,Algoma--Manitoulin--Kapuskasing,Bloc Quebecois ,39175.0,0.0
+35002,Algoma--Manitoulin--Kapuskasing,Green Party ,39175.0,1208.0
+35002,Algoma--Manitoulin--Kapuskasing,Other ,39175.0,11.0
+24005,Argenteuil--La Petite-Nation,Conservative ,43917.0,6461.0
+24005,Argenteuil--La Petite-Nation,NDP-New Democratic Party ,43917.0,19765.0
+24005,Argenteuil--La Petite-Nation,Liberal ,43917.0,6034.0
+24005,Argenteuil--La Petite-Nation,Bloc Quebecois ,43917.0,10216.0
+24005,Argenteuil--La Petite-Nation,Green Party ,43917.0,1155.0
+24005,Argenteuil--La Petite-Nation,Other ,43917.0,285.0
+35003,Aurora--Oak Ridges--Richmond Hill,Conservative ,39258.0,20223.0
+35003,Aurora--Oak Ridges--Richmond Hill,NDP-New Democratic Party ,39258.0,6263.0
+35003,Aurora--Oak Ridges--Richmond Hill,Liberal ,39258.0,10941.0
+35003,Aurora--Oak Ridges--Richmond Hill,Bloc Quebecois ,39258.0,0.0
+35003,Aurora--Oak Ridges--Richmond Hill,Green Party ,39258.0,1364.0
+35003,Aurora--Oak Ridges--Richmond Hill,Other ,39258.0,472.0
+10001,Avalon,Conservative ,35626.0,13214.0
+10001,Avalon,NDP-New Democratic Party ,35626.0,10164.0
+10001,Avalon,Liberal ,35626.0,11820.0
+10001,Avalon,Bloc Quebecois ,35626.0,0.0
+10001,Avalon,Green Party ,35626.0,225.0
+10001,Avalon,Other ,35626.0,200.0
+24006,Avignon--La Mitis--Matane--Matapedia,Conservative ,36524.0,4808.0
+24006,Avignon--La Mitis--Matane--Matapedia,NDP-New Democratic Party ,36524.0,9726.0
+24006,Avignon--La Mitis--Matane--Matapedia,Liberal ,36524.0,8476.0
+24006,Avignon--La Mitis--Matane--Matapedia,Bloc Quebecois ,36524.0,12599.0
+24006,Avignon--La Mitis--Matane--Matapedia,Green Party ,36524.0,918.0
+24006,Avignon--La Mitis--Matane--Matapedia,Other ,36524.0,0.0
+48001,Banff--Airdrie,Conservative ,42326.0,29941.0
+48001,Banff--Airdrie,NDP-New Democratic Party ,42326.0,5534.0
+48001,Banff--Airdrie,Liberal ,42326.0,3412.0
+48001,Banff--Airdrie,Bloc Quebecois ,42326.0,0.0
+48001,Banff--Airdrie,Green Party ,42326.0,3278.0
+48001,Banff--Airdrie,Other ,42326.0,165.0
+35004,Barrie--Innisfil,Conservative ,41174.0,25226.0
+35004,Barrie--Innisfil,NDP-New Democratic Party ,41174.0,8347.0
+35004,Barrie--Innisfil,Liberal ,41174.0,5153.0
+35004,Barrie--Innisfil,Bloc Quebecois ,41174.0,0.0
+35004,Barrie--Innisfil,Green Party ,41174.0,2191.0
+35004,Barrie--Innisfil,Other ,41174.0,258.0
+35005,Barrie--Springwater--Oro-Medonte,Conservative ,44870.0,24477.0
+35005,Barrie--Springwater--Oro-Medonte,NDP-New Democratic Party ,44870.0,8983.0
+35005,Barrie--Springwater--Oro-Medonte,Liberal ,44870.0,7601.0
+35005,Barrie--Springwater--Oro-Medonte,Bloc Quebecois ,44870.0,0.0
+35005,Barrie--Springwater--Oro-Medonte,Green Party ,44870.0,2734.0
+35005,Barrie--Springwater--Oro-Medonte,Other ,44870.0,1082.0
+47001,Battlefords--Lloydminster,Conservative ,26033.0,17166.0
+47001,Battlefords--Lloydminster,NDP-New Democratic Party ,26033.0,7304.0
+47001,Battlefords--Lloydminster,Liberal ,26033.0,880.0
+47001,Battlefords--Lloydminster,Bloc Quebecois ,26033.0,0.0
+47001,Battlefords--Lloydminster,Green Party ,26033.0,679.0
+47001,Battlefords--Lloydminster,Other ,26033.0,0.0
+48002,Battle River--Crowfoot,Conservative ,47713.0,39646.0
+48002,Battle River--Crowfoot,NDP-New Democratic Party ,47713.0,4694.0
+48002,Battle River--Crowfoot,Liberal ,47713.0,1027.0
+48002,Battle River--Crowfoot,Bloc Quebecois ,47713.0,0.0
+48002,Battle River--Crowfoot,Green Party ,47713.0,1859.0
+48002,Battle River--Crowfoot,Other ,47713.0,486.0
+35006,Bay of Quinte,Conservative ,50006.0,25905.0
+35006,Bay of Quinte,NDP-New Democratic Party ,50006.0,11508.0
+35006,Bay of Quinte,Liberal ,50006.0,10442.0
+35006,Bay of Quinte,Bloc Quebecois ,50006.0,0.0
+35006,Bay of Quinte,Green Party ,50006.0,1887.0
+35006,Bay of Quinte,Other ,50006.0,265.0
+35007,Beaches--East York,Conservative ,48669.0,11067.0
+35007,Beaches--East York,NDP-New Democratic Party ,48669.0,20265.0
+35007,Beaches--East York,Liberal ,48669.0,14967.0
+35007,Beaches--East York,Bloc Quebecois ,48669.0,0.0
+35007,Beaches--East York,Green Party ,48669.0,2240.0
+35007,Beaches--East York,Other ,48669.0,130.0
+24007,Beauce,Conservative ,52046.0,26400.0
+24007,Beauce,NDP-New Democratic Party ,52046.0,15614.0
+24007,Beauce,Liberal ,52046.0,5723.0
+24007,Beauce,Bloc Quebecois ,52046.0,3472.0
+24007,Beauce,Green Party ,52046.0,840.0
+24007,Beauce,Other ,52046.0,0.0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,Conservative ,47171.0,10852.0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,NDP-New Democratic Party ,47171.0,18040.0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,Liberal ,47171.0,2516.0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,Bloc Quebecois ,47171.0,14932.0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,Green Party ,47171.0,805.0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,Other ,47171.0,25.0
+24008,Beauport--Limoilou,Conservative ,47589.0,12031.0
+24008,Beauport--Limoilou,NDP-New Democratic Party ,47589.0,21847.0
+24008,Beauport--Limoilou,Liberal ,47589.0,3025.0
+24008,Beauport--Limoilou,Bloc Quebecois ,47589.0,9584.0
+24008,Beauport--Limoilou,Green Party ,47589.0,884.0
+24008,Beauport--Limoilou,Other ,47589.0,221.0
+13002,Beausejour,Conservative ,45486.0,14427.0
+13002,Beausejour,NDP-New Democratic Party ,45486.0,10654.0
+13002,Beausejour,Liberal ,45486.0,18509.0
+13002,Beausejour,Bloc Quebecois ,45486.0,0.0
+13002,Beausejour,Green Party ,45486.0,1897.0
+13002,Beausejour,Other ,45486.0,0.0
+24009,Becancour--Nicolet--Saurel,Conservative ,49732.0,6478.0
+24009,Becancour--Nicolet--Saurel,NDP-New Democratic Party ,49732.0,17705.0
+24009,Becancour--Nicolet--Saurel,Liberal ,49732.0,5024.0
+24009,Becancour--Nicolet--Saurel,Bloc Quebecois ,49732.0,19046.0
+24009,Becancour--Nicolet--Saurel,Green Party ,49732.0,1479.0
+24009,Becancour--Nicolet--Saurel,Other ,49732.0,0.0
+24010,Bellechasse--Les Etchemins--Levis,Conservative ,58821.0,25850.0
+24010,Bellechasse--Les Etchemins--Levis,NDP-New Democratic Party ,58821.0,19890.0
+24010,Bellechasse--Les Etchemins--Levis,Liberal ,58821.0,3421.0
+24010,Bellechasse--Les Etchemins--Levis,Bloc Quebecois ,58821.0,8757.0
+24010,Bellechasse--Les Etchemins--Levis,Green Party ,58821.0,903.0
+24010,Bellechasse--Les Etchemins--Levis,Other ,58821.0,0.0
+24011,Beloeil--Chambly,Conservative ,58707.0,4665.0
+24011,Beloeil--Chambly,NDP-New Democratic Party ,58707.0,25008.0
+24011,Beloeil--Chambly,Liberal ,58707.0,5295.0
+24011,Beloeil--Chambly,Bloc Quebecois ,58707.0,16091.0
+24011,Beloeil--Chambly,Green Party ,58707.0,914.0
+24011,Beloeil--Chambly,Other ,58707.0,6734.0
+24012,Berthier--Maskinonge,Conservative ,48964.0,6228.0
+24012,Berthier--Maskinonge,NDP-New Democratic Party ,48964.0,20193.0
+24012,Berthier--Maskinonge,Liberal ,48964.0,5911.0
+24012,Berthier--Maskinonge,Bloc Quebecois ,48964.0,15183.0
+24012,Berthier--Maskinonge,Green Party ,48964.0,1144.0
+24012,Berthier--Maskinonge,Other ,48964.0,304.0
+10002,Bonavista--Burin--Trinity,Conservative ,30858.0,9412.0
+10002,Bonavista--Burin--Trinity,NDP-New Democratic Party ,30858.0,4302.0
+10002,Bonavista--Burin--Trinity,Liberal ,30858.0,16806.0
+10002,Bonavista--Burin--Trinity,Bloc Quebecois ,30858.0,0.0
+10002,Bonavista--Burin--Trinity,Green Party ,30858.0,271.0
+10002,Bonavista--Burin--Trinity,Other ,30858.0,66.0
+24015,Bourassa,Conservative ,37913.0,3115.0
+24015,Bourassa,NDP-New Democratic Party ,37913.0,12268.0
+24015,Bourassa,Liberal ,37913.0,14585.0
+24015,Bourassa,Bloc Quebecois ,37913.0,7212.0
+24015,Bourassa,Green Party ,37913.0,589.0
+24015,Bourassa,Other ,37913.0,143.0
+48003,Bow River,Conservative ,36469.0,30412.0
+48003,Bow River,NDP-New Democratic Party ,36469.0,2975.0
+48003,Bow River,Liberal ,36469.0,1291.0
+48003,Bow River,Bloc Quebecois ,36469.0,0.0
+48003,Bow River,Green Party ,36469.0,1244.0
+48003,Bow River,Other ,36469.0,547.0
+35008,Brampton Centre,Conservative ,34798.0,16146.0
+35008,Brampton Centre,NDP-New Democratic Party ,34798.0,8074.0
+35008,Brampton Centre,Liberal ,34798.0,8823.0
+35008,Brampton Centre,Bloc Quebecois ,34798.0,0.0
+35008,Brampton Centre,Green Party ,34798.0,1548.0
+35008,Brampton Centre,Other ,34798.0,205.0
+35009,Brampton East,Conservative ,28623.0,8440.0
+35009,Brampton East,NDP-New Democratic Party ,28623.0,10775.0
+35009,Brampton East,Liberal ,28623.0,8775.0
+35009,Brampton East,Bloc Quebecois ,28623.0,0.0
+35009,Brampton East,Green Party ,28623.0,487.0
+35009,Brampton East,Other ,28623.0,148.0
+35010,Brampton North,Conservative ,39811.0,19455.0
+35010,Brampton North,NDP-New Democratic Party ,39811.0,7498.0
+35010,Brampton North,Liberal ,39811.0,11209.0
+35010,Brampton North,Bloc Quebecois ,39811.0,0.0
+35010,Brampton North,Green Party ,39811.0,1466.0
+35010,Brampton North,Other ,39811.0,184.0
+35011,Brampton South,Conservative ,35557.0,16148.0
+35011,Brampton South,NDP-New Democratic Party ,35557.0,5837.0
+35011,Brampton South,Liberal ,35557.0,12585.0
+35011,Brampton South,Bloc Quebecois ,35557.0,0.0
+35011,Brampton South,Green Party ,35557.0,804.0
+35011,Brampton South,Other ,35557.0,186.0
+35012,Brampton West,Conservative ,28506.0,11977.0
+35012,Brampton West,NDP-New Democratic Party ,28506.0,5594.0
+35012,Brampton West,Liberal ,28506.0,10285.0
+35012,Brampton West,Bloc Quebecois ,28506.0,0.0
+35012,Brampton West,Green Party ,28506.0,448.0
+35012,Brampton West,Other ,28506.0,201.0
+46001,Brandon--Souris,Conservative ,33298.0,21256.0
+46001,Brandon--Souris,NDP-New Democratic Party ,33298.0,8203.0
+46001,Brandon--Souris,Liberal ,33298.0,1912.0
+46001,Brandon--Souris,Bloc Quebecois ,33298.0,0.0
+46001,Brandon--Souris,Green Party ,33298.0,1912.0
+46001,Brandon--Souris,Other ,33298.0,18.0
+35013,Brantford--Brant,Conservative ,55085.0,26667.0
+35013,Brantford--Brant,NDP-New Democratic Party ,55085.0,15947.0
+35013,Brantford--Brant,Liberal ,55085.0,10410.0
+35013,Brantford--Brant,Bloc Quebecois ,55085.0,0.0
+35013,Brantford--Brant,Green Party ,55085.0,1766.0
+35013,Brantford--Brant,Other ,55085.0,295.0
+24016,Brome--Missisquoi,Conservative ,52538.0,6256.0
+24016,Brome--Missisquoi,NDP-New Democratic Party ,52538.0,22405.0
+24016,Brome--Missisquoi,Liberal ,52538.0,11588.0
+24016,Brome--Missisquoi,Bloc Quebecois ,52538.0,11171.0
+24016,Brome--Missisquoi,Green Party ,52538.0,1120.0
+24016,Brome--Missisquoi,Other ,52538.0,0.0
+24017,Brossard--Saint-Lambert,Conservative ,48986.0,6283.0
+24017,Brossard--Saint-Lambert,NDP-New Democratic Party ,48986.0,18031.0
+24017,Brossard--Saint-Lambert,Liberal ,48986.0,16046.0
+24017,Brossard--Saint-Lambert,Bloc Quebecois ,48986.0,7812.0
+24017,Brossard--Saint-Lambert,Green Party ,48986.0,740.0
+24017,Brossard--Saint-Lambert,Other ,48986.0,76.0
+35014,Bruce--Grey--Owen Sound,Conservative ,51054.0,28744.0
+35014,Bruce--Grey--Owen Sound,NDP-New Democratic Party ,51054.0,9008.0
+35014,Bruce--Grey--Owen Sound,Liberal ,51054.0,8203.0
+35014,Bruce--Grey--Owen Sound,Bloc Quebecois ,51054.0,0.0
+35014,Bruce--Grey--Owen Sound,Green Party ,51054.0,5099.0
+35014,Bruce--Grey--Owen Sound,Other ,51054.0,0.0
+35015,Burlington,Conservative ,61252.0,33162.0
+35015,Burlington,NDP-New Democratic Party ,61252.0,11548.0
+35015,Burlington,Liberal ,61252.0,14235.0
+35015,Burlington,Bloc Quebecois ,61252.0,0.0
+35015,Burlington,Green Party ,61252.0,2165.0
+35015,Burlington,Other ,61252.0,140.0
+59002,Burnaby North--Seymour,Conservative ,43290.0,19149.0
+59002,Burnaby North--Seymour,NDP-New Democratic Party ,43290.0,15218.0
+59002,Burnaby North--Seymour,Liberal ,43290.0,6804.0
+59002,Burnaby North--Seymour,Bloc Quebecois ,43290.0,0.0
+59002,Burnaby North--Seymour,Green Party ,43290.0,1681.0
+59002,Burnaby North--Seymour,Other ,43290.0,438.0
+59003,Burnaby South,Conservative ,36525.0,14471.0
+59003,Burnaby South,NDP-New Democratic Party ,36525.0,16071.0
+59003,Burnaby South,Liberal ,36525.0,4282.0
+59003,Burnaby South,Bloc Quebecois ,36525.0,0.0
+59003,Burnaby South,Green Party ,36525.0,1317.0
+59003,Burnaby South,Other ,36525.0,386.0
+48004,Calgary Centre,Conservative ,41451.0,22949.0
+48004,Calgary Centre,NDP-New Democratic Party ,41451.0,6286.0
+48004,Calgary Centre,Liberal ,41451.0,7926.0
+48004,Calgary Centre,Bloc Quebecois ,41451.0,0.0
+48004,Calgary Centre,Green Party ,41451.0,4283.0
+48004,Calgary Centre,Other ,41451.0,8.0
+48005,Calgary Confederation,Conservative ,50772.0,26619.0
+48005,Calgary Confederation,NDP-New Democratic Party ,50772.0,8035.0
+48005,Calgary Confederation,Liberal ,50772.0,8957.0
+48005,Calgary Confederation,Bloc Quebecois ,50772.0,0.0
+48005,Calgary Confederation,Green Party ,50772.0,6955.0
+48005,Calgary Confederation,Other ,50772.0,201.0
+48006,Calgary Forest Lawn,Conservative ,30900.0,19573.0
+48006,Calgary Forest Lawn,NDP-New Democratic Party ,30900.0,4064.0
+48006,Calgary Forest Lawn,Liberal ,30900.0,5396.0
+48006,Calgary Forest Lawn,Bloc Quebecois ,30900.0,0.0
+48006,Calgary Forest Lawn,Green Party ,30900.0,1638.0
+48006,Calgary Forest Lawn,Other ,30900.0,227.0
+48007,Calgary Heritage,Conservative ,46734.0,34761.0
+48007,Calgary Heritage,NDP-New Democratic Party ,46734.0,5662.0
+48007,Calgary Heritage,Liberal ,46734.0,3486.0
+48007,Calgary Heritage,Bloc Quebecois ,46734.0,0.0
+48007,Calgary Heritage,Green Party ,46734.0,2567.0
+48007,Calgary Heritage,Other ,46734.0,256.0
+48008,Calgary Midnapore,Conservative ,48776.0,37021.0
+48008,Calgary Midnapore,NDP-New Democratic Party ,48776.0,5146.0
+48008,Calgary Midnapore,Liberal ,48776.0,3124.0
+48008,Calgary Midnapore,Bloc Quebecois ,48776.0,0.0
+48008,Calgary Midnapore,Green Party ,48776.0,3137.0
+48008,Calgary Midnapore,Other ,48776.0,345.0
+48009,Calgary Nose Hill,Conservative ,42061.0,29143.0
+48009,Calgary Nose Hill,NDP-New Democratic Party ,42061.0,5377.0
+48009,Calgary Nose Hill,Liberal ,42061.0,4646.0
+48009,Calgary Nose Hill,Bloc Quebecois ,42061.0,0.0
+48009,Calgary Nose Hill,Green Party ,42061.0,2838.0
+48009,Calgary Nose Hill,Other ,42061.0,59.0
+48010,Calgary Rocky Ridge,Conservative ,44045.0,30178.0
+48010,Calgary Rocky Ridge,NDP-New Democratic Party ,44045.0,5050.0
+48010,Calgary Rocky Ridge,Liberal ,44045.0,5571.0
+48010,Calgary Rocky Ridge,Bloc Quebecois ,44045.0,0.0
+48010,Calgary Rocky Ridge,Green Party ,44045.0,3189.0
+48010,Calgary Rocky Ridge,Other ,44045.0,51.0
+48011,Calgary Shepard,Conservative ,39602.0,29905.0
+48011,Calgary Shepard,NDP-New Democratic Party ,39602.0,4407.0
+48011,Calgary Shepard,Liberal ,39602.0,2846.0
+48011,Calgary Shepard,Bloc Quebecois ,39602.0,0.0
+48011,Calgary Shepard,Green Party ,39602.0,2202.0
+48011,Calgary Shepard,Other ,39602.0,240.0
+48012,Calgary Signal Hill,Conservative ,44972.0,29199.0
+48012,Calgary Signal Hill,NDP-New Democratic Party ,44972.0,4759.0
+48012,Calgary Signal Hill,Liberal ,44972.0,6947.0
+48012,Calgary Signal Hill,Bloc Quebecois ,44972.0,0.0
+48012,Calgary Signal Hill,Green Party ,44972.0,3946.0
+48012,Calgary Signal Hill,Other ,44972.0,120.0
+48013,Calgary Skyview,Conservative ,29460.0,16573.0
+48013,Calgary Skyview,NDP-New Democratic Party ,29460.0,2958.0
+48013,Calgary Skyview,Liberal ,29460.0,8438.0
+48013,Calgary Skyview,Bloc Quebecois ,29460.0,0.0
+48013,Calgary Skyview,Green Party ,29460.0,1363.0
+48013,Calgary Skyview,Other ,29460.0,129.0
+35016,Cambridge,Conservative ,44829.0,23644.0
+35016,Cambridge,NDP-New Democratic Party ,44829.0,12512.0
+35016,Cambridge,Liberal ,44829.0,6923.0
+35016,Cambridge,Bloc Quebecois ,44829.0,0.0
+35016,Cambridge,Green Party ,44829.0,1614.0
+35016,Cambridge,Other ,44829.0,134.0
+12001,Cape Breton--Canso,Conservative ,38998.0,12719.0
+12001,Cape Breton--Canso,NDP-New Democratic Party ,38998.0,7817.0
+12001,Cape Breton--Canso,Liberal ,38998.0,17196.0
+12001,Cape Breton--Canso,Bloc Quebecois ,38998.0,0.0
+12001,Cape Breton--Canso,Green Party ,38998.0,1264.0
+12001,Cape Breton--Canso,Other ,38998.0,0.0
+11001,Cardigan,Conservative ,21130.0,8107.0
+11001,Cardigan,NDP-New Democratic Party ,21130.0,2164.0
+11001,Cardigan,Liberal ,21130.0,10486.0
+11001,Cardigan,Bloc Quebecois ,21130.0,0.0
+11001,Cardigan,Green Party ,21130.0,373.0
+11001,Cardigan,Other ,21130.0,0.0
+59004,Cariboo--Prince George,Conservative ,43237.0,24325.0
+59004,Cariboo--Prince George,NDP-New Democratic Party ,43237.0,13017.0
+59004,Cariboo--Prince George,Liberal ,43237.0,2191.0
+59004,Cariboo--Prince George,Bloc Quebecois ,43237.0,0.0
+59004,Cariboo--Prince George,Green Party ,43237.0,2673.0
+59004,Cariboo--Prince George,Other ,43237.0,1033.0
+35088,Carleton,Conservative ,46909.0,28929.0
+35088,Carleton,NDP-New Democratic Party ,46909.0,6262.0
+35088,Carleton,Liberal ,46909.0,9786.0
+35088,Carleton,Bloc Quebecois ,46909.0,0.0
+35088,Carleton,Green Party ,46909.0,1931.0
+35088,Carleton,Other ,46909.0,0.0
+47004,Carlton Trail--Eagle Creek,Conservative ,32640.0,22310.0
+47004,Carlton Trail--Eagle Creek,NDP-New Democratic Party ,32640.0,7962.0
+47004,Carlton Trail--Eagle Creek,Liberal ,32640.0,1278.0
+47004,Carlton Trail--Eagle Creek,Bloc Quebecois ,32640.0,0.0
+47004,Carlton Trail--Eagle Creek,Green Party ,32640.0,854.0
+47004,Carlton Trail--Eagle Creek,Other ,32640.0,236.0
+12002,Central Nova,Conservative ,38875.0,21494.0
+12002,Central Nova,NDP-New Democratic Party ,38875.0,10422.0
+12002,Central Nova,Liberal ,38875.0,5424.0
+12002,Central Nova,Bloc Quebecois ,38875.0,0.0
+12002,Central Nova,Green Party ,38875.0,1481.0
+12002,Central Nova,Other ,38875.0,57.0
+59005,Central Okanagan--Similkameen--Nicola,Conservative ,48893.0,26690.0
+59005,Central Okanagan--Similkameen--Nicola,NDP-New Democratic Party ,48893.0,12736.0
+59005,Central Okanagan--Similkameen--Nicola,Liberal ,48893.0,4918.0
+59005,Central Okanagan--Similkameen--Nicola,Bloc Quebecois ,48893.0,0.0
+59005,Central Okanagan--Similkameen--Nicola,Green Party ,48893.0,3796.0
+59005,Central Okanagan--Similkameen--Nicola,Other ,48893.0,754.0
+24019,Charlesbourg--Haute-Saint-Charles,Conservative ,53779.0,16288.0
+24019,Charlesbourg--Haute-Saint-Charles,NDP-New Democratic Party ,53779.0,24197.0
+24019,Charlesbourg--Haute-Saint-Charles,Liberal ,53779.0,3511.0
+24019,Charlesbourg--Haute-Saint-Charles,Bloc Quebecois ,53779.0,8756.0
+24019,Charlesbourg--Haute-Saint-Charles,Green Party ,53779.0,837.0
+24019,Charlesbourg--Haute-Saint-Charles,Other ,53779.0,189.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Conservative ,40418.0,23264.0
+46002,Charleswood--St. James--Assiniboia--Headingley,NDP-New Democratic Party ,40418.0,8134.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Liberal ,40418.0,7433.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Bloc Quebecois ,40418.0,0.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Green Party ,40418.0,1587.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Other ,40418.0,0.0
+11002,Charlottetown,Conservative ,18468.0,6040.0
+11002,Charlottetown,NDP-New Democratic Party ,18468.0,4632.0
+11002,Charlottetown,Liberal ,18468.0,7292.0
+11002,Charlottetown,Bloc Quebecois ,18468.0,0.0
+11002,Charlottetown,Green Party ,18468.0,417.0
+11002,Charlottetown,Other ,18468.0,87.0
+35017,Chatham-Kent--Leamington,Conservative ,46375.0,24672.0
+35017,Chatham-Kent--Leamington,NDP-New Democratic Party ,46375.0,12595.0
+35017,Chatham-Kent--Leamington,Liberal ,46375.0,7554.0
+35017,Chatham-Kent--Leamington,Bloc Quebecois ,46375.0,0.0
+35017,Chatham-Kent--Leamington,Green Party ,46375.0,1551.0
+35017,Chatham-Kent--Leamington,Other ,46375.0,4.0
+24022,Chicoutimi--Le Fjord,Conservative ,43096.0,11016.0
+24022,Chicoutimi--Le Fjord,NDP-New Democratic Party ,43096.0,16237.0
+24022,Chicoutimi--Le Fjord,Liberal ,43096.0,2480.0
+24022,Chicoutimi--Le Fjord,Bloc Quebecois ,43096.0,12418.0
+24022,Chicoutimi--Le Fjord,Green Party ,43096.0,655.0
+24022,Chicoutimi--Le Fjord,Other ,43096.0,288.0
+59006,Chilliwack--Hope,Conservative ,38190.0,22748.0
+59006,Chilliwack--Hope,NDP-New Democratic Party ,38190.0,8973.0
+59006,Chilliwack--Hope,Liberal ,38190.0,4273.0
+59006,Chilliwack--Hope,Bloc Quebecois ,38190.0,0.0
+59006,Chilliwack--Hope,Green Party ,38190.0,1923.0
+59006,Chilliwack--Hope,Other ,38190.0,276.0
+46003,Churchill--Keewatinook Aski,Conservative ,21203.0,5540.0
+46003,Churchill--Keewatinook Aski,NDP-New Democratic Party ,21203.0,10962.0
+46003,Churchill--Keewatinook Aski,Liberal ,21203.0,4213.0
+46003,Churchill--Keewatinook Aski,Bloc Quebecois ,21203.0,0.0
+46003,Churchill--Keewatinook Aski,Green Party ,21203.0,490.0
+46003,Churchill--Keewatinook Aski,Other ,21203.0,0.0
+24021,Ch�teauguay--Lacolle,Conservative ,45393.0,5460.0
+24021,Ch�teauguay--Lacolle,NDP-New Democratic Party ,45393.0,22116.0
+24021,Ch�teauguay--Lacolle,Liberal ,45393.0,4630.0
+24021,Ch�teauguay--Lacolle,Bloc Quebecois ,45393.0,12216.0
+24021,Ch�teauguay--Lacolle,Green Party ,45393.0,866.0
+24021,Ch�teauguay--Lacolle,Other ,45393.0,105.0
+59007,Cloverdale--Langley City,Conservative ,37639.0,21598.0
+59007,Cloverdale--Langley City,NDP-New Democratic Party ,37639.0,9288.0
+59007,Cloverdale--Langley City,Liberal ,37639.0,4442.0
+59007,Cloverdale--Langley City,Bloc Quebecois ,37639.0,0.0
+59007,Cloverdale--Langley City,Green Party ,37639.0,1738.0
+59007,Cloverdale--Langley City,Other ,37639.0,580.0
+10003,Coast of Bays--Central--Notre Dame,Conservative ,28777.0,8726.0
+10003,Coast of Bays--Central--Notre Dame,NDP-New Democratic Party ,28777.0,3920.0
+10003,Coast of Bays--Central--Notre Dame,Liberal ,28777.0,15805.0
+10003,Coast of Bays--Central--Notre Dame,Bloc Quebecois ,28777.0,0.0
+10003,Coast of Bays--Central--Notre Dame,Green Party ,28777.0,253.0
+10003,Coast of Bays--Central--Notre Dame,Other ,28777.0,74.0
+24023,Compton--Stanstead,Conservative ,49772.0,5900.0
+24023,Compton--Stanstead,NDP-New Democratic Party ,49772.0,23531.0
+24023,Compton--Stanstead,Liberal ,49772.0,5970.0
+24023,Compton--Stanstead,Bloc Quebecois ,49772.0,13153.0
+24023,Compton--Stanstead,Green Party ,49772.0,1210.0
+24023,Compton--Stanstead,Other ,49772.0,5.0
+59008,Coquitlam--Port Coquitlam,Conservative ,40285.0,22372.0
+59008,Coquitlam--Port Coquitlam,NDP-New Democratic Party ,40285.0,12476.0
+59008,Coquitlam--Port Coquitlam,Liberal ,40285.0,3330.0
+59008,Coquitlam--Port Coquitlam,Bloc Quebecois ,40285.0,0.0
+59008,Coquitlam--Port Coquitlam,Green Party ,40285.0,1744.0
+59008,Coquitlam--Port Coquitlam,Other ,40285.0,364.0
+59009,Courtenay--Alberni,Conservative ,57473.0,25798.0
+59009,Courtenay--Alberni,NDP-New Democratic Party ,57473.0,23399.0
+59009,Courtenay--Alberni,Liberal ,57473.0,3860.0
+59009,Courtenay--Alberni,Bloc Quebecois ,57473.0,0.0
+59009,Courtenay--Alberni,Green Party ,57473.0,3933.0
+59009,Courtenay--Alberni,Other ,57473.0,480.0
+59010,Cowichan--Malahat--Langford,Conservative ,47760.0,20567.0
+59010,Cowichan--Malahat--Langford,NDP-New Democratic Party ,47760.0,20818.0
+59010,Cowichan--Malahat--Langford,Liberal ,47760.0,2774.0
+59010,Cowichan--Malahat--Langford,Bloc Quebecois ,47760.0,0.0
+59010,Cowichan--Malahat--Langford,Green Party ,47760.0,3454.0
+59010,Cowichan--Malahat--Langford,Other ,47760.0,153.0
+12003,Cumberland--Colchester,Conservative ,37546.0,19875.0
+12003,Cumberland--Colchester,NDP-New Democratic Party ,37546.0,8439.0
+12003,Cumberland--Colchester,Liberal ,37546.0,6903.0
+12003,Cumberland--Colchester,Bloc Quebecois ,37546.0,0.0
+12003,Cumberland--Colchester,Green Party ,37546.0,2015.0
+12003,Cumberland--Colchester,Other ,37546.0,315.0
+47002,Cypress Hills--Grasslands,Conservative ,32408.0,22870.0
+47002,Cypress Hills--Grasslands,NDP-New Democratic Party ,32408.0,6741.0
+47002,Cypress Hills--Grasslands,Liberal ,32408.0,1895.0
+47002,Cypress Hills--Grasslands,Bloc Quebecois ,32408.0,0.0
+47002,Cypress Hills--Grasslands,Green Party ,32408.0,901.0
+47002,Cypress Hills--Grasslands,Other ,32408.0,0.0
+12004,Dartmouth--Cole Harbour,Conservative ,43999.0,11013.0
+12004,Dartmouth--Cole Harbour,NDP-New Democratic Party ,43999.0,16026.0
+12004,Dartmouth--Cole Harbour,Liberal ,43999.0,15279.0
+12004,Dartmouth--Cole Harbour,Bloc Quebecois ,43999.0,0.0
+12004,Dartmouth--Cole Harbour,Green Party ,43999.0,1683.0
+12004,Dartmouth--Cole Harbour,Other ,43999.0,0.0
+46004,Dauphin--Swan River--Neepawa,Conservative ,34429.0,22212.0
+46004,Dauphin--Swan River--Neepawa,NDP-New Democratic Party ,34429.0,8540.0
+46004,Dauphin--Swan River--Neepawa,Liberal ,34429.0,2180.0
+46004,Dauphin--Swan River--Neepawa,Bloc Quebecois ,34429.0,0.0
+46004,Dauphin--Swan River--Neepawa,Green Party ,34429.0,1470.0
+46004,Dauphin--Swan River--Neepawa,Other ,34429.0,27.0
+35018,Davenport,Conservative ,39063.0,5553.0
+35018,Davenport,NDP-New Democratic Party ,39063.0,20985.0
+35018,Davenport,Liberal ,39063.0,10897.0
+35018,Davenport,Bloc Quebecois ,39063.0,0.0
+35018,Davenport,Green Party ,39063.0,1335.0
+35018,Davenport,Other ,39063.0,294.0
+59011,Delta,Conservative ,45842.0,21983.0
+59011,Delta,NDP-New Democratic Party ,45842.0,12862.0
+59011,Delta,Liberal ,45842.0,8514.0
+59011,Delta,Bloc Quebecois ,45842.0,0.0
+59011,Delta,Green Party ,45842.0,2177.0
+59011,Delta,Other ,45842.0,307.0
+47003,Desnethe--Missinippi--Churchill River,Conservative ,20833.0,9766.0
+47003,Desnethe--Missinippi--Churchill River,NDP-New Democratic Party ,20833.0,9454.0
+47003,Desnethe--Missinippi--Churchill River,Liberal ,20833.0,1098.0
+47003,Desnethe--Missinippi--Churchill River,Bloc Quebecois ,20833.0,0.0
+47003,Desnethe--Missinippi--Churchill River,Green Party ,20833.0,513.0
+47003,Desnethe--Missinippi--Churchill River,Other ,20833.0,0.0
+35019,Don Valley East,Conservative ,35173.0,12794.0
+35019,Don Valley East,NDP-New Democratic Party ,35173.0,7694.0
+35019,Don Valley East,Liberal ,35173.0,13503.0
+35019,Don Valley East,Bloc Quebecois ,35173.0,0.0
+35019,Don Valley East,Green Party ,35173.0,993.0
+35019,Don Valley East,Other ,35173.0,188.0
+35020,Don Valley North,Conservative ,39214.0,15802.0
+35020,Don Valley North,NDP-New Democratic Party ,39214.0,8128.0
+35020,Don Valley North,Liberal ,39214.0,14626.0
+35020,Don Valley North,Bloc Quebecois ,39214.0,0.0
+35020,Don Valley North,Green Party ,39214.0,517.0
+35020,Don Valley North,Other ,39214.0,142.0
+35021,Don Valley West,Conservative ,45325.0,19894.0
+35021,Don Valley West,NDP-New Democratic Party ,45325.0,4872.0
+35021,Don Valley West,Liberal ,45325.0,18804.0
+35021,Don Valley West,Bloc Quebecois ,45325.0,0.0
+35021,Don Valley West,Green Party ,45325.0,1616.0
+35021,Don Valley West,Other ,45325.0,140.0
+24024,Dorval--Lachine--LaSalle,Conservative ,45512.0,6441.0
+24024,Dorval--Lachine--LaSalle,NDP-New Democratic Party ,45512.0,18712.0
+24024,Dorval--Lachine--LaSalle,Liberal ,45512.0,13382.0
+24024,Dorval--Lachine--LaSalle,Bloc Quebecois ,45512.0,5250.0
+24024,Dorval--Lachine--LaSalle,Green Party ,45512.0,1364.0
+24024,Dorval--Lachine--LaSalle,Other ,45512.0,361.0
+24025,Drummond,Conservative ,47420.0,7555.0
+24025,Drummond,NDP-New Democratic Party ,47420.0,24489.0
+24025,Drummond,Liberal ,47420.0,3979.0
+24025,Drummond,Bloc Quebecois ,47420.0,10410.0
+24025,Drummond,Green Party ,47420.0,987.0
+24025,Drummond,Other ,47420.0,0.0
+35022,Dufferin--Caledon,Conservative ,48549.0,28647.0
+35022,Dufferin--Caledon,NDP-New Democratic Party ,48549.0,6409.0
+35022,Dufferin--Caledon,Liberal ,48549.0,6361.0
+35022,Dufferin--Caledon,Bloc Quebecois ,48549.0,0.0
+35022,Dufferin--Caledon,Green Party ,48549.0,7132.0
+35022,Dufferin--Caledon,Other ,48549.0,0.0
+35023,Durham,Conservative ,50576.0,27901.0
+35023,Durham,NDP-New Democratic Party ,50576.0,12011.0
+35023,Durham,Liberal ,50576.0,7855.0
+35023,Durham,Bloc Quebecois ,50576.0,0.0
+35023,Durham,Green Party ,50576.0,2306.0
+35023,Durham,Other ,50576.0,499.0
+48014,Edmonton Centre,Conservative ,43091.0,19909.0
+48014,Edmonton Centre,NDP-New Democratic Party ,43091.0,11126.0
+48014,Edmonton Centre,Liberal ,43091.0,10226.0
+48014,Edmonton Centre,Bloc Quebecois ,43091.0,0.0
+48014,Edmonton Centre,Green Party ,43091.0,1535.0
+48014,Edmonton Centre,Other ,43091.0,297.0
+48015,Edmonton Griesbach,Conservative ,37766.0,19833.0
+48015,Edmonton Griesbach,NDP-New Democratic Party ,37766.0,14152.0
+48015,Edmonton Griesbach,Liberal ,37766.0,2483.0
+48015,Edmonton Griesbach,Bloc Quebecois ,37766.0,0.0
+48015,Edmonton Griesbach,Green Party ,37766.0,1298.0
+48015,Edmonton Griesbach,Other ,37766.0,0.0
+48016,Edmonton Manning,Conservative ,34179.0,18954.0
+48016,Edmonton Manning,NDP-New Democratic Party ,34179.0,9082.0
+48016,Edmonton Manning,Liberal ,34179.0,3112.0
+48016,Edmonton Manning,Bloc Quebecois ,34179.0,0.0
+48016,Edmonton Manning,Green Party ,34179.0,983.0
+48016,Edmonton Manning,Other ,34179.0,2049.0
+48017,Edmonton Mill Woods,Conservative ,35452.0,20895.0
+48017,Edmonton Mill Woods,NDP-New Democratic Party ,35452.0,9005.0
+48017,Edmonton Mill Woods,Liberal ,35452.0,4157.0
+48017,Edmonton Mill Woods,Bloc Quebecois ,35452.0,0.0
+48017,Edmonton Mill Woods,Green Party ,35452.0,1062.0
+48017,Edmonton Mill Woods,Other ,35452.0,335.0
+48018,Edmonton Riverbend,Conservative ,43269.0,25689.0
+48018,Edmonton Riverbend,NDP-New Democratic Party ,43269.0,9158.0
+48018,Edmonton Riverbend,Liberal ,43269.0,6271.0
+48018,Edmonton Riverbend,Bloc Quebecois ,43269.0,0.0
+48018,Edmonton Riverbend,Green Party ,43269.0,2149.0
+48018,Edmonton Riverbend,Other ,43269.0,0.0
+48019,Edmonton Strathcona,Conservative ,49808.0,20084.0
+48019,Edmonton Strathcona,NDP-New Democratic Party ,49808.0,26752.0
+48019,Edmonton Strathcona,Liberal ,49808.0,1422.0
+48019,Edmonton Strathcona,Bloc Quebecois ,49808.0,0.0
+48019,Edmonton Strathcona,Green Party ,49808.0,1165.0
+48019,Edmonton Strathcona,Other ,49808.0,384.0
+48020,Edmonton West,Conservative ,38527.0,24733.0
+48020,Edmonton West,NDP-New Democratic Party ,38527.0,7502.0
+48020,Edmonton West,Liberal ,38527.0,4801.0
+48020,Edmonton West,Bloc Quebecois ,38527.0,0.0
+48020,Edmonton West,Green Party ,38527.0,1416.0
+48020,Edmonton West,Other ,38527.0,73.0
+48021,Edmonton--Wetaskiwin,Conservative ,41280.0,31196.0
+48021,Edmonton--Wetaskiwin,NDP-New Democratic Party ,41280.0,5892.0
+48021,Edmonton--Wetaskiwin,Liberal ,41280.0,2364.0
+48021,Edmonton--Wetaskiwin,Bloc Quebecois ,41280.0,0.0
+48021,Edmonton--Wetaskiwin,Green Party ,41280.0,1688.0
+48021,Edmonton--Wetaskiwin,Other ,41280.0,142.0
+35024,Eglinton--Lawrence,Conservative ,48389.0,22652.0
+35024,Eglinton--Lawrence,NDP-New Democratic Party ,48389.0,5613.0
+35024,Eglinton--Lawrence,Liberal ,48389.0,18590.0
+35024,Eglinton--Lawrence,Bloc Quebecois ,48389.0,0.0
+35024,Eglinton--Lawrence,Green Party ,48389.0,1534.0
+35024,Eglinton--Lawrence,Other ,48389.0,0.0
+11003,Egmont,Conservative ,19153.0,10467.0
+11003,Egmont,NDP-New Democratic Party ,19153.0,2369.0
+11003,Egmont,Liberal ,19153.0,5997.0
+11003,Egmont,Bloc Quebecois ,19153.0,0.0
+11003,Egmont,Green Party ,19153.0,320.0
+11003,Egmont,Other ,19153.0,0.0
+35025,Elgin--Middlesex--London,Conservative ,48898.0,28388.0
+35025,Elgin--Middlesex--London,NDP-New Democratic Party ,48898.0,11774.0
+35025,Elgin--Middlesex--London,Liberal ,48898.0,6559.0
+35025,Elgin--Middlesex--London,Bloc Quebecois ,48898.0,0.0
+35025,Elgin--Middlesex--London,Green Party ,48898.0,1478.0
+35025,Elgin--Middlesex--London,Other ,48898.0,700.0
+46005,Elmwood--Transcona,Conservative ,34290.0,16085.0
+46005,Elmwood--Transcona,NDP-New Democratic Party ,34290.0,15363.0
+46005,Elmwood--Transcona,Liberal ,34290.0,1779.0
+46005,Elmwood--Transcona,Bloc Quebecois ,34290.0,0.0
+46005,Elmwood--Transcona,Green Party ,34290.0,1053.0
+46005,Elmwood--Transcona,Other ,34290.0,7.0
+59026,Esquimalt--Saanich--Sooke,Conservative ,56654.0,21305.0
+59026,Esquimalt--Saanich--Sooke,NDP-New Democratic Party ,56654.0,22325.0
+59026,Esquimalt--Saanich--Sooke,Liberal ,56654.0,5494.0
+59026,Esquimalt--Saanich--Sooke,Bloc Quebecois ,56654.0,0.0
+59026,Esquimalt--Saanich--Sooke,Green Party ,56654.0,7286.0
+59026,Esquimalt--Saanich--Sooke,Other ,56654.0,242.0
+35026,Essex,Conservative ,50220.0,24239.0
+35026,Essex,NDP-New Democratic Party ,50220.0,17529.0
+35026,Essex,Liberal ,50220.0,7161.0
+35026,Essex,Bloc Quebecois ,50220.0,0.0
+35026,Essex,Green Party ,50220.0,1217.0
+35026,Essex,Other ,50220.0,73.0
+35027,Etobicoke Centre,Conservative ,53290.0,22307.0
+35027,Etobicoke Centre,NDP-New Democratic Party ,53290.0,7792.0
+35027,Etobicoke Centre,Liberal ,53290.0,21616.0
+35027,Etobicoke Centre,Bloc Quebecois ,53290.0,0.0
+35027,Etobicoke Centre,Green Party ,53290.0,1431.0
+35027,Etobicoke Centre,Other ,53290.0,146.0
+35028,Etobicoke--Lakeshore,Conservative ,50916.0,20486.0
+35028,Etobicoke--Lakeshore,NDP-New Democratic Party ,50916.0,10338.0
+35028,Etobicoke--Lakeshore,Liberal ,50916.0,17866.0
+35028,Etobicoke--Lakeshore,Bloc Quebecois ,50916.0,0.0
+35028,Etobicoke--Lakeshore,Green Party ,50916.0,2047.0
+35028,Etobicoke--Lakeshore,Other ,50916.0,183.0
+35029,Etobicoke North,Conservative ,35072.0,11207.0
+35029,Etobicoke North,NDP-New Democratic Party ,35072.0,8283.0
+35029,Etobicoke North,Liberal ,35072.0,14929.0
+35029,Etobicoke North,Bloc Quebecois ,35072.0,0.0
+35029,Etobicoke North,Green Party ,35072.0,60.0
+35029,Etobicoke North,Other ,35072.0,594.0
+35030,Flamborough--Glanbrook,Conservative ,45384.0,25144.0
+35030,Flamborough--Glanbrook,NDP-New Democratic Party ,45384.0,10344.0
+35030,Flamborough--Glanbrook,Liberal ,45384.0,7671.0
+35030,Flamborough--Glanbrook,Bloc Quebecois ,45384.0,0.0
+35030,Flamborough--Glanbrook,Green Party ,45384.0,1892.0
+35030,Flamborough--Glanbrook,Other ,45384.0,336.0
+59012,Fleetwood--Port Kells,Conservative ,34583.0,16543.0
+59012,Fleetwood--Port Kells,NDP-New Democratic Party ,34583.0,11435.0
+59012,Fleetwood--Port Kells,Liberal ,34583.0,5418.0
+59012,Fleetwood--Port Kells,Bloc Quebecois ,34583.0,0.0
+59012,Fleetwood--Port Kells,Green Party ,34583.0,888.0
+59012,Fleetwood--Port Kells,Other ,34583.0,306.0
+48022,Foothills,Conservative ,46129.0,35899.0
+48022,Foothills,NDP-New Democratic Party ,46129.0,4655.0
+48022,Foothills,Liberal ,46129.0,1624.0
+48022,Foothills,Bloc Quebecois ,46129.0,0.0
+48022,Foothills,Green Party ,46129.0,2193.0
+48022,Foothills,Other ,46129.0,1758.0
+48023,Fort McMurray--Cold Lake,Conservative ,25650.0,18602.0
+48023,Fort McMurray--Cold Lake,NDP-New Democratic Party ,25650.0,3366.0
+48023,Fort McMurray--Cold Lake,Liberal ,25650.0,2767.0
+48023,Fort McMurray--Cold Lake,Bloc Quebecois ,25650.0,0.0
+48023,Fort McMurray--Cold Lake,Green Party ,25650.0,915.0
+48023,Fort McMurray--Cold Lake,Other ,25650.0,0.0
+13003,Fredericton,Conservative ,38772.0,18213.0
+13003,Fredericton,NDP-New Democratic Party ,38772.0,9422.0
+13003,Fredericton,Liberal ,38772.0,9314.0
+13003,Fredericton,Bloc Quebecois ,38772.0,0.0
+13003,Fredericton,Green Party ,38772.0,1609.0
+13003,Fredericton,Other ,38772.0,214.0
+13004,Fundy Royal,Conservative ,39374.0,22817.0
+13004,Fundy Royal,NDP-New Democratic Party ,39374.0,10577.0
+13004,Fundy Royal,Liberal ,39374.0,4109.0
+13004,Fundy Royal,Bloc Quebecois ,39374.0,0.0
+13004,Fundy Royal,Green Party ,39374.0,1859.0
+13004,Fundy Royal,Other ,39374.0,6.0
+24026,Gaspesie--Les �les-de-la-Madeleine,Conservative ,35332.0,6738.0
+24026,Gaspesie--Les �les-de-la-Madeleine,NDP-New Democratic Party ,35332.0,10186.0
+24026,Gaspesie--Les �les-de-la-Madeleine,Liberal ,35332.0,6021.0
+24026,Gaspesie--Les �les-de-la-Madeleine,Bloc Quebecois ,35332.0,11684.0
+24026,Gaspesie--Les �les-de-la-Madeleine,Green Party ,35332.0,702.0
+24026,Gaspesie--Les �les-de-la-Madeleine,Other ,35332.0,0.0
+24027,Gatineau,Conservative ,51335.0,4110.0
+24027,Gatineau,NDP-New Democratic Party ,51335.0,31894.0
+24027,Gatineau,Liberal ,51335.0,7082.0
+24027,Gatineau,Bloc Quebecois ,51335.0,7664.0
+24027,Gatineau,Green Party ,51335.0,586.0
+24027,Gatineau,Other ,51335.0,0.0
+35031,Glengarry--Prescott--Russell,Conservative ,54904.0,26802.0
+35031,Glengarry--Prescott--Russell,NDP-New Democratic Party ,54904.0,9149.0
+35031,Glengarry--Prescott--Russell,Liberal ,54904.0,16801.0
+35031,Glengarry--Prescott--Russell,Bloc Quebecois ,54904.0,0.0
+35031,Glengarry--Prescott--Russell,Green Party ,54904.0,1964.0
+35031,Glengarry--Prescott--Russell,Other ,54904.0,187.0
+48024,Grande Prairie--Mackenzie,Conservative ,33845.0,25763.0
+48024,Grande Prairie--Mackenzie,NDP-New Democratic Party ,33845.0,5212.0
+48024,Grande Prairie--Mackenzie,Liberal ,33845.0,1076.0
+48024,Grande Prairie--Mackenzie,Bloc Quebecois ,33845.0,0.0
+48024,Grande Prairie--Mackenzie,Green Party ,33845.0,1271.0
+48024,Grande Prairie--Mackenzie,Other ,33845.0,525.0
+35032,Guelph,Conservative ,59021.0,19352.0
+35032,Guelph,NDP-New Democratic Party ,59021.0,9880.0
+35032,Guelph,Liberal ,59021.0,25588.0
+35032,Guelph,Bloc Quebecois ,59021.0,0.0
+35032,Guelph,Green Party ,59021.0,3619.0
+35032,Guelph,Other ,59021.0,582.0
+35033,Haldimand--Norfolk,Conservative ,50366.0,25655.0
+35033,Haldimand--Norfolk,NDP-New Democratic Party ,50366.0,10062.0
+35033,Haldimand--Norfolk,Liberal ,50366.0,12549.0
+35033,Haldimand--Norfolk,Bloc Quebecois ,50366.0,0.0
+35033,Haldimand--Norfolk,Green Party ,50366.0,1665.0
+35033,Haldimand--Norfolk,Other ,50366.0,435.0
+35034,Haliburton--Kawartha Lakes--Brock,Conservative ,54701.0,32841.0
+35034,Haliburton--Kawartha Lakes--Brock,NDP-New Democratic Party ,54701.0,12068.0
+35034,Haliburton--Kawartha Lakes--Brock,Liberal ,54701.0,7030.0
+35034,Haliburton--Kawartha Lakes--Brock,Bloc Quebecois ,54701.0,0.0
+35034,Haliburton--Kawartha Lakes--Brock,Green Party ,54701.0,2760.0
+35034,Haliburton--Kawartha Lakes--Brock,Other ,54701.0,0.0
+12005,Halifax,Conservative ,46033.0,8292.0
+12005,Halifax,NDP-New Democratic Party ,46033.0,23761.0
+12005,Halifax,Liberal ,46033.0,11805.0
+12005,Halifax,Bloc Quebecois ,46033.0,0.0
+12005,Halifax,Green Party ,46033.0,2022.0
+12005,Halifax,Other ,46033.0,152.0
+12006,Halifax West,Conservative ,39779.0,12005.0
+12006,Halifax West,NDP-New Democratic Party ,39779.0,11317.0
+12006,Halifax West,Liberal ,39779.0,14824.0
+12006,Halifax West,Bloc Quebecois ,39779.0,0.0
+12006,Halifax West,Green Party ,39779.0,1632.0
+12006,Halifax West,Other ,39779.0,0.0
+35035,Hamilton Centre,Conservative ,34423.0,8078.0
+35035,Hamilton Centre,NDP-New Democratic Party ,34423.0,20742.0
+35035,Hamilton Centre,Liberal ,34423.0,4509.0
+35035,Hamilton Centre,Bloc Quebecois ,34423.0,0.0
+35035,Hamilton Centre,Green Party ,34423.0,172.0
+35035,Hamilton Centre,Other ,34423.0,925.0
+35036,Hamilton East--Stoney Creek,Conservative ,44848.0,16557.0
+35036,Hamilton East--Stoney Creek,NDP-New Democratic Party ,44848.0,19848.0
+35036,Hamilton East--Stoney Creek,Liberal ,44848.0,6090.0
+35036,Hamilton East--Stoney Creek,Bloc Quebecois ,44848.0,0.0
+35036,Hamilton East--Stoney Creek,Green Party ,44848.0,1278.0
+35036,Hamilton East--Stoney Creek,Other ,44848.0,1075.0
+35037,Hamilton Mountain,Conservative ,45009.0,14535.0
+35037,Hamilton Mountain,NDP-New Democratic Party ,45009.0,21806.0
+35037,Hamilton Mountain,Liberal ,45009.0,7041.0
+35037,Hamilton Mountain,Bloc Quebecois ,45009.0,0.0
+35037,Hamilton Mountain,Green Party ,45009.0,1270.0
+35037,Hamilton Mountain,Other ,45009.0,358.0
+35038,Hamilton West--Ancaster--Dundas,Conservative ,53204.0,22555.0
+35038,Hamilton West--Ancaster--Dundas,NDP-New Democratic Party ,53204.0,14997.0
+35038,Hamilton West--Ancaster--Dundas,Liberal ,53204.0,13254.0
+35038,Hamilton West--Ancaster--Dundas,Bloc Quebecois ,53204.0,0.0
+35038,Hamilton West--Ancaster--Dundas,Green Party ,53204.0,1985.0
+35038,Hamilton West--Ancaster--Dundas,Other ,53204.0,408.0
+35039,Hastings--Lennox and Addington,Conservative ,43076.0,23629.0
+35039,Hastings--Lennox and Addington,NDP-New Democratic Party ,43076.0,10335.0
+35039,Hastings--Lennox and Addington,Liberal ,43076.0,7352.0
+35039,Hastings--Lennox and Addington,Bloc Quebecois ,43076.0,0.0
+35039,Hastings--Lennox and Addington,Green Party ,43076.0,1476.0
+35039,Hastings--Lennox and Addington,Other ,43076.0,285.0
+24028,Hochelaga,Conservative ,47231.0,3403.0
+24028,Hochelaga,NDP-New Democratic Party ,47231.0,22425.0
+24028,Hochelaga,Liberal ,47231.0,5544.0
+24028,Hochelaga,Bloc Quebecois ,47231.0,14529.0
+24028,Hochelaga,Green Party ,47231.0,790.0
+24028,Hochelaga,Other ,47231.0,547.0
+24029,Honore-Mercier,Conservative ,45019.0,5857.0
+24029,Honore-Mercier,NDP-New Democratic Party ,45019.0,15856.0
+24029,Honore-Mercier,Liberal ,45019.0,15083.0
+24029,Honore-Mercier,Bloc Quebecois ,45019.0,7205.0
+24029,Honore-Mercier,Green Party ,45019.0,726.0
+24029,Honore-Mercier,Other ,45019.0,297.0
+24030,Hull--Aylmer,Conservative ,50278.0,5050.0
+24030,Hull--Aylmer,NDP-New Democratic Party ,50278.0,29552.0
+24030,Hull--Aylmer,Liberal ,50278.0,10304.0
+24030,Hull--Aylmer,Bloc Quebecois ,50278.0,4362.0
+24030,Hull--Aylmer,Green Party ,50278.0,1012.0
+24030,Hull--Aylmer,Other ,50278.0,0.0
+35121,Humber River--Black Creek,Conservative ,27724.0,6122.0
+35121,Humber River--Black Creek,NDP-New Democratic Party ,27724.0,7721.0
+35121,Humber River--Black Creek,Liberal ,27724.0,13030.0
+35121,Humber River--Black Creek,Bloc Quebecois ,27724.0,0.0
+35121,Humber River--Black Creek,Green Party ,27724.0,450.0
+35121,Humber River--Black Creek,Other ,27724.0,401.0
+35040,Huron--Bruce,Conservative ,53241.0,29255.0
+35040,Huron--Bruce,NDP-New Democratic Party ,53241.0,13493.0
+35040,Huron--Bruce,Liberal ,53241.0,8784.0
+35040,Huron--Bruce,Bloc Quebecois ,53241.0,0.0
+35040,Huron--Bruce,Green Party ,53241.0,1455.0
+35040,Huron--Bruce,Other ,53241.0,254.0
+24031,Joliette,Conservative ,50750.0,4919.0
+24031,Joliette,NDP-New Democratic Party ,50750.0,23813.0
+24031,Joliette,Liberal ,50750.0,3244.0
+24031,Joliette,Bloc Quebecois ,50750.0,16751.0
+24031,Joliette,Green Party ,50750.0,2025.0
+24031,Joliette,Other ,50750.0,0.0
+24032,Jonquiere,Conservative ,46655.0,15926.0
+24032,Jonquiere,NDP-New Democratic Party ,46655.0,19829.0
+24032,Jonquiere,Liberal ,46655.0,1264.0
+24032,Jonquiere,Bloc Quebecois ,46655.0,8985.0
+24032,Jonquiere,Green Party ,46655.0,601.0
+24032,Jonquiere,Other ,46655.0,52.0
+59013,Kamloops--Thompson--Cariboo,Conservative ,55993.0,29279.0
+59013,Kamloops--Thompson--Cariboo,NDP-New Democratic Party ,55993.0,20682.0
+59013,Kamloops--Thompson--Cariboo,Liberal ,55993.0,3001.0
+59013,Kamloops--Thompson--Cariboo,Bloc Quebecois ,55993.0,0.0
+59013,Kamloops--Thompson--Cariboo,Green Party ,55993.0,2847.0
+59013,Kamloops--Thompson--Cariboo,Other ,55993.0,185.0
+35041,Kanata--Carleton,Conservative ,50803.0,27285.0
+35041,Kanata--Carleton,NDP-New Democratic Party ,50803.0,7765.0
+35041,Kanata--Carleton,Liberal ,50803.0,13445.0
+35041,Kanata--Carleton,Bloc Quebecois ,50803.0,0.0
+35041,Kanata--Carleton,Green Party ,50803.0,2307.0
+35041,Kanata--Carleton,Other ,50803.0,0.0
+59014,Kelowna--Lake Country,Conservative ,48339.0,28220.0
+59014,Kelowna--Lake Country,NDP-New Democratic Party ,48339.0,10328.0
+59014,Kelowna--Lake Country,Liberal ,48339.0,5546.0
+59014,Kelowna--Lake Country,Bloc Quebecois ,48339.0,0.0
+59014,Kelowna--Lake Country,Green Party ,48339.0,4244.0
+59014,Kelowna--Lake Country,Other ,48339.0,0.0
+35042,Kenora,Conservative ,24586.0,11567.0
+35042,Kenora,NDP-New Democratic Party ,24586.0,6855.0
+35042,Kenora,Liberal ,24586.0,5381.0
+35042,Kenora,Bloc Quebecois ,24586.0,0.0
+35042,Kenora,Green Party ,24586.0,636.0
+35042,Kenora,Other ,24586.0,147.0
+46006,Kildonan--St. Paul,Conservative ,36628.0,21416.0
+46006,Kildonan--St. Paul,NDP-New Democratic Party ,36628.0,11007.0
+46006,Kildonan--St. Paul,Liberal ,36628.0,2887.0
+46006,Kildonan--St. Paul,Bloc Quebecois ,36628.0,0.0
+46006,Kildonan--St. Paul,Green Party ,36628.0,970.0
+46006,Kildonan--St. Paul,Other ,36628.0,348.0
+12007,Kings--Hants,Conservative ,40164.0,14714.0
+12007,Kings--Hants,NDP-New Democratic Party ,40164.0,8043.0
+12007,Kings--Hants,Liberal ,40164.0,15887.0
+12007,Kings--Hants,Bloc Quebecois ,40164.0,0.0
+12007,Kings--Hants,Green Party ,40164.0,1520.0
+12007,Kings--Hants,Other ,40164.0,0.0
+35044,Kingston and the Islands,Conservative ,56636.0,19288.0
+35044,Kingston and the Islands,NDP-New Democratic Party ,56636.0,12242.0
+35044,Kingston and the Islands,Liberal ,56636.0,22666.0
+35044,Kingston and the Islands,Bloc Quebecois ,56636.0,0.0
+35044,Kingston and the Islands,Green Party ,56636.0,2437.0
+35044,Kingston and the Islands,Other ,56636.0,0.0
+35043,King--Vaughan,Conservative ,38823.0,22177.0
+35043,King--Vaughan,NDP-New Democratic Party ,38823.0,4779.0
+35043,King--Vaughan,Liberal ,38823.0,10676.0
+35043,King--Vaughan,Bloc Quebecois ,38823.0,0.0
+35043,King--Vaughan,Green Party ,38823.0,1063.0
+35043,King--Vaughan,Other ,38823.0,127.0
+35045,Kitchener Centre,Conservative ,46997.0,18968.0
+35045,Kitchener Centre,NDP-New Democratic Party ,46997.0,10305.0
+35045,Kitchener Centre,Liberal ,46997.0,15175.0
+35045,Kitchener Centre,Bloc Quebecois ,46997.0,0.0
+35045,Kitchener Centre,Green Party ,46997.0,2155.0
+35045,Kitchener Centre,Other ,46997.0,395.0
+35046,Kitchener--Conestoga,Conservative ,40274.0,21915.0
+35046,Kitchener--Conestoga,NDP-New Democratic Party ,40274.0,7351.0
+35046,Kitchener--Conestoga,Liberal ,40274.0,9454.0
+35046,Kitchener--Conestoga,Bloc Quebecois ,40274.0,0.0
+35046,Kitchener--Conestoga,Green Party ,40274.0,1468.0
+35046,Kitchener--Conestoga,Other ,40274.0,86.0
+35047,Kitchener South--Hespeler,Conservative ,39662.0,20306.0
+35047,Kitchener South--Hespeler,NDP-New Democratic Party ,39662.0,10219.0
+35047,Kitchener South--Hespeler,Liberal ,39662.0,7506.0
+35047,Kitchener South--Hespeler,Bloc Quebecois ,39662.0,0.0
+35047,Kitchener South--Hespeler,Green Party ,39662.0,1587.0
+35047,Kitchener South--Hespeler,Other ,39662.0,47.0
+59015,Kootenay--Columbia,Conservative ,52801.0,26448.0
+59015,Kootenay--Columbia,NDP-New Democratic Party ,52801.0,20510.0
+59015,Kootenay--Columbia,Liberal ,52801.0,1840.0
+59015,Kootenay--Columbia,Bloc Quebecois ,52801.0,0.0
+59015,Kootenay--Columbia,Green Party ,52801.0,3394.0
+59015,Kootenay--Columbia,Other ,52801.0,609.0
+10004,Labrador,Conservative ,10692.0,4256.0
+10004,Labrador,NDP-New Democratic Party ,10692.0,2120.0
+10004,Labrador,Liberal ,10692.0,4177.0
+10004,Labrador,Bloc Quebecois ,10692.0,0.0
+10004,Labrador,Green Party ,10692.0,139.0
+10004,Labrador,Other ,10692.0,0.0
+24035,Lac-Saint-Jean,Conservative ,54290.0,22946.0
+24035,Lac-Saint-Jean,NDP-New Democratic Party ,54290.0,17446.0
+24035,Lac-Saint-Jean,Liberal ,54290.0,1766.0
+24035,Lac-Saint-Jean,Bloc Quebecois ,54290.0,11403.0
+24035,Lac-Saint-Jean,Green Party ,54290.0,729.0
+24035,Lac-Saint-Jean,Other ,54290.0,0.0
+24036,Lac-Saint-Louis,Conservative ,54261.0,15434.0
+24036,Lac-Saint-Louis,NDP-New Democratic Party ,54261.0,16312.0
+24036,Lac-Saint-Louis,Liberal ,54261.0,18502.0
+24036,Lac-Saint-Louis,Bloc Quebecois ,54261.0,1693.0
+24036,Lac-Saint-Louis,Green Party ,54261.0,2319.0
+24036,Lac-Saint-Louis,Other ,54261.0,0.0
+48025,Lakeland,Conservative ,41182.0,32527.0
+48025,Lakeland,NDP-New Democratic Party ,41182.0,4623.0
+48025,Lakeland,Liberal ,41182.0,2101.0
+48025,Lakeland,Bloc Quebecois ,41182.0,0.0
+48025,Lakeland,Green Party ,41182.0,1739.0
+48025,Lakeland,Other ,41182.0,191.0
+35048,Lambton--Kent--Middlesex,Conservative ,50776.0,29322.0
+35048,Lambton--Kent--Middlesex,NDP-New Democratic Party ,50776.0,12162.0
+35048,Lambton--Kent--Middlesex,Liberal ,50776.0,7186.0
+35048,Lambton--Kent--Middlesex,Bloc Quebecois ,50776.0,0.0
+35048,Lambton--Kent--Middlesex,Green Party ,50776.0,1693.0
+35048,Lambton--Kent--Middlesex,Other ,50776.0,413.0
+35049,Lanark--Frontenac--Kingston,Conservative ,50182.0,30151.0
+35049,Lanark--Frontenac--Kingston,NDP-New Democratic Party ,50182.0,9092.0
+35049,Lanark--Frontenac--Kingston,Liberal ,50182.0,8219.0
+35049,Lanark--Frontenac--Kingston,Bloc Quebecois ,50182.0,0.0
+35049,Lanark--Frontenac--Kingston,Green Party ,50182.0,2451.0
+35049,Lanark--Frontenac--Kingston,Other ,50182.0,274.0
+59016,Langley--Aldergrove,Conservative ,44641.0,29383.0
+59016,Langley--Aldergrove,NDP-New Democratic Party ,44641.0,8637.0
+59016,Langley--Aldergrove,Liberal ,44641.0,4009.0
+59016,Langley--Aldergrove,Bloc Quebecois ,44641.0,0.0
+59016,Langley--Aldergrove,Green Party ,44641.0,2345.0
+59016,Langley--Aldergrove,Other ,44641.0,264.0
+24033,La Pointe-de-l'�le,Conservative ,49685.0,3801.0
+24033,La Pointe-de-l'�le,NDP-New Democratic Party ,49685.0,23615.0
+24033,La Pointe-de-l'�le,Liberal ,49685.0,5016.0
+24033,La Pointe-de-l'�le,Bloc Quebecois ,49685.0,16081.0
+24033,La Pointe-de-l'�le,Green Party ,49685.0,936.0
+24033,La Pointe-de-l'�le,Other ,49685.0,238.0
+24034,La Prairie,Conservative ,50653.0,4786.0
+24034,La Prairie,NDP-New Democratic Party ,50653.0,25308.0
+24034,La Prairie,Liberal ,50653.0,6696.0
+24034,La Prairie,Bloc Quebecois ,50653.0,13034.0
+24034,La Prairie,Green Party ,50653.0,735.0
+24034,La Prairie,Other ,50653.0,91.0
+24037,LaSalle--emard--Verdun,Conservative ,48865.0,4759.0
+24037,LaSalle--emard--Verdun,NDP-New Democratic Party ,48865.0,22071.0
+24037,LaSalle--emard--Verdun,Liberal ,48865.0,8939.0
+24037,LaSalle--emard--Verdun,Bloc Quebecois ,48865.0,11453.0
+24037,LaSalle--emard--Verdun,Green Party ,48865.0,1248.0
+24037,LaSalle--emard--Verdun,Other ,48865.0,392.0
+24038,Laurentides--Labelle,Conservative ,56586.0,5246.0
+24038,Laurentides--Labelle,NDP-New Democratic Party ,56586.0,24800.0
+24038,Laurentides--Labelle,Liberal ,56586.0,7169.0
+24038,Laurentides--Labelle,Bloc Quebecois ,56586.0,17799.0
+24038,Laurentides--Labelle,Green Party ,56586.0,1423.0
+24038,Laurentides--Labelle,Other ,56586.0,149.0
+24039,Laurier--Sainte-Marie,Conservative ,51098.0,2018.0
+24039,Laurier--Sainte-Marie,NDP-New Democratic Party ,51098.0,23750.0
+24039,Laurier--Sainte-Marie,Liberal ,51098.0,5453.0
+24039,Laurier--Sainte-Marie,Bloc Quebecois ,51098.0,17855.0
+24039,Laurier--Sainte-Marie,Green Party ,51098.0,1349.0
+24039,Laurier--Sainte-Marie,Other ,51098.0,677.0
+24040,Laval--Les �les,Conservative ,44642.0,7333.0
+24040,Laval--Les �les,NDP-New Democratic Party ,44642.0,21069.0
+24040,Laval--Les �les,Liberal ,44642.0,9207.0
+24040,Laval--Les �les,Bloc Quebecois ,44642.0,5755.0
+24040,Laval--Les �les,Green Party ,44642.0,794.0
+24040,Laval--Les �les,Other ,44642.0,483.0
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Conservative ,49319.0,29989.0
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,NDP-New Democratic Party ,49319.0,9032.0
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Liberal ,49319.0,7839.0
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Bloc Quebecois ,49319.0,0.0
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Green Party ,49319.0,2460.0
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Other ,49319.0,0.0
+48026,Lethbridge,Conservative ,41163.0,21618.0
+48026,Lethbridge,NDP-New Democratic Party ,41163.0,12329.0
+48026,Lethbridge,Liberal ,41163.0,3759.0
+48026,Lethbridge,Bloc Quebecois ,41163.0,0.0
+48026,Lethbridge,Green Party ,41163.0,1845.0
+48026,Lethbridge,Other ,41163.0,1614.0
+24042,Levis--Lotbiniere,Conservative ,56344.0,22469.0
+24042,Levis--Lotbiniere,NDP-New Democratic Party ,56344.0,21688.0
+24042,Levis--Lotbiniere,Liberal ,56344.0,2867.0
+24042,Levis--Lotbiniere,Bloc Quebecois ,56344.0,8383.0
+24042,Levis--Lotbiniere,Green Party ,56344.0,936.0
+24042,Levis--Lotbiniere,Other ,56344.0,0.0
+35051,London--Fanshawe,Conservative ,47456.0,16098.0
+35051,London--Fanshawe,NDP-New Democratic Party ,47456.0,23655.0
+35051,London--Fanshawe,Liberal ,47456.0,5709.0
+35051,London--Fanshawe,Bloc Quebecois ,47456.0,0.0
+35051,London--Fanshawe,Green Party ,47456.0,1410.0
+35051,London--Fanshawe,Other ,47456.0,581.0
+35052,London North Centre,Conservative ,53442.0,19802.0
+35052,London North Centre,NDP-New Democratic Party ,53442.0,12974.0
+35052,London North Centre,Liberal ,53442.0,18298.0
+35052,London North Centre,Bloc Quebecois ,53442.0,0.0
+35052,London North Centre,Green Party ,53442.0,2160.0
+35052,London North Centre,Other ,53442.0,211.0
+35053,London West,Conservative ,58343.0,26296.0
+35053,London West,NDP-New Democratic Party ,58343.0,14830.0
+35053,London West,Liberal ,58343.0,15594.0
+35053,London West,Bloc Quebecois ,58343.0,0.0
+35053,London West,Green Party ,58343.0,1563.0
+35053,London West,Other ,58343.0,59.0
+10005,Long Range Mountains,Conservative ,35841.0,9050.0
+10005,Long Range Mountains,NDP-New Democratic Party ,35841.0,6394.0
+10005,Long Range Mountains,Liberal ,35841.0,19770.0
+10005,Long Range Mountains,Bloc Quebecois ,35841.0,0.0
+10005,Long Range Mountains,Green Party ,35841.0,371.0
+10005,Long Range Mountains,Other ,35841.0,258.0
+24041,Longueuil--Charles-LeMoyne,Conservative ,47420.0,4996.0
+24041,Longueuil--Charles-LeMoyne,NDP-New Democratic Party ,47420.0,21545.0
+24041,Longueuil--Charles-LeMoyne,Liberal ,47420.0,6317.0
+24041,Longueuil--Charles-LeMoyne,Bloc Quebecois ,47420.0,13419.0
+24041,Longueuil--Charles-LeMoyne,Green Party ,47420.0,1142.0
+24041,Longueuil--Charles-LeMoyne,Other ,47420.0,0.0
+24043,Longueuil--Saint-Hubert,Conservative ,52654.0,4601.0
+24043,Longueuil--Saint-Hubert,NDP-New Democratic Party ,52654.0,26335.0
+24043,Longueuil--Saint-Hubert,Liberal ,52654.0,5313.0
+24043,Longueuil--Saint-Hubert,Bloc Quebecois ,52654.0,15162.0
+24043,Longueuil--Saint-Hubert,Green Party ,52654.0,1155.0
+24043,Longueuil--Saint-Hubert,Other ,52654.0,87.0
+24044,Louis-Hebert,Conservative ,60436.0,13195.0
+24044,Louis-Hebert,NDP-New Democratic Party ,60436.0,23359.0
+24044,Louis-Hebert,Liberal ,60436.0,8109.0
+24044,Louis-Hebert,Bloc Quebecois ,60436.0,14636.0
+24044,Louis-Hebert,Green Party ,60436.0,996.0
+24044,Louis-Hebert,Other ,60436.0,143.0
+24045,Louis-Saint-Laurent,Conservative ,56614.0,21278.0
+24045,Louis-Saint-Laurent,NDP-New Democratic Party ,56614.0,22576.0
+24045,Louis-Saint-Laurent,Liberal ,56614.0,3607.0
+24045,Louis-Saint-Laurent,Bloc Quebecois ,56614.0,8127.0
+24045,Louis-Saint-Laurent,Green Party ,56614.0,852.0
+24045,Louis-Saint-Laurent,Other ,56614.0,175.0
+13005,Madawaska--Restigouche,Conservative ,35922.0,14541.0
+13005,Madawaska--Restigouche,NDP-New Democratic Party ,35922.0,6949.0
+13005,Madawaska--Restigouche,Liberal ,35922.0,12497.0
+13005,Madawaska--Restigouche,Bloc Quebecois ,35922.0,0.0
+13005,Madawaska--Restigouche,Green Party ,35922.0,645.0
+13005,Madawaska--Restigouche,Other ,35922.0,1290.0
+11004,Malpeque,Conservative ,20294.0,7934.0
+11004,Malpeque,NDP-New Democratic Party ,20294.0,2970.0
+11004,Malpeque,Liberal ,20294.0,8605.0
+11004,Malpeque,Bloc Quebecois ,20294.0,0.0
+11004,Malpeque,Green Party ,20294.0,785.0
+11004,Malpeque,Other ,20294.0,0.0
+24046,Manicouagan,Conservative ,38717.0,4502.0
+24046,Manicouagan,NDP-New Democratic Party ,38717.0,18458.0
+24046,Manicouagan,Liberal ,38717.0,2131.0
+24046,Manicouagan,Bloc Quebecois ,38717.0,12654.0
+24046,Manicouagan,Green Party ,38717.0,973.0
+24046,Manicouagan,Other ,38717.0,0.0
+24065,Marc-Aurele-Fortin,Conservative ,47272.0,4904.0
+24065,Marc-Aurele-Fortin,NDP-New Democratic Party ,47272.0,23156.0
+24065,Marc-Aurele-Fortin,Liberal ,47272.0,6545.0
+24065,Marc-Aurele-Fortin,Bloc Quebecois ,47272.0,11471.0
+24065,Marc-Aurele-Fortin,Green Party ,47272.0,1106.0
+24065,Marc-Aurele-Fortin,Other ,47272.0,90.0
+35054,Markham--Stouffville,Conservative ,47185.0,23820.0
+35054,Markham--Stouffville,NDP-New Democratic Party ,47185.0,8011.0
+35054,Markham--Stouffville,Liberal ,47185.0,13661.0
+35054,Markham--Stouffville,Bloc Quebecois ,47185.0,0.0
+35054,Markham--Stouffville,Green Party ,47185.0,1285.0
+35054,Markham--Stouffville,Other ,47185.0,406.0
+35055,Markham--Thornhill,Conservative ,38075.0,13857.0
+35055,Markham--Thornhill,NDP-New Democratic Party ,38075.0,8907.0
+35055,Markham--Thornhill,Liberal ,38075.0,14129.0
+35055,Markham--Thornhill,Bloc Quebecois ,38075.0,0.0
+35055,Markham--Thornhill,Green Party ,38075.0,998.0
+35055,Markham--Thornhill,Other ,38075.0,187.0
+35056,Markham--Unionville,Conservative ,39330.0,18024.0
+35056,Markham--Unionville,NDP-New Democratic Party ,39330.0,6500.0
+35056,Markham--Unionville,Liberal ,39330.0,13249.0
+35056,Markham--Unionville,Bloc Quebecois ,39330.0,0.0
+35056,Markham--Unionville,Green Party ,39330.0,1182.0
+35056,Markham--Unionville,Other ,39330.0,376.0
+48027,Medicine Hat--Cardston--Warner,Conservative ,37348.0,25659.0
+48027,Medicine Hat--Cardston--Warner,NDP-New Democratic Party ,37348.0,5579.0
+48027,Medicine Hat--Cardston--Warner,Liberal ,37348.0,4165.0
+48027,Medicine Hat--Cardston--Warner,Bloc Quebecois ,37348.0,0.0
+48027,Medicine Hat--Cardston--Warner,Green Party ,37348.0,1659.0
+48027,Medicine Hat--Cardston--Warner,Other ,37348.0,288.0
+24047,Megantic--L'erable,Conservative ,45420.0,22321.0
+24047,Megantic--L'erable,NDP-New Democratic Party ,45420.0,11930.0
+24047,Megantic--L'erable,Liberal ,45420.0,2712.0
+24047,Megantic--L'erable,Bloc Quebecois ,45420.0,7542.0
+24047,Megantic--L'erable,Green Party ,45420.0,667.0
+24047,Megantic--L'erable,Other ,45420.0,250.0
+35057,Milton,Conservative ,33844.0,18630.0
+35057,Milton,NDP-New Democratic Party ,33844.0,5593.0
+35057,Milton,Liberal ,33844.0,8184.0
+35057,Milton,Bloc Quebecois ,33844.0,0.0
+35057,Milton,Green Party ,33844.0,1310.0
+35057,Milton,Other ,33844.0,127.0
+24048,Mirabel,Conservative ,47484.0,4381.0
+24048,Mirabel,NDP-New Democratic Party ,47484.0,23526.0
+24048,Mirabel,Liberal ,47484.0,3681.0
+24048,Mirabel,Bloc Quebecois ,47484.0,14728.0
+24048,Mirabel,Green Party ,47484.0,958.0
+24048,Mirabel,Other ,47484.0,212.0
+13006,Miramichi--Grand Lake,Conservative ,34504.0,18352.0
+13006,Miramichi--Grand Lake,NDP-New Democratic Party ,34504.0,7889.0
+13006,Miramichi--Grand Lake,Liberal ,34504.0,7371.0
+13006,Miramichi--Grand Lake,Bloc Quebecois ,34504.0,0.0
+13006,Miramichi--Grand Lake,Green Party ,34504.0,847.0
+13006,Miramichi--Grand Lake,Other ,34504.0,40.0
+59017,Mission--Matsqui--Fraser Canyon,Conservative ,33640.0,18329.0
+59017,Mission--Matsqui--Fraser Canyon,NDP-New Democratic Party ,33640.0,10769.0
+59017,Mission--Matsqui--Fraser Canyon,Liberal ,33640.0,2827.0
+59017,Mission--Matsqui--Fraser Canyon,Bloc Quebecois ,33640.0,0.0
+59017,Mission--Matsqui--Fraser Canyon,Green Party ,33640.0,1560.0
+59017,Mission--Matsqui--Fraser Canyon,Other ,33640.0,153.0
+35058,Mississauga Centre,Conservative ,42677.0,17792.0
+35058,Mississauga Centre,NDP-New Democratic Party ,42677.0,8106.0
+35058,Mississauga Centre,Liberal ,42677.0,15670.0
+35058,Mississauga Centre,Bloc Quebecois ,42677.0,0.0
+35058,Mississauga Centre,Green Party ,42677.0,987.0
+35058,Mississauga Centre,Other ,42677.0,122.0
+35059,Mississauga East--Cooksville,Conservative ,44250.0,19268.0
+35059,Mississauga East--Cooksville,NDP-New Democratic Party ,44250.0,7813.0
+35059,Mississauga East--Cooksville,Liberal ,44250.0,15999.0
+35059,Mississauga East--Cooksville,Bloc Quebecois ,44250.0,0.0
+35059,Mississauga East--Cooksville,Green Party ,44250.0,959.0
+35059,Mississauga East--Cooksville,Other ,44250.0,210.0
+35060,Mississauga--Erin Mills,Conservative ,46468.0,21646.0
+35060,Mississauga--Erin Mills,NDP-New Democratic Party ,46468.0,7504.0
+35060,Mississauga--Erin Mills,Liberal ,46468.0,15978.0
+35060,Mississauga--Erin Mills,Bloc Quebecois ,46468.0,0.0
+35060,Mississauga--Erin Mills,Green Party ,46468.0,1274.0
+35060,Mississauga--Erin Mills,Other ,46468.0,66.0
+35061,Mississauga--Lakeshore,Conservative ,51742.0,24271.0
+35061,Mississauga--Lakeshore,NDP-New Democratic Party ,51742.0,6617.0
+35061,Mississauga--Lakeshore,Liberal ,51742.0,19069.0
+35061,Mississauga--Lakeshore,Bloc Quebecois ,51742.0,0.0
+35061,Mississauga--Lakeshore,Green Party ,51742.0,1593.0
+35061,Mississauga--Lakeshore,Other ,51742.0,196.0
+35062,Mississauga--Malton,Conservative ,36634.0,13715.0
+35062,Mississauga--Malton,NDP-New Democratic Party ,36634.0,8584.0
+35062,Mississauga--Malton,Liberal ,36634.0,13478.0
+35062,Mississauga--Malton,Bloc Quebecois ,36634.0,0.0
+35062,Mississauga--Malton,Green Party ,36634.0,744.0
+35062,Mississauga--Malton,Other ,36634.0,111.0
+35063,Mississauga--Streetsville,Conservative ,46237.0,21325.0
+35063,Mississauga--Streetsville,NDP-New Democratic Party ,46237.0,7033.0
+35063,Mississauga--Streetsville,Liberal ,46237.0,16179.0
+35063,Mississauga--Streetsville,Bloc Quebecois ,46237.0,0.0
+35063,Mississauga--Streetsville,Green Party ,46237.0,1689.0
+35063,Mississauga--Streetsville,Other ,46237.0,10.0
+13007,Moncton--Riverview--Dieppe,Conservative ,44409.0,16327.0
+13007,Moncton--Riverview--Dieppe,NDP-New Democratic Party ,44409.0,12638.0
+13007,Moncton--Riverview--Dieppe,Liberal ,44409.0,13546.0
+13007,Moncton--Riverview--Dieppe,Bloc Quebecois ,44409.0,0.0
+13007,Moncton--Riverview--Dieppe,Green Party ,44409.0,1899.0
+13007,Moncton--Riverview--Dieppe,Other ,44409.0,0.0
+24049,Montarville,Conservative ,52163.0,5010.0
+24049,Montarville,NDP-New Democratic Party ,52163.0,23227.0
+24049,Montarville,Liberal ,52163.0,6524.0
+24049,Montarville,Bloc Quebecois ,52163.0,15167.0
+24049,Montarville,Green Party ,52163.0,1278.0
+24049,Montarville,Other ,52163.0,959.0
+24050,Montcalm,Conservative ,44754.0,3555.0
+24050,Montcalm,NDP-New Democratic Party ,44754.0,23228.0
+24050,Montcalm,Liberal ,44754.0,2203.0
+24050,Montcalm,Bloc Quebecois ,44754.0,14071.0
+24050,Montcalm,Green Party ,44754.0,1696.0
+24050,Montcalm,Other ,44754.0,0.0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,Conservative ,47545.0,17276.0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,NDP-New Democratic Party ,47545.0,17285.0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,Liberal ,47545.0,2743.0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,Bloc Quebecois ,47545.0,9550.0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,Green Party ,47545.0,691.0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,Other ,47545.0,0.0
+47005,Moose Jaw--Lake Centre--Lanigan,Conservative ,37669.0,22963.0
+47005,Moose Jaw--Lake Centre--Lanigan,NDP-New Democratic Party ,37669.0,12256.0
+47005,Moose Jaw--Lake Centre--Lanigan,Liberal ,37669.0,1427.0
+47005,Moose Jaw--Lake Centre--Lanigan,Bloc Quebecois ,37669.0,0.0
+47005,Moose Jaw--Lake Centre--Lanigan,Green Party ,37669.0,1020.0
+47005,Moose Jaw--Lake Centre--Lanigan,Other ,37669.0,9.0
+24052,Mount Royal,Conservative ,39006.0,13891.0
+24052,Mount Royal,NDP-New Democratic Party ,39006.0,6963.0
+24052,Mount Royal,Liberal ,39006.0,16151.0
+24052,Mount Royal,Bloc Quebecois ,39006.0,1136.0
+24052,Mount Royal,Green Party ,39006.0,683.0
+24052,Mount Royal,Other ,39006.0,183.0
+59018,Nanaimo--Ladysmith,Conservative ,55883.0,22571.0
+59018,Nanaimo--Ladysmith,NDP-New Democratic Party ,55883.0,25294.0
+59018,Nanaimo--Ladysmith,Liberal ,55883.0,3732.0
+59018,Nanaimo--Ladysmith,Bloc Quebecois ,55883.0,0.0
+59018,Nanaimo--Ladysmith,Green Party ,55883.0,4007.0
+59018,Nanaimo--Ladysmith,Other ,55883.0,275.0
+35064,Nepean,Conservative ,51128.0,26087.0
+35064,Nepean,NDP-New Democratic Party ,51128.0,9117.0
+35064,Nepean,Liberal ,51128.0,13863.0
+35064,Nepean,Bloc Quebecois ,51128.0,0.0
+35064,Nepean,Green Party ,51128.0,2063.0
+35064,Nepean,Other ,51128.0,0.0
+13008,New Brunswick Southwest,Conservative ,33006.0,18702.0
+13008,New Brunswick Southwest,NDP-New Democratic Party ,33006.0,7695.0
+13008,New Brunswick Southwest,Liberal ,33006.0,4478.0
+13008,New Brunswick Southwest,Bloc Quebecois ,33006.0,0.0
+13008,New Brunswick Southwest,Green Party ,33006.0,1683.0
+13008,New Brunswick Southwest,Other ,33006.0,454.0
+35065,Newmarket--Aurora,Conservative ,47281.0,25558.0
+35065,Newmarket--Aurora,NDP-New Democratic Party ,47281.0,7467.0
+35065,Newmarket--Aurora,Liberal ,47281.0,11207.0
+35065,Newmarket--Aurora,Bloc Quebecois ,47281.0,0.0
+35065,Newmarket--Aurora,Green Party ,47281.0,2071.0
+35065,Newmarket--Aurora,Other ,47281.0,976.0
+59019,New Westminster--Burnaby,Conservative ,40943.0,14231.0
+59019,New Westminster--Burnaby,NDP-New Democratic Party ,40943.0,21200.0
+59019,New Westminster--Burnaby,Liberal ,40943.0,3562.0
+59019,New Westminster--Burnaby,Bloc Quebecois ,40943.0,0.0
+59019,New Westminster--Burnaby,Green Party ,40943.0,1773.0
+59019,New Westminster--Burnaby,Other ,40943.0,177.0
+35066,Niagara Centre,Conservative ,48548.0,18969.0
+35066,Niagara Centre,NDP-New Democratic Party ,48548.0,20957.0
+35066,Niagara Centre,Liberal ,48548.0,6970.0
+35066,Niagara Centre,Bloc Quebecois ,48548.0,0.0
+35066,Niagara Centre,Green Party ,48548.0,1204.0
+35066,Niagara Centre,Other ,48548.0,445.0
+35067,Niagara Falls,Conservative ,53980.0,28748.0
+35067,Niagara Falls,NDP-New Democratic Party ,53980.0,12681.0
+35067,Niagara Falls,Liberal ,53980.0,10206.0
+35067,Niagara Falls,Bloc Quebecois ,53980.0,0.0
+35067,Niagara Falls,Green Party ,53980.0,2086.0
+35067,Niagara Falls,Other ,53980.0,259.0
+35068,Niagara West,Conservative ,43722.0,26000.0
+35068,Niagara West,NDP-New Democratic Party ,43722.0,8400.0
+35068,Niagara West,Liberal ,43722.0,6249.0
+35068,Niagara West,Bloc Quebecois ,43722.0,0.0
+35068,Niagara West,Green Party ,43722.0,1970.0
+35068,Niagara West,Other ,43722.0,1100.0
+35069,Nickel Belt,Conservative ,44148.0,12373.0
+35069,Nickel Belt,NDP-New Democratic Party ,44148.0,24276.0
+35069,Nickel Belt,Liberal ,44148.0,6209.0
+35069,Nickel Belt,Bloc Quebecois ,44148.0,0.0
+35069,Nickel Belt,Green Party ,44148.0,1231.0
+35069,Nickel Belt,Other ,44148.0,59.0
+35070,Nipissing--Timiskaming,Conservative ,42212.0,15368.0
+35070,Nipissing--Timiskaming,NDP-New Democratic Party ,42212.0,8919.0
+35070,Nipissing--Timiskaming,Liberal ,42212.0,15403.0
+35070,Nipissing--Timiskaming,Bloc Quebecois ,42212.0,0.0
+35070,Nipissing--Timiskaming,Green Party ,42212.0,2519.0
+35070,Nipissing--Timiskaming,Other ,42212.0,0.0
+59037,North Island--Powell River,Conservative ,50890.0,23424.0
+59037,North Island--Powell River,NDP-New Democratic Party ,50890.0,21241.0
+59037,North Island--Powell River,Liberal ,50890.0,3237.0
+59037,North Island--Powell River,Bloc Quebecois ,50890.0,0.0
+59037,North Island--Powell River,Green Party ,50890.0,2625.0
+59037,North Island--Powell River,Other ,50890.0,367.0
+59020,North Okanagan--Shuswap,Conservative ,56922.0,31510.0
+59020,North Okanagan--Shuswap,NDP-New Democratic Party ,56922.0,15075.0
+59020,North Okanagan--Shuswap,Liberal ,56922.0,4251.0
+59020,North Okanagan--Shuswap,Bloc Quebecois ,56922.0,0.0
+59020,North Okanagan--Shuswap,Green Party ,56922.0,6081.0
+59020,North Okanagan--Shuswap,Other ,56922.0,4.0
+35071,Northumberland--Peterborough South,Conservative ,55048.0,29376.0
+35071,Northumberland--Peterborough South,NDP-New Democratic Party ,55048.0,11331.0
+35071,Northumberland--Peterborough South,Liberal ,55048.0,11611.0
+35071,Northumberland--Peterborough South,Bloc Quebecois ,55048.0,0.0
+35071,Northumberland--Peterborough South,Green Party ,55048.0,2575.0
+35071,Northumberland--Peterborough South,Other ,55048.0,154.0
+59021,North Vancouver,Conservative ,50304.0,23923.0
+59021,North Vancouver,NDP-New Democratic Party ,50304.0,8481.0
+59021,North Vancouver,Liberal ,50304.0,14948.0
+59021,North Vancouver,Bloc Quebecois ,50304.0,0.0
+59021,North Vancouver,Green Party ,50304.0,2631.0
+59021,North Vancouver,Other ,50304.0,323.0
+61001,Northwest Territories,Conservative ,15577.0,5001.0
+61001,Northwest Territories,NDP-New Democratic Party ,15577.0,7140.0
+61001,Northwest Territories,Liberal ,15577.0,2872.0
+61001,Northwest Territories,Bloc Quebecois ,15577.0,0.0
+61001,Northwest Territories,Green Party ,15577.0,477.0
+61001,Northwest Territories,Other ,15577.0,87.0
+24053,Notre-Dame-de-Gr�ce--Westmount,Conservative ,44638.0,7879.0
+24053,Notre-Dame-de-Gr�ce--Westmount,NDP-New Democratic Party ,44638.0,15648.0
+24053,Notre-Dame-de-Gr�ce--Westmount,Liberal ,44638.0,17072.0
+24053,Notre-Dame-de-Gr�ce--Westmount,Bloc Quebecois ,44638.0,1817.0
+24053,Notre-Dame-de-Gr�ce--Westmount,Green Party ,44638.0,1955.0
+24053,Notre-Dame-de-Gr�ce--Westmount,Other ,44638.0,271.0
+62001,Nunavut,Conservative ,7875.0,3930.0
+62001,Nunavut,NDP-New Democratic Party ,7875.0,1525.0
+62001,Nunavut,Liberal ,7875.0,2260.0
+62001,Nunavut,Bloc Quebecois ,7875.0,0.0
+62001,Nunavut,Green Party ,7875.0,160.0
+62001,Nunavut,Other ,7875.0,0.0
+35072,Oakville,Conservative ,58215.0,30068.0
+35072,Oakville,NDP-New Democratic Party ,58215.0,8117.0
+35072,Oakville,Liberal ,58215.0,17890.0
+35072,Oakville,Bloc Quebecois ,58215.0,0.0
+35072,Oakville,Green Party ,58215.0,2140.0
+35072,Oakville,Other ,58215.0,0.0
+35073,Oakville North--Burlington,Conservative ,46841.0,25369.0
+35073,Oakville North--Burlington,NDP-New Democratic Party ,46841.0,7264.0
+35073,Oakville North--Burlington,Liberal ,46841.0,12632.0
+35073,Oakville North--Burlington,Bloc Quebecois ,46841.0,0.0
+35073,Oakville North--Burlington,Green Party ,46841.0,1453.0
+35073,Oakville North--Burlington,Other ,46841.0,122.0
+35076,Orleans,Conservative ,64006.0,28917.0
+35076,Orleans,NDP-New Democratic Party ,64006.0,8945.0
+35076,Orleans,Liberal ,64006.0,24306.0
+35076,Orleans,Bloc Quebecois ,64006.0,0.0
+35076,Orleans,Green Party ,64006.0,1832.0
+35076,Orleans,Other ,64006.0,7.0
+35074,Oshawa,Conservative ,52489.0,26839.0
+35074,Oshawa,NDP-New Democratic Party ,52489.0,19474.0
+35074,Oshawa,Liberal ,52489.0,4022.0
+35074,Oshawa,Bloc Quebecois ,52489.0,0.0
+35074,Oshawa,Green Party ,52489.0,1863.0
+35074,Oshawa,Other ,52489.0,294.0
+35075,Ottawa Centre,Conservative ,64685.0,13992.0
+35075,Ottawa Centre,NDP-New Democratic Party ,64685.0,33738.0
+35075,Ottawa Centre,Liberal ,64685.0,13015.0
+35075,Ottawa Centre,Bloc Quebecois ,64685.0,0.0
+35075,Ottawa Centre,Green Party ,64685.0,3258.0
+35075,Ottawa Centre,Other ,64685.0,686.0
+35077,Ottawa South,Conservative ,58971.0,19625.0
+35077,Ottawa South,NDP-New Democratic Party ,58971.0,10710.0
+35077,Ottawa South,Liberal ,58971.0,25954.0
+35077,Ottawa South,Bloc Quebecois ,58971.0,0.0
+35077,Ottawa South,Green Party ,58971.0,1787.0
+35077,Ottawa South,Other ,58971.0,895.0
+35078,Ottawa--Vanier,Conservative ,56219.0,15710.0
+35078,Ottawa--Vanier,NDP-New Democratic Party ,56219.0,16126.0
+35078,Ottawa--Vanier,Liberal ,56219.0,21418.0
+35078,Ottawa--Vanier,Bloc Quebecois ,56219.0,0.0
+35078,Ottawa--Vanier,Green Party ,56219.0,2843.0
+35078,Ottawa--Vanier,Other ,56219.0,122.0
+35079,Ottawa West--Nepean,Conservative ,56606.0,25297.0
+35079,Ottawa West--Nepean,NDP-New Democratic Party ,56606.0,11195.0
+35079,Ottawa West--Nepean,Liberal ,56606.0,17824.0
+35079,Ottawa West--Nepean,Bloc Quebecois ,56606.0,0.0
+35079,Ottawa West--Nepean,Green Party ,56606.0,2283.0
+35079,Ottawa West--Nepean,Other ,56606.0,3.0
+24054,Outremont,Conservative ,41879.0,3344.0
+24054,Outremont,NDP-New Democratic Party ,41879.0,23319.0
+24054,Outremont,Liberal ,41879.0,9056.0
+24054,Outremont,Bloc Quebecois ,41879.0,4859.0
+24054,Outremont,Green Party ,41879.0,936.0
+24054,Outremont,Other ,41879.0,361.0
+35080,Oxford,Conservative ,48804.0,28783.0
+35080,Oxford,NDP-New Democratic Party ,48804.0,12418.0
+35080,Oxford,Liberal ,48804.0,4707.0
+35080,Oxford,Bloc Quebecois ,48804.0,0.0
+35080,Oxford,Green Party ,48804.0,2110.0
+35080,Oxford,Other ,48804.0,786.0
+24055,Papineau,Conservative ,45892.0,2313.0
+24055,Papineau,NDP-New Democratic Party ,45892.0,13526.0
+24055,Papineau,Liberal ,45892.0,17407.0
+24055,Papineau,Bloc Quebecois ,45892.0,11419.0
+24055,Papineau,Green Party ,45892.0,866.0
+24055,Papineau,Other ,45892.0,356.0
+35081,Parkdale--High Park,Conservative ,50945.0,7924.0
+35081,Parkdale--High Park,NDP-New Democratic Party ,50945.0,24046.0
+35081,Parkdale--High Park,Liberal ,50945.0,16757.0
+35081,Parkdale--High Park,Bloc Quebecois ,50945.0,0.0
+35081,Parkdale--High Park,Green Party ,50945.0,1666.0
+35081,Parkdale--High Park,Other ,50945.0,552.0
+35082,Parry Sound--Muskoka,Conservative ,46409.0,25864.0
+35082,Parry Sound--Muskoka,NDP-New Democratic Party ,46409.0,11217.0
+35082,Parry Sound--Muskoka,Liberal ,46409.0,5330.0
+35082,Parry Sound--Muskoka,Bloc Quebecois ,46409.0,0.0
+35082,Parry Sound--Muskoka,Green Party ,46409.0,3776.0
+35082,Parry Sound--Muskoka,Other ,46409.0,222.0
+48028,Peace River--Westlock,Conservative ,37256.0,28986.0
+48028,Peace River--Westlock,NDP-New Democratic Party ,37256.0,4857.0
+48028,Peace River--Westlock,Liberal ,37256.0,1357.0
+48028,Peace River--Westlock,Bloc Quebecois ,37256.0,0.0
+48028,Peace River--Westlock,Green Party ,37256.0,1438.0
+48028,Peace River--Westlock,Other ,37256.0,616.0
+35083,Perth--Wellington,Conservative ,46401.0,25281.0
+35083,Perth--Wellington,NDP-New Democratic Party ,46401.0,9861.0
+35083,Perth--Wellington,Liberal ,46401.0,8341.0
+35083,Perth--Wellington,Bloc Quebecois ,46401.0,0.0
+35083,Perth--Wellington,Green Party ,46401.0,2112.0
+35083,Perth--Wellington,Other ,46401.0,806.0
+35084,Peterborough--Kawartha,Conservative ,57382.0,28436.0
+35084,Peterborough--Kawartha,NDP-New Democratic Party ,57382.0,14342.0
+35084,Peterborough--Kawartha,Liberal ,57382.0,12231.0
+35084,Peterborough--Kawartha,Bloc Quebecois ,57382.0,0.0
+35084,Peterborough--Kawartha,Green Party ,57382.0,2107.0
+35084,Peterborough--Kawartha,Other ,57382.0,268.0
+35085,Pickering--Uxbridge,Conservative ,49097.0,22573.0
+35085,Pickering--Uxbridge,NDP-New Democratic Party ,49097.0,7731.0
+35085,Pickering--Uxbridge,Liberal ,49097.0,16482.0
+35085,Pickering--Uxbridge,Bloc Quebecois ,49097.0,0.0
+35085,Pickering--Uxbridge,Green Party ,49097.0,2218.0
+35085,Pickering--Uxbridge,Other ,49097.0,96.0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,Conservative ,53255.0,4482.0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,NDP-New Democratic Party ,53255.0,23882.0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,Liberal ,53255.0,5262.0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,Bloc Quebecois ,53255.0,18212.0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,Green Party ,53255.0,1125.0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,Other ,53255.0,291.0
+24056,Pierrefonds--Dollard,Conservative ,48025.0,12901.0
+24056,Pierrefonds--Dollard,NDP-New Democratic Party ,48025.0,16390.0
+24056,Pierrefonds--Dollard,Liberal ,48025.0,14632.0
+24056,Pierrefonds--Dollard,Bloc Quebecois ,48025.0,2392.0
+24056,Pierrefonds--Dollard,Green Party ,48025.0,1710.0
+24056,Pierrefonds--Dollard,Other ,48025.0,0.0
+59022,Pitt Meadows--Maple Ridge,Conservative ,38417.0,21068.0
+59022,Pitt Meadows--Maple Ridge,NDP-New Democratic Party ,38417.0,13404.0
+59022,Pitt Meadows--Maple Ridge,Liberal ,38417.0,2068.0
+59022,Pitt Meadows--Maple Ridge,Bloc Quebecois ,38417.0,0.0
+59022,Pitt Meadows--Maple Ridge,Green Party ,38417.0,1877.0
+59022,Pitt Meadows--Maple Ridge,Other ,38417.0,0.0
+24057,Pontiac,Conservative ,50369.0,13191.0
+24057,Pontiac,NDP-New Democratic Party ,50369.0,23810.0
+24057,Pontiac,Liberal ,50369.0,7646.0
+24057,Pontiac,Bloc Quebecois ,50369.0,4808.0
+24057,Pontiac,Green Party ,50369.0,824.0
+24057,Pontiac,Other ,50369.0,87.0
+46007,Portage--Lisgar,Conservative ,33958.0,25739.0
+46007,Portage--Lisgar,NDP-New Democratic Party ,33958.0,3467.0
+46007,Portage--Lisgar,Liberal ,33958.0,2032.0
+46007,Portage--Lisgar,Bloc Quebecois ,33958.0,0.0
+46007,Portage--Lisgar,Green Party ,33958.0,1915.0
+46007,Portage--Lisgar,Other ,33958.0,809.0
+59023,Port Moody--Coquitlam,Conservative ,43459.0,20202.0
+59023,Port Moody--Coquitlam,NDP-New Democratic Party ,43459.0,17581.0
+59023,Port Moody--Coquitlam,Liberal ,43459.0,3706.0
+59023,Port Moody--Coquitlam,Bloc Quebecois ,43459.0,0.0
+59023,Port Moody--Coquitlam,Green Party ,43459.0,1849.0
+59023,Port Moody--Coquitlam,Other ,43459.0,120.0
+24058,Portneuf--Jacques-Cartier,Conservative ,52468.0,0.0
+24058,Portneuf--Jacques-Cartier,NDP-New Democratic Party ,52468.0,22387.0
+24058,Portneuf--Jacques-Cartier,Liberal ,52468.0,3463.0
+24058,Portneuf--Jacques-Cartier,Bloc Quebecois ,52468.0,10745.0
+24058,Portneuf--Jacques-Cartier,Green Party ,52468.0,1279.0
+24058,Portneuf--Jacques-Cartier,Other ,52468.0,14594.0
+47006,Prince Albert,Conservative ,33281.0,20775.0
+47006,Prince Albert,NDP-New Democratic Party ,33281.0,10482.0
+47006,Prince Albert,Liberal ,33281.0,1144.0
+47006,Prince Albert,Bloc Quebecois ,33281.0,0.0
+47006,Prince Albert,Green Party ,33281.0,741.0
+47006,Prince Albert,Other ,33281.0,142.0
+59024,Prince George--Peace River--Northern Rockies,Conservative ,39367.0,24349.0
+59024,Prince George--Peace River--Northern Rockies,NDP-New Democratic Party ,39367.0,10177.0
+59024,Prince George--Peace River--Northern Rockies,Liberal ,39367.0,2033.0
+59024,Prince George--Peace River--Northern Rockies,Bloc Quebecois ,39367.0,0.0
+59024,Prince George--Peace River--Northern Rockies,Green Party ,39367.0,2386.0
+59024,Prince George--Peace River--Northern Rockies,Other ,39367.0,421.0
+46008,Provencher,Conservative ,35005.0,24627.0
+46008,Provencher,NDP-New Democratic Party ,35005.0,6358.0
+46008,Provencher,Liberal ,35005.0,2356.0
+46008,Provencher,Bloc Quebecois ,35005.0,0.0
+46008,Provencher,Green Party ,35005.0,1039.0
+46008,Provencher,Other ,35005.0,625.0
+24059,Quebec,Conservative ,52518.0,9330.0
+24059,Quebec,NDP-New Democratic Party ,52518.0,22394.0
+24059,Quebec,Liberal ,52518.0,4735.0
+24059,Quebec,Bloc Quebecois ,52518.0,14685.0
+24059,Quebec,Green Party ,52518.0,1144.0
+24059,Quebec,Other ,52518.0,228.0
+48030,Red Deer--Lacombe,Conservative ,40624.0,31453.0
+48030,Red Deer--Lacombe,NDP-New Democratic Party ,40624.0,5807.0
+48030,Red Deer--Lacombe,Liberal ,40624.0,1449.0
+48030,Red Deer--Lacombe,Bloc Quebecois ,40624.0,0.0
+48030,Red Deer--Lacombe,Green Party ,40624.0,1918.0
+48030,Red Deer--Lacombe,Other ,40624.0,0.0
+48029,Red Deer--Mountain View,Conservative ,47256.0,37507.0
+48029,Red Deer--Mountain View,NDP-New Democratic Party ,47256.0,5628.0
+48029,Red Deer--Mountain View,Liberal ,47256.0,1671.0
+48029,Red Deer--Mountain View,Bloc Quebecois ,47256.0,0.0
+48029,Red Deer--Mountain View,Green Party ,47256.0,2385.0
+48029,Red Deer--Mountain View,Other ,47256.0,66.0
+47007,Regina--Lewvan,Conservative ,38513.0,16893.0
+47007,Regina--Lewvan,NDP-New Democratic Party ,38513.0,17398.0
+47007,Regina--Lewvan,Liberal ,38513.0,3156.0
+47007,Regina--Lewvan,Bloc Quebecois ,38513.0,0.0
+47007,Regina--Lewvan,Green Party ,38513.0,1061.0
+47007,Regina--Lewvan,Other ,38513.0,0.0
+47008,Regina--Qu'Appelle,Conservative ,30451.0,16196.0
+47008,Regina--Qu'Appelle,NDP-New Democratic Party ,30451.0,11768.0
+47008,Regina--Qu'Appelle,Liberal ,30451.0,1447.0
+47008,Regina--Qu'Appelle,Bloc Quebecois ,30451.0,0.0
+47008,Regina--Qu'Appelle,Green Party ,30451.0,907.0
+47008,Regina--Qu'Appelle,Other ,30451.0,127.0
+47009,Regina--Wascana,Conservative ,36566.0,13057.0
+47009,Regina--Wascana,NDP-New Democratic Party ,36566.0,7342.0
+47009,Regina--Wascana,Liberal ,36566.0,15271.0
+47009,Regina--Wascana,Bloc Quebecois ,36566.0,0.0
+47009,Regina--Wascana,Green Party ,36566.0,898.0
+47009,Regina--Wascana,Other ,36566.0,0.0
+35086,Renfrew--Nipissing--Pembroke,Conservative ,51398.0,27462.0
+35086,Renfrew--Nipissing--Pembroke,NDP-New Democratic Party ,51398.0,6903.0
+35086,Renfrew--Nipissing--Pembroke,Liberal ,51398.0,6545.0
+35086,Renfrew--Nipissing--Pembroke,Bloc Quebecois ,51398.0,0.0
+35086,Renfrew--Nipissing--Pembroke,Green Party ,51398.0,877.0
+35086,Renfrew--Nipissing--Pembroke,Other ,51398.0,9611.0
+24060,Repentigny,Conservative ,58264.0,4342.0
+24060,Repentigny,NDP-New Democratic Party ,58264.0,30339.0
+24060,Repentigny,Liberal ,58264.0,4614.0
+24060,Repentigny,Bloc Quebecois ,58264.0,17962.0
+24060,Repentigny,Green Party ,58264.0,1007.0
+24060,Repentigny,Other ,58264.0,0.0
+24061,Richmond--Arthabaska,Conservative ,53303.0,13145.0
+24061,Richmond--Arthabaska,NDP-New Democratic Party ,53303.0,17316.0
+24061,Richmond--Arthabaska,Liberal ,53303.0,3711.0
+24061,Richmond--Arthabaska,Bloc Quebecois ,53303.0,18033.0
+24061,Richmond--Arthabaska,Green Party ,53303.0,1098.0
+24061,Richmond--Arthabaska,Other ,53303.0,0.0
+59025,Richmond Centre,Conservative ,34082.0,19788.0
+59025,Richmond Centre,NDP-New Democratic Party ,34082.0,6203.0
+59025,Richmond Centre,Liberal ,34082.0,6390.0
+59025,Richmond Centre,Bloc Quebecois ,34082.0,0.0
+59025,Richmond Centre,Green Party ,34082.0,1698.0
+59025,Richmond Centre,Other ,34082.0,0.0
+35087,Richmond Hill,Conservative ,42532.0,18521.0
+35087,Richmond Hill,NDP-New Democratic Party ,42532.0,7244.0
+35087,Richmond Hill,Liberal ,42532.0,15150.0
+35087,Richmond Hill,Bloc Quebecois ,42532.0,0.0
+35087,Richmond Hill,Green Party ,42532.0,1612.0
+35087,Richmond Hill,Other ,42532.0,4.0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,Conservative ,42716.0,6218.0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,NDP-New Democratic Party ,42716.0,18360.0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,Liberal ,42716.0,4101.0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,Bloc Quebecois ,42716.0,13170.0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,Green Party ,42716.0,867.0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,Other ,42716.0,0.0
+24062,Riviere-des-Mille-�les,Conservative ,52441.0,5399.0
+24062,Riviere-des-Mille-�les,NDP-New Democratic Party ,52441.0,25757.0
+24062,Riviere-des-Mille-�les,Liberal ,52441.0,5819.0
+24062,Riviere-des-Mille-�les,Bloc Quebecois ,52441.0,14223.0
+24062,Riviere-des-Mille-�les,Green Party ,52441.0,1242.0
+24062,Riviere-des-Mille-�les,Other ,52441.0,0.0
+24063,Riviere-du-Nord,Conservative ,47696.0,4022.0
+24063,Riviere-du-Nord,NDP-New Democratic Party ,47696.0,26291.0
+24063,Riviere-du-Nord,Liberal ,47696.0,3078.0
+24063,Riviere-du-Nord,Bloc Quebecois ,47696.0,13450.0
+24063,Riviere-du-Nord,Green Party ,47696.0,857.0
+24063,Riviere-du-Nord,Other ,47696.0,0.0
+24064,Rosemont--La Petite-Patrie,Conservative ,54128.0,2338.0
+24064,Rosemont--La Petite-Patrie,NDP-New Democratic Party ,54128.0,27643.0
+24064,Rosemont--La Petite-Patrie,Liberal ,54128.0,4951.0
+24064,Rosemont--La Petite-Patrie,Bloc Quebecois ,54128.0,17731.0
+24064,Rosemont--La Petite-Patrie,Green Party ,54128.0,906.0
+24064,Rosemont--La Petite-Patrie,Other ,54128.0,558.0
+59027,Saanich--Gulf Islands,Conservative ,62462.0,22784.0
+59027,Saanich--Gulf Islands,NDP-New Democratic Party ,62462.0,6898.0
+59027,Saanich--Gulf Islands,Liberal ,62462.0,3788.0
+59027,Saanich--Gulf Islands,Bloc Quebecois ,62462.0,0.0
+59027,Saanich--Gulf Islands,Green Party ,62462.0,28993.0
+59027,Saanich--Gulf Islands,Other ,62462.0,0.0
+12008,Sackville--Preston--Chezzetcook,Conservative ,38996.0,11771.0
+12008,Sackville--Preston--Chezzetcook,NDP-New Democratic Party ,38996.0,21174.0
+12008,Sackville--Preston--Chezzetcook,Liberal ,38996.0,4409.0
+12008,Sackville--Preston--Chezzetcook,Bloc Quebecois ,38996.0,0.0
+12008,Sackville--Preston--Chezzetcook,Green Party ,38996.0,1636.0
+12008,Sackville--Preston--Chezzetcook,Other ,38996.0,3.0
+46009,Saint Boniface--Saint Vital,Conservative ,40419.0,20261.0
+46009,Saint Boniface--Saint Vital,NDP-New Democratic Party ,40419.0,6381.0
+46009,Saint Boniface--Saint Vital,Liberal ,40419.0,12611.0
+46009,Saint Boniface--Saint Vital,Bloc Quebecois ,40419.0,0.0
+46009,Saint Boniface--Saint Vital,Green Party ,40419.0,1165.0
+46009,Saint Boniface--Saint Vital,Other ,40419.0,0.0
+24066,Saint-Hyacinthe--Bagot,Conservative ,51500.0,8108.0
+24066,Saint-Hyacinthe--Bagot,NDP-New Democratic Party ,51500.0,26963.0
+24066,Saint-Hyacinthe--Bagot,Liberal ,51500.0,2784.0
+24066,Saint-Hyacinthe--Bagot,Bloc Quebecois ,51500.0,12651.0
+24066,Saint-Hyacinthe--Bagot,Green Party ,51500.0,994.0
+24066,Saint-Hyacinthe--Bagot,Other ,51500.0,0.0
+24067,Saint-Jean,Conservative ,52539.0,5603.0
+24067,Saint-Jean,NDP-New Democratic Party ,52539.0,24943.0
+24067,Saint-Jean,Liberal ,52539.0,4644.0
+24067,Saint-Jean,Bloc Quebecois ,52539.0,16023.0
+24067,Saint-Jean,Green Party ,52539.0,1326.0
+24067,Saint-Jean,Other ,52539.0,0.0
+13009,Saint John--Rothesay,Conservative ,35964.0,17882.0
+13009,Saint John--Rothesay,NDP-New Democratic Party ,35964.0,11052.0
+13009,Saint John--Rothesay,Liberal ,35964.0,5750.0
+13009,Saint John--Rothesay,Bloc Quebecois ,35964.0,0.0
+13009,Saint John--Rothesay,Green Party ,35964.0,992.0
+13009,Saint John--Rothesay,Other ,35964.0,288.0
+24068,Saint-Laurent,Conservative ,32467.0,6207.0
+24068,Saint-Laurent,NDP-New Democratic Party ,32467.0,9437.0
+24068,Saint-Laurent,Liberal ,32467.0,13914.0
+24068,Saint-Laurent,Bloc Quebecois ,32467.0,2088.0
+24068,Saint-Laurent,Green Party ,32467.0,680.0
+24068,Saint-Laurent,Other ,32467.0,140.0
+24069,Saint-Leonard--Saint-Michel,Conservative ,37235.0,5074.0
+24069,Saint-Leonard--Saint-Michel,NDP-New Democratic Party ,37235.0,12026.0
+24069,Saint-Leonard--Saint-Michel,Liberal ,37235.0,15702.0
+24069,Saint-Leonard--Saint-Michel,Bloc Quebecois ,37235.0,3591.0
+24069,Saint-Leonard--Saint-Michel,Green Party ,37235.0,658.0
+24069,Saint-Leonard--Saint-Michel,Other ,37235.0,178.0
+24070,Saint-Maurice--Champlain,Conservative ,55176.0,9452.0
+24070,Saint-Maurice--Champlain,NDP-New Democratic Party ,55176.0,22777.0
+24070,Saint-Maurice--Champlain,Liberal ,55176.0,6031.0
+24070,Saint-Maurice--Champlain,Bloc Quebecois ,55176.0,15712.0
+24070,Saint-Maurice--Champlain,Green Party ,55176.0,1120.0
+24070,Saint-Maurice--Champlain,Other ,55176.0,89.0
+24071,Salaberry--Suro�t,Conservative ,54009.0,6850.0
+24071,Salaberry--Suro�t,NDP-New Democratic Party ,54009.0,23546.0
+24071,Salaberry--Suro�t,Liberal ,54009.0,4394.0
+24071,Salaberry--Suro�t,Bloc Quebecois ,54009.0,18227.0
+24071,Salaberry--Suro�t,Green Party ,54009.0,991.0
+24071,Salaberry--Suro�t,Other ,54009.0,0.0
+35091,Sarnia--Lambton,Conservative ,49665.0,26112.0
+35091,Sarnia--Lambton,NDP-New Democratic Party ,49665.0,14856.0
+35091,Sarnia--Lambton,Liberal ,49665.0,6931.0
+35091,Sarnia--Lambton,Bloc Quebecois ,49665.0,0.0
+35091,Sarnia--Lambton,Green Party ,49665.0,1252.0
+35091,Sarnia--Lambton,Other ,49665.0,514.0
+47010,Saskatoon--Grasswood,Conservative ,36075.0,18119.0
+47010,Saskatoon--Grasswood,NDP-New Democratic Party ,36075.0,14373.0
+47010,Saskatoon--Grasswood,Liberal ,36075.0,2642.0
+47010,Saskatoon--Grasswood,Bloc Quebecois ,36075.0,0.0
+47010,Saskatoon--Grasswood,Green Party ,36075.0,900.0
+47010,Saskatoon--Grasswood,Other ,36075.0,43.0
+47011,Saskatoon--University,Conservative ,35120.0,17067.0
+47011,Saskatoon--University,NDP-New Democratic Party ,35120.0,13344.0
+47011,Saskatoon--University,Liberal ,35120.0,3374.0
+47011,Saskatoon--University,Bloc Quebecois ,35120.0,0.0
+47011,Saskatoon--University,Green Party ,35120.0,1027.0
+47011,Saskatoon--University,Other ,35120.0,310.0
+47012,Saskatoon West,Conservative ,30458.0,12956.0
+47012,Saskatoon West,NDP-New Democratic Party ,30458.0,15574.0
+47012,Saskatoon West,Liberal ,30458.0,1146.0
+47012,Saskatoon West,Bloc Quebecois ,30458.0,0.0
+47012,Saskatoon West,Green Party ,30458.0,783.0
+47012,Saskatoon West,Other ,30458.0,0.0
+35092,Sault Ste. Marie,Conservative ,40388.0,16316.0
+35092,Sault Ste. Marie,NDP-New Democratic Party ,40388.0,15124.0
+35092,Sault Ste. Marie,Liberal ,40388.0,7966.0
+35092,Sault Ste. Marie,Bloc Quebecois ,40388.0,0.0
+35092,Sault Ste. Marie,Green Party ,40388.0,846.0
+35092,Sault Ste. Marie,Other ,40388.0,138.0
+35093,Scarborough--Agincourt,Conservative ,37738.0,12887.0
+35093,Scarborough--Agincourt,NDP-New Democratic Party ,37738.0,6788.0
+35093,Scarborough--Agincourt,Liberal ,37738.0,17196.0
+35093,Scarborough--Agincourt,Bloc Quebecois ,37738.0,0.0
+35093,Scarborough--Agincourt,Green Party ,37738.0,866.0
+35093,Scarborough--Agincourt,Other ,37738.0,0.0
+35094,Scarborough Centre,Conservative ,36809.0,12842.0
+35094,Scarborough Centre,NDP-New Democratic Party ,36809.0,11286.0
+35094,Scarborough Centre,Liberal ,36809.0,11738.0
+35094,Scarborough Centre,Bloc Quebecois ,36809.0,0.0
+35094,Scarborough Centre,Green Party ,36809.0,945.0
+35094,Scarborough Centre,Other ,36809.0,0.0
+35095,Scarborough--Guildwood,Conservative ,34593.0,11998.0
+35095,Scarborough--Guildwood,NDP-New Democratic Party ,34593.0,9235.0
+35095,Scarborough--Guildwood,Liberal ,34593.0,12381.0
+35095,Scarborough--Guildwood,Bloc Quebecois ,34593.0,0.0
+35095,Scarborough--Guildwood,Green Party ,34593.0,770.0
+35095,Scarborough--Guildwood,Other ,34593.0,207.0
+35096,Scarborough North,Conservative ,35830.0,11959.0
+35096,Scarborough North,NDP-New Democratic Party ,35830.0,12673.0
+35096,Scarborough North,Liberal ,35830.0,10344.0
+35096,Scarborough North,Bloc Quebecois ,35830.0,0.0
+35096,Scarborough North,Green Party ,35830.0,578.0
+35096,Scarborough North,Other ,35830.0,277.0
+35097,Scarborough--Rouge Park,Conservative ,40730.0,12867.0
+35097,Scarborough--Rouge Park,NDP-New Democratic Party ,40730.0,12621.0
+35097,Scarborough--Rouge Park,Liberal ,40730.0,14156.0
+35097,Scarborough--Rouge Park,Bloc Quebecois ,40730.0,0.0
+35097,Scarborough--Rouge Park,Green Party ,40730.0,975.0
+35097,Scarborough--Rouge Park,Other ,40730.0,112.0
+35098,Scarborough Southwest,Conservative ,39379.0,12474.0
+35098,Scarborough Southwest,NDP-New Democratic Party ,39379.0,13730.0
+35098,Scarborough Southwest,Liberal ,39379.0,11554.0
+35098,Scarborough Southwest,Bloc Quebecois ,39379.0,0.0
+35098,Scarborough Southwest,Green Party ,39379.0,1601.0
+35098,Scarborough Southwest,Other ,39379.0,20.0
+46010,Selkirk--Interlake--Eastman,Conservative ,42683.0,28380.0
+46010,Selkirk--Interlake--Eastman,NDP-New Democratic Party ,42683.0,10696.0
+46010,Selkirk--Interlake--Eastman,Liberal ,42683.0,2071.0
+46010,Selkirk--Interlake--Eastman,Bloc Quebecois ,42683.0,0.0
+46010,Selkirk--Interlake--Eastman,Green Party ,42683.0,1482.0
+46010,Selkirk--Interlake--Eastman,Other ,42683.0,53.0
+24072,Shefford,Conservative ,53982.0,7908.0
+24072,Shefford,NDP-New Democratic Party ,53982.0,27577.0
+24072,Shefford,Liberal ,53982.0,4856.0
+24072,Shefford,Bloc Quebecois ,53982.0,12617.0
+24072,Shefford,Green Party ,53982.0,1022.0
+24072,Shefford,Other ,53982.0,0.0
+24073,Sherbrooke,Conservative ,52870.0,4866.0
+24073,Sherbrooke,NDP-New Democratic Party ,52870.0,22981.0
+24073,Sherbrooke,Liberal ,52870.0,5182.0
+24073,Sherbrooke,Bloc Quebecois ,52870.0,18691.0
+24073,Sherbrooke,Green Party ,52870.0,925.0
+24073,Sherbrooke,Other ,52870.0,228.0
+48032,Sherwood Park--Fort Saskatchewan,Conservative ,50324.0,24889.0
+48032,Sherwood Park--Fort Saskatchewan,NDP-New Democratic Party ,50324.0,5648.0
+48032,Sherwood Park--Fort Saskatchewan,Liberal ,50324.0,3254.0
+48032,Sherwood Park--Fort Saskatchewan,Bloc Quebecois ,50324.0,0.0
+48032,Sherwood Park--Fort Saskatchewan,Green Party ,50324.0,2046.0
+48032,Sherwood Park--Fort Saskatchewan,Other ,50324.0,14486.0
+35099,Simcoe--Grey,Conservative ,55259.0,26765.0
+35099,Simcoe--Grey,NDP-New Democratic Party ,55259.0,9631.0
+35099,Simcoe--Grey,Liberal ,55259.0,7000.0
+35099,Simcoe--Grey,Bloc Quebecois ,55259.0,0.0
+35099,Simcoe--Grey,Green Party ,55259.0,3059.0
+35099,Simcoe--Grey,Other ,55259.0,8807.0
+35100,Simcoe North,Conservative ,51591.0,27795.0
+35100,Simcoe North,NDP-New Democratic Party ,51591.0,10540.0
+35100,Simcoe North,Liberal ,51591.0,9931.0
+35100,Simcoe North,Bloc Quebecois ,51591.0,0.0
+35100,Simcoe North,Green Party ,51591.0,3020.0
+35100,Simcoe North,Other ,51591.0,300.0
+59028,Skeena--Bulkley Valley,Conservative ,35402.0,12235.0
+59028,Skeena--Bulkley Valley,NDP-New Democratic Party ,35402.0,19549.0
+59028,Skeena--Bulkley Valley,Liberal ,35402.0,1277.0
+59028,Skeena--Bulkley Valley,Bloc Quebecois ,35402.0,0.0
+59028,Skeena--Bulkley Valley,Green Party ,35402.0,1131.0
+59028,Skeena--Bulkley Valley,Other ,35402.0,1208.0
+47013,Souris--Moose Mountain,Conservative ,30777.0,22425.0
+47013,Souris--Moose Mountain,NDP-New Democratic Party ,30777.0,5690.0
+47013,Souris--Moose Mountain,Liberal ,30777.0,1718.0
+47013,Souris--Moose Mountain,Bloc Quebecois ,30777.0,0.0
+47013,Souris--Moose Mountain,Green Party ,30777.0,945.0
+47013,Souris--Moose Mountain,Other ,30777.0,0.0
+59029,South Okanagan--West Kootenay,Conservative ,55496.0,24847.0
+59029,South Okanagan--West Kootenay,NDP-New Democratic Party ,55496.0,21886.0
+59029,South Okanagan--West Kootenay,Liberal ,55496.0,3944.0
+59029,South Okanagan--West Kootenay,Bloc Quebecois ,55496.0,0.0
+59029,South Okanagan--West Kootenay,Green Party ,55496.0,4514.0
+59029,South Okanagan--West Kootenay,Other ,55496.0,308.0
+12009,South Shore--St. Margarets,Conservative ,46954.0,19709.0
+12009,South Shore--St. Margarets,NDP-New Democratic Party ,46954.0,16940.0
+12009,South Shore--St. Margarets,Liberal ,46954.0,8431.0
+12009,South Shore--St. Margarets,Bloc Quebecois ,46954.0,0.0
+12009,South Shore--St. Margarets,Green Party ,46954.0,1876.0
+12009,South Shore--St. Margarets,Other ,46954.0,0.0
+59030,South Surrey--White Rock,Conservative ,45178.0,23890.0
+59030,South Surrey--White Rock,NDP-New Democratic Party ,45178.0,8671.0
+59030,South Surrey--White Rock,Liberal ,45178.0,8625.0
+59030,South Surrey--White Rock,Bloc Quebecois ,45178.0,0.0
+59030,South Surrey--White Rock,Green Party ,45178.0,2648.0
+59030,South Surrey--White Rock,Other ,45178.0,1343.0
+35101,Spadina--Fort York,Conservative ,36970.0,7713.0
+35101,Spadina--Fort York,NDP-New Democratic Party ,36970.0,18351.0
+35101,Spadina--Fort York,Liberal ,36970.0,9014.0
+35101,Spadina--Fort York,Bloc Quebecois ,36970.0,0.0
+35101,Spadina--Fort York,Green Party ,36970.0,1541.0
+35101,Spadina--Fort York,Other ,36970.0,350.0
+48031,St. Albert--Edmonton,Conservative ,42844.0,27627.0
+48031,St. Albert--Edmonton,NDP-New Democratic Party ,42844.0,8600.0
+48031,St. Albert--Edmonton,Liberal ,42844.0,4642.0
+48031,St. Albert--Edmonton,Bloc Quebecois ,42844.0,0.0
+48031,St. Albert--Edmonton,Green Party ,42844.0,1973.0
+48031,St. Albert--Edmonton,Other ,42844.0,0.0
+35089,St. Catharines,Conservative ,49529.0,25089.0
+35089,St. Catharines,NDP-New Democratic Party ,49529.0,11860.0
+35089,St. Catharines,Liberal ,49529.0,10249.0
+35089,St. Catharines,Bloc Quebecois ,49529.0,0.0
+35089,St. Catharines,Green Party ,49529.0,1896.0
+35089,St. Catharines,Other ,49529.0,436.0
+10006,St. John's East,Conservative ,36858.0,7538.0
+10006,St. John's East,NDP-New Democratic Party ,36858.0,26042.0
+10006,St. John's East,Liberal ,36858.0,2864.0
+10006,St. John's East,Bloc Quebecois ,36858.0,0.0
+10006,St. John's East,Green Party ,36858.0,415.0
+10006,St. John's East,Other ,36858.0,0.0
+10007,St. John's South--Mount Pearl,Conservative ,38684.0,9366.0
+10007,St. John's South--Mount Pearl,NDP-New Democratic Party ,38684.0,17924.0
+10007,St. John's South--Mount Pearl,Liberal ,38684.0,11103.0
+10007,St. John's South--Mount Pearl,Bloc Quebecois ,38684.0,0.0
+10007,St. John's South--Mount Pearl,Green Party ,38684.0,281.0
+10007,St. John's South--Mount Pearl,Other ,38684.0,9.0
+59031,Steveston--Richmond East,Conservative ,33799.0,18224.0
+59031,Steveston--Richmond East,NDP-New Democratic Party ,33799.0,7714.0
+59031,Steveston--Richmond East,Liberal ,33799.0,6287.0
+59031,Steveston--Richmond East,Bloc Quebecois ,33799.0,0.0
+59031,Steveston--Richmond East,Green Party ,33799.0,1399.0
+59031,Steveston--Richmond East,Other ,33799.0,177.0
+35102,Stormont--Dundas--South Glengarry,Conservative ,47550.0,29538.0
+35102,Stormont--Dundas--South Glengarry,NDP-New Democratic Party ,47550.0,8313.0
+35102,Stormont--Dundas--South Glengarry,Liberal ,47550.0,8510.0
+35102,Stormont--Dundas--South Glengarry,Bloc Quebecois ,47550.0,0.0
+35102,Stormont--Dundas--South Glengarry,Green Party ,47550.0,1038.0
+35102,Stormont--Dundas--South Glengarry,Other ,47550.0,151.0
+48033,Sturgeon River--Parkland,Conservative ,43607.0,33789.0
+48033,Sturgeon River--Parkland,NDP-New Democratic Party ,43607.0,5657.0
+48033,Sturgeon River--Parkland,Liberal ,43607.0,2385.0
+48033,Sturgeon River--Parkland,Bloc Quebecois ,43607.0,0.0
+48033,Sturgeon River--Parkland,Green Party ,43607.0,1742.0
+48033,Sturgeon River--Parkland,Other ,43607.0,35.0
+35103,Sudbury,Conservative ,45441.0,12881.0
+35103,Sudbury,NDP-New Democratic Party ,45441.0,22684.0
+35103,Sudbury,Liberal ,45441.0,8172.0
+35103,Sudbury,Bloc Quebecois ,45441.0,0.0
+35103,Sudbury,Green Party ,45441.0,1359.0
+35103,Sudbury,Other ,45441.0,345.0
+59032,Surrey Centre,Conservative ,32580.0,11618.0
+59032,Surrey Centre,NDP-New Democratic Party ,32580.0,13040.0
+59032,Surrey Centre,Liberal ,32580.0,5787.0
+59032,Surrey Centre,Bloc Quebecois ,32580.0,0.0
+59032,Surrey Centre,Green Party ,32580.0,1186.0
+59032,Surrey Centre,Other ,32580.0,948.0
+59033,Surrey--Newton,Conservative ,32471.0,8903.0
+59033,Surrey--Newton,NDP-New Democratic Party ,32471.0,11457.0
+59033,Surrey--Newton,Liberal ,32471.0,11068.0
+59033,Surrey--Newton,Bloc Quebecois ,32471.0,0.0
+59033,Surrey--Newton,Green Party ,32471.0,844.0
+59033,Surrey--Newton,Other ,32471.0,199.0
+12010,Sydney--Victoria,Conservative ,37051.0,14023.0
+12010,Sydney--Victoria,NDP-New Democratic Party ,37051.0,7049.0
+12010,Sydney--Victoria,Liberal ,37051.0,14788.0
+12010,Sydney--Victoria,Bloc Quebecois ,37051.0,0.0
+12010,Sydney--Victoria,Green Party ,37051.0,1191.0
+12010,Sydney--Victoria,Other ,37051.0,0.0
+24075,Terrebonne,Conservative ,49720.0,4011.0
+24075,Terrebonne,NDP-New Democratic Party ,49720.0,25626.0
+24075,Terrebonne,Liberal ,49720.0,3441.0
+24075,Terrebonne,Bloc Quebecois ,49720.0,15303.0
+24075,Terrebonne,Green Party ,49720.0,1339.0
+24075,Terrebonne,Other ,49720.0,0.0
+24013,Therese-De Blainville,Conservative ,48322.0,4715.0
+24013,Therese-De Blainville,NDP-New Democratic Party ,48322.0,24181.0
+24013,Therese-De Blainville,Liberal ,48322.0,4961.0
+24013,Therese-De Blainville,Bloc Quebecois ,48322.0,13456.0
+24013,Therese-De Blainville,Green Party ,48322.0,1012.0
+24013,Therese-De Blainville,Other ,48322.0,0.0
+35104,Thornhill,Conservative ,46114.0,29140.0
+35104,Thornhill,NDP-New Democratic Party ,46114.0,5299.0
+35104,Thornhill,Liberal ,46114.0,10374.0
+35104,Thornhill,Bloc Quebecois ,46114.0,0.0
+35104,Thornhill,Green Party ,46114.0,1141.0
+35104,Thornhill,Other ,46114.0,160.0
+35105,Thunder Bay--Rainy River,Conservative ,37260.0,10138.0
+35105,Thunder Bay--Rainy River,NDP-New Democratic Party ,37260.0,18125.0
+35105,Thunder Bay--Rainy River,Liberal ,37260.0,8085.0
+35105,Thunder Bay--Rainy River,Bloc Quebecois ,37260.0,0.0
+35105,Thunder Bay--Rainy River,Green Party ,37260.0,911.0
+35105,Thunder Bay--Rainy River,Other ,37260.0,0.0
+35106,Thunder Bay--Superior North,Conservative ,37649.0,11162.0
+35106,Thunder Bay--Superior North,NDP-New Democratic Party ,37649.0,18882.0
+35106,Thunder Bay--Superior North,Liberal ,37649.0,6202.0
+35106,Thunder Bay--Superior North,Bloc Quebecois ,37649.0,0.0
+35106,Thunder Bay--Superior North,Green Party ,37649.0,1137.0
+35106,Thunder Bay--Superior North,Other ,37649.0,265.0
+35107,Timmins--James Bay,Conservative ,33703.0,10744.0
+35107,Timmins--James Bay,NDP-New Democratic Party ,33703.0,16832.0
+35107,Timmins--James Bay,Liberal ,33703.0,5389.0
+35107,Timmins--James Bay,Bloc Quebecois ,33703.0,0.0
+35107,Timmins--James Bay,Green Party ,33703.0,741.0
+35107,Timmins--James Bay,Other ,33703.0,0.0
+13010,Tobique--Mactaquac,Conservative ,34455.0,21410.0
+13010,Tobique--Mactaquac,NDP-New Democratic Party ,34455.0,6594.0
+13010,Tobique--Mactaquac,Liberal ,34455.0,5592.0
+13010,Tobique--Mactaquac,Bloc Quebecois ,34455.0,0.0
+13010,Tobique--Mactaquac,Green Party ,34455.0,854.0
+13010,Tobique--Mactaquac,Other ,34455.0,7.0
+35108,Toronto Centre,Conservative ,37350.0,6475.0
+35108,Toronto Centre,NDP-New Democratic Party ,37350.0,13617.0
+35108,Toronto Centre,Liberal ,37350.0,14829.0
+35108,Toronto Centre,Bloc Quebecois ,37350.0,0.0
+35108,Toronto Centre,Green Party ,37350.0,1943.0
+35108,Toronto Centre,Other ,37350.0,486.0
+35109,Toronto--Danforth,Conservative ,48086.0,6885.0
+35109,Toronto--Danforth,NDP-New Democratic Party ,48086.0,29235.0
+35109,Toronto--Danforth,Liberal ,48086.0,8472.0
+35109,Toronto--Danforth,Bloc Quebecois ,48086.0,0.0
+35109,Toronto--Danforth,Green Party ,48086.0,3107.0
+35109,Toronto--Danforth,Other ,48086.0,387.0
+35090,Toronto--St. Paul's,Conservative ,49000.0,15886.0
+35090,Toronto--St. Paul's,NDP-New Democratic Party ,49000.0,11087.0
+35090,Toronto--St. Paul's,Liberal ,49000.0,19564.0
+35090,Toronto--St. Paul's,Bloc Quebecois ,49000.0,0.0
+35090,Toronto--St. Paul's,Green Party ,49000.0,2196.0
+35090,Toronto--St. Paul's,Other ,49000.0,267.0
+24076,Trois-Rivieres,Conservative ,56907.0,7483.0
+24076,Trois-Rivieres,NDP-New Democratic Party ,56907.0,28280.0
+24076,Trois-Rivieres,Liberal ,56907.0,5707.0
+24076,Trois-Rivieres,Bloc Quebecois ,56907.0,13775.0
+24076,Trois-Rivieres,Green Party ,56907.0,1079.0
+24076,Trois-Rivieres,Other ,56907.0,583.0
+35110,University--Rosedale,Conservative ,46661.0,9393.0
+35110,University--Rosedale,NDP-New Democratic Party ,46661.0,20452.0
+35110,University--Rosedale,Liberal ,46661.0,14266.0
+35110,University--Rosedale,Bloc Quebecois ,46661.0,0.0
+35110,University--Rosedale,Green Party ,46661.0,2175.0
+35110,University--Rosedale,Other ,46661.0,379.0
+59034,Vancouver Centre,Conservative ,41563.0,10828.0
+59034,Vancouver Centre,NDP-New Democratic Party ,41563.0,10951.0
+59034,Vancouver Centre,Liberal ,41563.0,12895.0
+59034,Vancouver Centre,Bloc Quebecois ,41563.0,0.0
+59034,Vancouver Centre,Green Party ,41563.0,6268.0
+59034,Vancouver Centre,Other ,41563.0,622.0
+59035,Vancouver East,Conservative ,44238.0,8361.0
+59035,Vancouver East,NDP-New Democratic Party ,44238.0,27794.0
+59035,Vancouver East,Liberal ,44238.0,4382.0
+59035,Vancouver East,Bloc Quebecois ,44238.0,0.0
+59035,Vancouver East,Green Party ,44238.0,3383.0
+59035,Vancouver East,Other ,44238.0,318.0
+59036,Vancouver Granville,Conservative ,43645.0,15442.0
+59036,Vancouver Granville,NDP-New Democratic Party ,43645.0,10672.0
+59036,Vancouver Granville,Liberal ,43645.0,13138.0
+59036,Vancouver Granville,Bloc Quebecois ,43645.0,0.0
+59036,Vancouver Granville,Green Party ,43645.0,4028.0
+59036,Vancouver Granville,Other ,43645.0,374.0
+59038,Vancouver Kingsway,Conservative ,36579.0,10177.0
+59038,Vancouver Kingsway,NDP-New Democratic Party ,36579.0,18752.0
+59038,Vancouver Kingsway,Liberal ,36579.0,5917.0
+59038,Vancouver Kingsway,Bloc Quebecois ,36579.0,0.0
+59038,Vancouver Kingsway,Green Party ,36579.0,1292.0
+59038,Vancouver Kingsway,Other ,36579.0,441.0
+59039,Vancouver Quadra,Conservative ,46531.0,16953.0
+59039,Vancouver Quadra,NDP-New Democratic Party ,46531.0,6722.0
+59039,Vancouver Quadra,Liberal ,46531.0,20227.0
+59039,Vancouver Quadra,Bloc Quebecois ,46531.0,0.0
+59039,Vancouver Quadra,Green Party ,46531.0,2629.0
+59039,Vancouver Quadra,Other ,46531.0,0.0
+59040,Vancouver South,Conservative ,36701.0,15571.0
+59040,Vancouver South,NDP-New Democratic Party ,36701.0,7733.0
+59040,Vancouver South,Liberal ,36701.0,12390.0
+59040,Vancouver South,Bloc Quebecois ,36701.0,0.0
+59040,Vancouver South,Green Party ,36701.0,810.0
+59040,Vancouver South,Other ,36701.0,202.0
+24074,Vaudreuil--Soulanges,Conservative ,55478.0,9770.0
+24074,Vaudreuil--Soulanges,NDP-New Democratic Party ,55478.0,24134.0
+24074,Vaudreuil--Soulanges,Liberal ,55478.0,6873.0
+24074,Vaudreuil--Soulanges,Bloc Quebecois ,55478.0,13129.0
+24074,Vaudreuil--Soulanges,Green Party ,55478.0,1574.0
+24074,Vaudreuil--Soulanges,Other ,55478.0,0.0
+35111,Vaughan--Woodbridge,Conservative ,38449.0,21750.0
+35111,Vaughan--Woodbridge,NDP-New Democratic Party ,38449.0,4113.0
+35111,Vaughan--Woodbridge,Liberal ,38449.0,11807.0
+35111,Vaughan--Woodbridge,Bloc Quebecois ,38449.0,0.0
+35111,Vaughan--Woodbridge,Green Party ,38449.0,780.0
+35111,Vaughan--Woodbridge,Other ,38449.0,0.0
+59041,Victoria,Conservative ,60417.0,14275.0
+59041,Victoria,NDP-New Democratic Party ,60417.0,30679.0
+59041,Victoria,Liberal ,60417.0,8448.0
+59041,Victoria,Bloc Quebecois ,60417.0,0.0
+59041,Victoria,Green Party ,60417.0,7015.0
+59041,Victoria,Other ,60417.0,0.0
+24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,Conservative ,40074.0,4772.0
+24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,NDP-New Democratic Party ,40074.0,16627.0
+24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,Liberal ,40074.0,11014.0
+24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,Bloc Quebecois ,40074.0,6424.0
+24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,Green Party ,40074.0,1118.0
+24077,Ville-Marie--Le Sud-Ouest--�le-des-Soeurs,Other ,40074.0,122.0
+24078,Vimy,Conservative ,47163.0,6020.0
+24078,Vimy,NDP-New Democratic Party ,47163.0,20138.0
+24078,Vimy,Liberal ,47163.0,9598.0
+24078,Vimy,Bloc Quebecois ,47163.0,10256.0
+24078,Vimy,Green Party ,47163.0,908.0
+24078,Vimy,Other ,47163.0,239.0
+35112,Waterloo,Conservative ,53634.0,22192.0
+35112,Waterloo,NDP-New Democratic Party ,53634.0,8014.0
+35112,Waterloo,Liberal ,53634.0,20552.0
+35112,Waterloo,Bloc Quebecois ,53634.0,0.0
+35112,Waterloo,Green Party ,53634.0,2508.0
+35112,Waterloo,Other ,53634.0,366.0
+35113,Wellington--Halton Hills,Conservative ,55154.0,35131.0
+35113,Wellington--Halton Hills,NDP-New Democratic Party ,55154.0,7146.0
+35113,Wellington--Halton Hills,Liberal ,55154.0,9034.0
+35113,Wellington--Halton Hills,Bloc Quebecois ,55154.0,0.0
+35113,Wellington--Halton Hills,Green Party ,55154.0,3527.0
+35113,Wellington--Halton Hills,Other ,55154.0,316.0
+12011,West Nova,Conservative ,42954.0,20204.0
+12011,West Nova,NDP-New Democratic Party ,42954.0,5631.0
+12011,West Nova,Liberal ,42954.0,15632.0
+12011,West Nova,Bloc Quebecois ,42954.0,0.0
+12011,West Nova,Green Party ,42954.0,1487.0
+12011,West Nova,Other ,42954.0,0.0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Conservative ,52062.0,23840.0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,NDP-New Democratic Party ,52062.0,11177.0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Liberal ,52062.0,12395.0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Bloc Quebecois ,52062.0,0.0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Green Party ,52062.0,3971.0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Other ,52062.0,679.0
+35114,Whitby,Conservative ,52771.0,31034.0
+35114,Whitby,NDP-New Democratic Party ,52771.0,11297.0
+35114,Whitby,Liberal ,52771.0,7644.0
+35114,Whitby,Bloc Quebecois ,52771.0,0.0
+35114,Whitby,Green Party ,52771.0,2628.0
+35114,Whitby,Other ,52771.0,168.0
+35115,Willowdale,Conservative ,38984.0,16167.0
+35115,Willowdale,NDP-New Democratic Party ,38984.0,7384.0
+35115,Willowdale,Liberal ,38984.0,15281.0
+35115,Willowdale,Bloc Quebecois ,38984.0,0.0
+35115,Willowdale,Green Party ,38984.0,152.0
+35115,Willowdale,Other ,38984.0,0.0
+35116,Windsor--Tecumseh,Conservative ,44540.0,14945.0
+35116,Windsor--Tecumseh,NDP-New Democratic Party ,44540.0,22235.0
+35116,Windsor--Tecumseh,Liberal ,44540.0,5764.0
+35116,Windsor--Tecumseh,Bloc Quebecois ,44540.0,0.0
+35116,Windsor--Tecumseh,Green Party ,44540.0,1354.0
+35116,Windsor--Tecumseh,Other ,44540.0,242.0
+35117,Windsor West,Conservative ,39745.0,12577.0
+35117,Windsor West,NDP-New Democratic Party ,39745.0,21592.0
+35117,Windsor West,Liberal ,39745.0,4327.0
+35117,Windsor West,Bloc Quebecois ,39745.0,0.0
+35117,Windsor West,Green Party ,39745.0,1096.0
+35117,Windsor West,Other ,39745.0,153.0
+46011,Winnipeg Centre,Conservative ,25955.0,7173.0
+46011,Winnipeg Centre,NDP-New Democratic Party ,25955.0,13928.0
+46011,Winnipeg Centre,Liberal ,25955.0,2872.0
+46011,Winnipeg Centre,Bloc Quebecois ,25955.0,0.0
+46011,Winnipeg Centre,Green Party ,25955.0,1830.0
+46011,Winnipeg Centre,Other ,25955.0,152.0
+46012,Winnipeg North,Conservative ,26668.0,7295.0
+46012,Winnipeg North,NDP-New Democratic Party ,26668.0,9439.0
+46012,Winnipeg North,Liberal ,26668.0,9331.0
+46012,Winnipeg North,Bloc Quebecois ,26668.0,0.0
+46012,Winnipeg North,Green Party ,26668.0,475.0
+46012,Winnipeg North,Other ,26668.0,125.0
+46013,Winnipeg South,Conservative ,39642.0,20511.0
+46013,Winnipeg South,NDP-New Democratic Party ,39642.0,5605.0
+46013,Winnipeg South,Liberal ,39642.0,12684.0
+46013,Winnipeg South,Bloc Quebecois ,39642.0,0.0
+46013,Winnipeg South,Green Party ,39642.0,848.0
+46013,Winnipeg South,Other ,39642.0,0.0
+46014,Winnipeg South Centre,Conservative ,46620.0,19185.0
+46014,Winnipeg South Centre,NDP-New Democratic Party ,46620.0,8554.0
+46014,Winnipeg South Centre,Liberal ,46620.0,17058.0
+46014,Winnipeg South Centre,Bloc Quebecois ,46620.0,0.0
+46014,Winnipeg South Centre,Green Party ,46620.0,1501.0
+46014,Winnipeg South Centre,Other ,46620.0,321.0
+48034,Yellowhead,Conservative ,40013.0,31238.0
+48034,Yellowhead,NDP-New Democratic Party ,40013.0,5154.0
+48034,Yellowhead,Liberal ,40013.0,1158.0
+48034,Yellowhead,Bloc Quebecois ,40013.0,0.0
+48034,Yellowhead,Green Party ,40013.0,2135.0
+48034,Yellowhead,Other ,40013.0,328.0
+35118,York Centre,Conservative ,35544.0,17249.0
+35118,York Centre,NDP-New Democratic Party ,35544.0,5650.0
+35118,York Centre,Liberal ,35544.0,11815.0
+35118,York Centre,Bloc Quebecois ,35544.0,0.0
+35118,York Centre,Green Party ,35544.0,832.0
+35118,York Centre,Other ,35544.0,0.0
+35119,York--Simcoe,Conservative ,38678.0,24623.0
+35119,York--Simcoe,NDP-New Democratic Party ,38678.0,7187.0
+35119,York--Simcoe,Liberal ,38678.0,4384.0
+35119,York--Simcoe,Bloc Quebecois ,38678.0,0.0
+35119,York--Simcoe,Green Party ,38678.0,2073.0
+35119,York--Simcoe,Other ,38678.0,408.0
+35120,York South--Weston,Conservative ,35198.0,8559.0
+35120,York South--Weston,NDP-New Democratic Party ,35198.0,14122.0
+35120,York South--Weston,Liberal ,35198.0,11542.0
+35120,York South--Weston,Bloc Quebecois ,35198.0,0.0
+35120,York South--Weston,Green Party ,35198.0,975.0
+35120,York South--Weston,Other ,35198.0,0.0
+47014,Yorkton--Melville,Conservative ,34274.0,23607.0
+47014,Yorkton--Melville,NDP-New Democratic Party ,34274.0,7526.0
+47014,Yorkton--Melville,Liberal ,34274.0,2267.0
+47014,Yorkton--Melville,Bloc Quebecois ,34274.0,0.0
+47014,Yorkton--Melville,Green Party ,34274.0,818.0
+47014,Yorkton--Melville,Other ,34274.0,58.0
+60001,Yukon,Conservative ,16057.0,5422.0
+60001,Yukon,NDP-New Democratic Party ,16057.0,2308.0
+60001,Yukon,Liberal ,16057.0,5290.0
+60001,Yukon,Bloc Quebecois ,16057.0,0.0
+60001,Yukon,Green Party ,16057.0,3037.0
+60001,Yukon,Other ,16057.0,0.0
