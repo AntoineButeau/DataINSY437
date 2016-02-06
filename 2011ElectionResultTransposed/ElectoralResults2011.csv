@@ -407,12 +407,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 46003,Churchill--Keewatinook Aski,Bloc Quebecois ,0.0
 46003,Churchill--Keewatinook Aski,Green Party ,2.3
 46003,Churchill--Keewatinook Aski,Other ,0.0
-24021,Ch•À_teauguay--Lacolle,Conservative ,12.0
-24021,Ch•À_teauguay--Lacolle,NDP-New Democratic Party ,48.7
-24021,Ch•À_teauguay--Lacolle,Liberal ,10.2
-24021,Ch•À_teauguay--Lacolle,Bloc Quebecois ,26.9
-24021,Ch•À_teauguay--Lacolle,Green Party ,1.9
-24021,Ch•À_teauguay--Lacolle,Other ,0.2
+24021,Chateauguay--Lacolle,Conservative ,12.0
+24021,Chateauguay--Lacolle,NDP-New Democratic Party ,48.7
+24021,Chateauguay--Lacolle,Liberal ,10.2
+24021,Chateauguay--Lacolle,Bloc Quebecois ,26.9
+24021,Chateauguay--Lacolle,Green Party ,1.9
+24021,Chateauguay--Lacolle,Other ,0.2
 59007,Cloverdale--Langley City,Conservative ,57.4
 59007,Cloverdale--Langley City,NDP-New Democratic Party ,24.7
 59007,Cloverdale--Langley City,Liberal ,11.8
@@ -671,12 +671,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 13004,Fundy Royal,Bloc Quebecois ,0.0
 13004,Fundy Royal,Green Party ,4.7
 13004,Fundy Royal,Other ,0.0
-24026,Gaspesie--Les •À_les-de-la-Madeleine,Conservative ,19.1
-24026,Gaspesie--Les •À_les-de-la-Madeleine,NDP-New Democratic Party ,28.8
-24026,Gaspesie--Les •À_les-de-la-Madeleine,Liberal ,17.0
-24026,Gaspesie--Les •À_les-de-la-Madeleine,Bloc Quebecois ,33.1
-24026,Gaspesie--Les •À_les-de-la-Madeleine,Green Party ,2.0
-24026,Gaspesie--Les •À_les-de-la-Madeleine,Other ,0.0
+24026,Gaspesie--Les-iles-de-la-Madeleine,Conservative ,19.1
+24026,Gaspesie--Les-iles-de-la-Madeleine,NDP-New Democratic Party ,28.8
+24026,Gaspesie--Les-iles-de-la-Madeleine,Liberal ,17.0
+24026,Gaspesie--Les-iles-de-la-Madeleine,Bloc Quebecois ,33.1
+24026,Gaspesie--Les-iles-de-la-Madeleine,Green Party ,2.0
+24026,Gaspesie--Les-iles-de-la-Madeleine,Other ,0.0
 24027,Gatineau,Conservative ,8.0
 24027,Gatineau,NDP-New Democratic Party ,62.1
 24027,Gatineau,Liberal ,13.8
@@ -911,12 +911,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 59016,Langley--Aldergrove,Bloc Quebecois ,0.0
 59016,Langley--Aldergrove,Green Party ,5.3
 59016,Langley--Aldergrove,Other ,0.6
-24033,La Pointe-de-l'•À_le,Conservative ,7.7
-24033,La Pointe-de-l'•À_le,NDP-New Democratic Party ,47.5
-24033,La Pointe-de-l'•À_le,Liberal ,10.1
-24033,La Pointe-de-l'•À_le,Bloc Quebecois ,32.4
-24033,La Pointe-de-l'•À_le,Green Party ,1.9
-24033,La Pointe-de-l'•À_le,Other ,0.5
+24033,La Pointe-de-l'ile,Conservative ,7.7
+24033,La Pointe-de-l'ile,NDP-New Democratic Party ,47.5
+24033,La Pointe-de-l'ile,Liberal ,10.1
+24033,La Pointe-de-l'ile,Bloc Quebecois ,32.4
+24033,La Pointe-de-l'ile,Green Party ,1.9
+24033,La Pointe-de-l'ile,Other ,0.5
 24034,La Prairie,Conservative ,9.4
 24034,La Prairie,NDP-New Democratic Party ,50.0
 24034,La Prairie,Liberal ,13.2
@@ -941,12 +941,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 24039,Laurier--Sainte-Marie,Bloc Quebecois ,34.9
 24039,Laurier--Sainte-Marie,Green Party ,2.6
 24039,Laurier--Sainte-Marie,Other ,1.3
-24040,Laval--Les •À_les,Conservative ,16.4
-24040,Laval--Les •À_les,NDP-New Democratic Party ,47.2
-24040,Laval--Les •À_les,Liberal ,20.6
-24040,Laval--Les •À_les,Bloc Quebecois ,12.9
-24040,Laval--Les •À_les,Green Party ,1.8
-24040,Laval--Les •À_les,Other ,1.1
+24040,Laval--Les-iles,Conservative ,16.4
+24040,Laval--Les-iles,NDP-New Democratic Party ,47.2
+24040,Laval--Les-iles,Liberal ,20.6
+24040,Laval--Les-iles,Bloc Quebecois ,12.9
+24040,Laval--Les-iles,Green Party ,1.8
+24040,Laval--Les-iles,Other ,1.1
 35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Conservative ,60.8
 35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,NDP-New Democratic Party ,18.3
 35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Liberal ,15.9
@@ -1253,12 +1253,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 61001,Northwest Territories,Bloc Quebecois ,0.0
 61001,Northwest Territories,Green Party ,3.1
 61001,Northwest Territories,Other ,0.6
-24053,Notre-Dame-de-Gr•À_ce--Westmount,Conservative ,17.7
-24053,Notre-Dame-de-Gr•À_ce--Westmount,NDP-New Democratic Party ,35.1
-24053,Notre-Dame-de-Gr•À_ce--Westmount,Liberal ,38.2
-24053,Notre-Dame-de-Gr•À_ce--Westmount,Bloc Quebecois ,4.1
-24053,Notre-Dame-de-Gr•À_ce--Westmount,Green Party ,4.4
-24053,Notre-Dame-de-Gr•À_ce--Westmount,Other ,0.6
+24053,Notre-Dame-de-Grace--Westmount,Conservative ,17.7
+24053,Notre-Dame-de-Grace--Westmount,NDP-New Democratic Party ,35.1
+24053,Notre-Dame-de-Grace--Westmount,Liberal ,38.2
+24053,Notre-Dame-de-Grace--Westmount,Bloc Quebecois ,4.1
+24053,Notre-Dame-de-Grace--Westmount,Green Party ,4.4
+24053,Notre-Dame-de-Grace--Westmount,Other ,0.6
 62001,Nunavut,Conservative ,49.9
 62001,Nunavut,NDP-New Democratic Party ,19.4
 62001,Nunavut,Liberal ,28.7
@@ -1499,12 +1499,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 24018,Rimouski-Neigette--Temiscouata--Les Basques,Bloc Quebecois ,30.8
 24018,Rimouski-Neigette--Temiscouata--Les Basques,Green Party ,2.0
 24018,Rimouski-Neigette--Temiscouata--Les Basques,Other ,0.0
-24062,Riviere-des-Mille-•À_les,Conservative ,10.3
-24062,Riviere-des-Mille-•À_les,NDP-New Democratic Party ,49.1
-24062,Riviere-des-Mille-•À_les,Liberal ,11.1
-24062,Riviere-des-Mille-•À_les,Bloc Quebecois ,27.1
-24062,Riviere-des-Mille-•À_les,Green Party ,2.4
-24062,Riviere-des-Mille-•À_les,Other ,0.0
+24062,Riviere-des-Mille-iles,Conservative ,10.3
+24062,Riviere-des-Mille-iles,NDP-New Democratic Party ,49.1
+24062,Riviere-des-Mille-iles,Liberal ,11.1
+24062,Riviere-des-Mille-iles,Bloc Quebecois ,27.1
+24062,Riviere-des-Mille-iles,Green Party ,2.4
+24062,Riviere-des-Mille-iles,Other ,0.0
 24063,Riviere-du-Nord,Conservative ,8.4
 24063,Riviere-du-Nord,NDP-New Democratic Party ,55.1
 24063,Riviere-du-Nord,Liberal ,6.5
@@ -1571,12 +1571,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 24070,Saint-Maurice--Champlain,Bloc Quebecois ,28.5
 24070,Saint-Maurice--Champlain,Green Party ,2.0
 24070,Saint-Maurice--Champlain,Other ,0.2
-24071,Salaberry--Suro•À_t,Conservative ,12.7
-24071,Salaberry--Suro•À_t,NDP-New Democratic Party ,43.6
-24071,Salaberry--Suro•À_t,Liberal ,8.1
-24071,Salaberry--Suro•À_t,Bloc Quebecois ,33.7
-24071,Salaberry--Suro•À_t,Green Party ,1.8
-24071,Salaberry--Suro•À_t,Other ,0.0
+24071,Salaberry--Suroit,Conservative ,12.7
+24071,Salaberry--Suroit,NDP-New Democratic Party ,43.6
+24071,Salaberry--Suroit,Liberal ,8.1
+24071,Salaberry--Suroit,Bloc Quebecois ,33.7
+24071,Salaberry--Suroit,Green Party ,1.8
+24071,Salaberry--Suroit,Other ,0.0
 35091,Sarnia--Lambton,Conservative ,52.6
 35091,Sarnia--Lambton,NDP-New Democratic Party ,29.9
 35091,Sarnia--Lambton,Liberal ,14.0
@@ -1907,12 +1907,12 @@ Electoral district number,Electoral district name,Political affiliation (2011),%
 59041,Victoria,Bloc Quebecois ,0.0
 59041,Victoria,Green Party ,11.6
 59041,Victoria,Other ,0.0
-24077,Ville-Marie--Le Sud-Ouest--•À_le-des-Soeurs,Conservative ,11.9
-24077,Ville-Marie--Le Sud-Ouest--•À_le-des-Soeurs,NDP-New Democratic Party ,41.5
-24077,Ville-Marie--Le Sud-Ouest--•À_le-des-Soeurs,Liberal ,27.5
-24077,Ville-Marie--Le Sud-Ouest--•À_le-des-Soeurs,Bloc Quebecois ,16.0
-24077,Ville-Marie--Le Sud-Ouest--•À_le-des-Soeurs,Green Party ,2.8
-24077,Ville-Marie--Le Sud-Ouest--•À_le-des-Soeurs,Other ,0.3
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,Conservative ,11.9
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,NDP-New Democratic Party ,41.5
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,Liberal ,27.5
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,Bloc Quebecois ,16.0
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,Green Party ,2.8
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,Other ,0.3
 24078,Vimy,Conservative ,12.8
 24078,Vimy,NDP-New Democratic Party ,42.7
 24078,Vimy,Liberal ,20.4
