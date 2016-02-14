@@ -1,0 +1,339 @@
+Electoral district number,Electoral district name,Conservative % Votes Obtained (2011),Liberal % Votes Obtained (2011),NDP % Votes Obtained (2011),Bloc Quebecois % Votes Obtained (2011),Green Party % Votes Obtained (2011),Other % Votes Obtained (2011)
+10001,Avalon,37.1,33.2,28.5,0,0.6,0.6
+10002,Bonavista--Burin--Trinity,30.5,54.5,13.9,0,0.9,0
+10003,Coast of Bays--Central--Notre Dame,30.3,54.9,13.6,0,0.9,0
+10004,Labrador,39.8,39.1,19.8,0,0,0
+10005,Long Range Mountains,25.3,55.2,17.8,0,1,0
+10006,St. John's East,20.5,7.8,70.7,0,1.1,0
+10007,St. John's South--Mount Pearl,24.2,28.7,46.3,0,0.7,0
+11001,Cardigan,38.4,49.6,10.2,0,1.8,0
+11002,Charlottetown,32.7,39.5,25.1,0,2.3,0
+11003,Egmont,54.6,31.3,12.4,0,1.7,0
+11004,Malpeque,39.1,42.4,14.6,0,3.9,0
+12001,Cape Breton--Canso,32.6,44.1,20,0,3.2,0
+12002,Central Nova,55.3,14,26.8,0,3.8,0.1
+12003,Cumberland--Colchester,52.9,18.4,22.5,0,5.4,0.8
+12004,Dartmouth--Cole Harbour,25,34.7,36.4,0,3.8,0
+12005,Halifax,18,25.6,51.6,0,4.4,0.3
+12006,Halifax West,30.2,37.3,28.4,0,4.1,0
+12007,Kings--Hants,36.6,39.6,20,0,3.8,0
+12008,Sackville--Preston--Chezzetcook,30.2,11.3,54.3,0,4.2,0
+12009,South Shore--St. Margarets,42,18,36.1,0,4,0
+12010,Sydney--Victoria,37.8,39.9,19,0,3.2,0
+12011,West Nova,47,36.4,13.1,0,3.5,0
+13001,Acadie--Bathurst,16.5,14.3,69.1,0,0.1,0
+13002,Beausejour,31.7,40.7,23.4,0,4.2,0
+13003,Fredericton,47,24,24.3,0,4.1,0
+13004,Fundy Royal,57.9,10.4,26.9,0,4.7,0
+13005,Madawaska--Restigouche,40.5,34.8,19.3,0,1.8,0
+13006,Miramichi--Grand Lake,53.2,21.4,22.9,0,2.5,0
+13007,Moncton--Riverview--Dieppe,36.8,30.5,28.5,0,4.3,0
+13008,New Brunswick Southwest,56.7,13.6,23.3,0,5.1,0
+13009,Saint John--Rothesay,49.7,16,30.7,0,2.8,0
+13010,Tobique--Mactaquac,62.1,16.2,19.1,0,2.5,0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,22.6,10.5,44.8,18.3,3.9,0
+24002,Abitibi--Temiscamingue,9.9,5.9,51.2,31.5,1.4,0
+24003,Ahuntsic-Cartierville,8.6,31.1,29.9,28.3,1.5,0.6
+24004,Alfred-Pellan,11.2,22.3,42.2,22.4,1.5,0.5
+24005,Argenteuil--La Petite-Nation,14.7,13.7,45,23.3,2.6,0
+24006,Avignon--La Mitis--Matane--Matapedia,13.2,23.2,26.6,34.5,2.5,0
+24007,Beauce,50.7,11,30,6.7,1.6,0
+24008,Beauport--Limoilou,25.3,6.4,45.9,20.1,1.9,0.5
+24009,Becancour--Nicolet--Saurel,13,10.1,35.6,38.3,3,0
+24010,Bellechasse--Les Etchemins--Levis,43.9,5.8,33.8,14.9,1.5,0
+24011,Beloeil--Chambly,7.9,9,42.6,27.4,1.6,11.5
+24012,Berthier--Maskinonge,12.7,12.1,41.2,31,2.3,0
+24013,Therese-De Blainville,9.8,10.3,50,27.8,2.1,0
+24014,Pierre-Boucher--Les Patriotes--Vercheres,8.4,9.9,44.8,34.2,2.1,0
+24015,Bourassa,8.2,38.5,32.4,19,1.6,0.4
+24016,Brome--Missisquoi,11.9,22.1,42.6,21.3,2.1,0
+24017,Brossard--Saint-Lambert,12.8,32.8,36.8,15.9,1.5,0
+24018,Rimouski-Neigette--Temiscouata--Les Basques,14.6,9.6,43,30.8,2,0
+24019,Charlesbourg--Haute-Saint-Charles,30.3,6.5,45,16.3,1.6,0
+24020,Beauport-Cote-de-Beaupre-ile d'Orleans-Charlevoix,23,5.3,38.2,31.7,1.7,0.1
+24021,Chateauguay--Lacolle,12,10.2,48.7,26.9,1.9,0.2
+24022,Chicoutimi--Le Fjord,25.6,5.8,37.7,28.8,1.5,0
+24023,Compton--Stanstead,11.9,12,47.3,26.4,2.4,0
+24024,Dorval--Lachine--LaSalle,14.2,29.4,41.1,11.5,3,0.8
+24025,Drummond,15.9,8.4,51.6,22,2.1,0
+24026,Gaspesie--Les iles-de-la-Madeleine,19.1,17,28.8,33.1,2,0
+24027,Gatineau,8,13.8,62.1,14.9,1.1,0
+24028,Hochelaga,7.2,11.7,47.5,30.8,1.7,1.2
+24029,Honore-Mercier,13,33.5,35.2,16,1.6,0.7
+24030,Hull--Aylmer,10,20.5,58.8,8.7,2,0
+24031,Joliette,9.7,6.4,46.9,33,4,0
+24032,Jonquiere,34.1,2.7,42.5,19.3,1.3,0.1
+24033,La Pointe-de-l'ile,7.7,10.1,47.5,32.4,1.9,0.5
+24034,La Prairie,9.4,13.2,50,25.7,1.5,0.2
+24035,Lac-Saint-Jean,42.3,3.3,32.1,21,1.3,0
+24036,Lac-Saint-Louis,28.4,34.1,30.1,3.1,4.3,0
+24037,LaSalle--emard--Verdun,9.7,18.3,45.2,23.4,2.6,0
+24038,Laurentides--Labelle,9.3,12.7,43.8,31.5,2.5,0
+24039,Laurier--Sainte-Marie,3.9,10.7,46.5,34.9,2.6,1.3
+24040,Laval--Les iles,16.4,20.6,47.2,12.9,1.8,1.1
+24041,Longueuil--Charles-LeMoyne,10.5,13.3,45.4,28.3,2.4,0
+24042,Levis--Lotbiniere,39.9,5.1,38.5,14.9,1.7,0
+24043,Longueuil--Saint-Hubert,8.7,10.1,50,28.8,2.2,0.2
+24044,Louis-Hebert,21.8,13.4,38.7,24.2,1.6,0.2
+24045,Louis-Saint-Laurent,37.6,6.4,39.9,14.4,1.5,0
+24046,Manicouagan,11.6,5.5,47.7,32.7,2.5,0
+24047,Megantic--L'erable,49.1,6,26.3,16.6,1.5,0
+24048,Mirabel,9.2,7.8,49.5,31,2,0
+24049,Montarville,9.6,12.5,44.5,29.1,2.5,1.8
+24050,Montcalm,7.9,4.9,51.9,31.4,3.8,0
+24051,Montmagny--L'Islet--Kamouraska--Riviere-du-Loup,36.3,5.8,36.4,20.1,1.5,0
+24052,Mount Royal,35.6,41.4,17.9,2.9,1.8,0.5
+24053,Notre-Dame-de-Grace--Westmount,17.7,38.2,35.1,4.1,4.4,0.6
+24054,Outremont,8,21.6,55.7,11.6,2.2,0.9
+24055,Papineau,5,37.9,29.5,24.9,1.9,0.8
+24056,Pierrefonds--Dollard,26.9,30.5,34.1,5,3.6,0
+24057,Pontiac,26.2,15.2,47.3,9.5,1.6,0.2
+24058,Portneuf--Jacques-Cartier,0,6.6,42.7,20.5,2.4,0
+24059,Quebec,17.8,9,42.6,28,2.2,0.4
+24060,Repentigny,7.5,7.9,52.1,30.8,1.7,0
+24061,Richmond--Arthabaska,24.7,7,32.5,33.8,2.1,0
+24062,Riviere-des-Mille-iles,10.3,11.1,49.1,27.1,2.4,0
+24063,Riviere-du-Nord,8.4,6.5,55.1,28.2,1.8,0
+24064,Rosemont--La Petite-Patrie,4.3,9.1,51.1,32.8,1.7,1
+24065,Marc-Aurele-Fortin,10.4,13.8,49,24.3,2.3,0
+24066,Saint-Hyacinthe--Bagot,15.7,5.4,52.4,24.6,1.9,0
+24067,Saint-Jean,10.7,8.8,47.5,30.5,2.5,0
+24068,Saint-Laurent,19.1,42.9,29.1,6.4,2.1,0.4
+24069,Saint-Leonard--Saint-Michel,13.6,42.2,32.3,9.6,1.8,0.5
+24070,Saint-Maurice--Champlain,17.1,10.9,41.3,28.5,2,0.2
+24071,Salaberry--Suroit,12.7,8.1,43.6,33.7,1.8,0
+24072,Shefford,14.6,9,51.1,23.4,1.9,0
+24073,Sherbrooke,9.2,9.8,43.5,35.4,1.7,0.4
+24074,Vaudreuil--Soulanges,17.6,12.4,43.5,23.7,2.8,0
+24075,Terrebonne,8.1,6.9,51.5,30.8,2.7,0
+24076,Trois-Rivieres,13.1,10,49.7,24.2,1.9,1
+24077,Ville-Marie--Le Sud-Ouest--ile-des-Soeurs,11.9,27.5,41.5,16,2.8,0.3
+24078,Vimy,12.8,20.4,42.7,21.7,1.9,0.5
+35001,Ajax,44.2,37.9,15,0,2.7,0.1
+35002,Algoma--Manitoulin--Kapuskasing,32.5,14.5,49.9,0,3.1,0
+35003,Aurora--Oak Ridges--Richmond Hill,51.5,27.9,16,0,3.5,1.2
+35004,Barrie--Innisfil,61.3,12.5,20.3,0,5.3,0.6
+35005,Barrie--Springwater--Oro-Medonte,54.6,16.9,20,0,6.1,2.4
+35006,Bay of Quinte,51.8,20.9,23,0,3.8,0.5
+35007,Beaches--East York,22.7,30.8,41.6,0,4.6,0.3
+35008,Brampton Centre,46.4,25.4,23.2,0,4.4,0.6
+35009,Brampton East,29.5,30.7,37.6,0,1.7,0
+35010,Brampton North,48.9,28.2,18.8,0,3.7,0.5
+35011,Brampton South,45.4,35.4,16.4,0,2.3,0
+35012,Brampton West,42,36.1,19.6,0,1.6,0
+35013,Brantford--Brant,48.4,18.9,28.9,0,3.2,0.5
+35014,Bruce--Grey--Owen Sound,56.3,16.1,17.6,0,10,0
+35015,Burlington,54.1,23.2,18.9,0,3.5,0
+35016,Cambridge,52.7,15.4,27.9,0,3.6,0.3
+35017,Chatham-Kent--Leamington,53.2,16.3,27.2,0,3.3,0
+35018,Davenport,14.2,27.9,53.7,0,3.4,0.8
+35019,Don Valley East,36.4,38.4,21.9,0,2.8,0
+35020,Don Valley North,40.3,37.3,20.7,0,1.3,0
+35021,Don Valley West,43.9,41.5,10.7,0,3.6,0.3
+35022,Dufferin--Caledon,59,13.1,13.2,0,14.7,0
+35023,Durham,55.2,15.5,23.7,0,4.6,1
+35024,Eglinton--Lawrence,46.8,38.4,11.6,0,3.2,0
+35025,Elgin--Middlesex--London,58.1,13.4,24.1,0,3,1.4
+35026,Essex,48.3,14.3,34.9,0,2.4,0.1
+35027,Etobicoke Centre,41.9,40.6,14.6,0,2.7,0.3
+35028,Etobicoke--Lakeshore,40.2,35.1,20.3,0,4,0.4
+35029,Etobicoke North,32,42.6,23.6,0,0.2,1.7
+35030,Flamborough--Glanbrook,55.4,16.9,22.8,0,4.2,0
+35031,Glengarry--Prescott--Russell,48.8,30.6,16.7,0,3.6,0.3
+35032,Guelph,32.8,43.4,16.7,0,6.1,1
+35033,Haldimand--Norfolk,50.9,24.9,20,0,3.3,0.9
+35034,Haliburton--Kawartha Lakes--Brock,60,12.9,22.1,0,5,0
+35035,Hamilton Centre,23.5,13.1,60.3,0,0.5,2.7
+35036,Hamilton East--Stoney Creek,36.9,13.6,44.3,0,2.8,2.4
+35037,Hamilton Mountain,32.3,15.6,48.4,0,2.8,0.8
+35038,Hamilton West--Ancaster--Dundas,42.4,24.9,28.2,0,3.7,0
+35039,Hastings--Lennox and Addington,54.9,17.1,24,0,3.4,0
+35040,Huron--Bruce,54.9,16.5,25.3,0,2.7,0
+35041,Kanata--Carleton,53.7,26.5,15.3,0,4.5,0
+35042,Kenora,47,21.9,27.9,0,2.6,0.6
+35043,King--Vaughan,57.1,27.5,12.3,0,2.7,0
+35044,Kingston and the Islands,34.1,40,21.6,0,4.3,0
+35045,Kitchener Centre,40.4,32.3,21.9,0,4.6,0.8
+35046,Kitchener--Conestoga,54.4,23.5,18.3,0,3.6,0.2
+35047,Kitchener South--Hespeler,51.2,18.9,25.8,0,4,0.1
+35048,Lambton--Kent--Middlesex,57.7,14.2,24,0,3.3,0
+35049,Lanark--Frontenac--Kingston,60.1,16.4,18.1,0,4.9,0.5
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,60.8,15.9,18.3,0,5,0
+35051,London--Fanshawe,33.9,12,49.8,0,3,1.2
+35052,London North Centre,37.1,34.2,24.3,0,4,0.4
+35053,London West,45.1,26.7,25.4,0,2.7,0.1
+35054,Markham--Stouffville,50.5,29,17,0,2.7,0
+35055,Markham--Thornhill,36.4,37.1,23.4,0,2.6,0
+35056,Markham--Unionville,45.8,33.7,16.5,0,3,0
+35057,Milton,55,24.2,16.5,0,3.9,0.4
+35058,Mississauga Centre,41.7,36.7,19,0,2.3,0
+35059,Mississauga East--Cooksville,43.5,36.2,17.7,0,2.2,0.5
+35060,Mississauga--Erin Mills,46.6,34.4,16.1,0,2.7,0
+35061,Mississauga--Lakeshore,46.9,36.9,12.8,0,3.1,0.4
+35062,Mississauga--Malton,37.4,36.8,23.4,0,2,0.3
+35063,Mississauga--Streetsville,46.1,35,15.2,0,3.7,0
+35064,Nepean,51,27.1,17.8,0,4,0
+35065,Newmarket--Aurora,54.1,23.7,15.8,0,4.4,2.1
+35066,Niagara Centre,39.1,14.4,43.2,0,2.5,0.9
+35067,Niagara Falls,53.3,18.9,23.5,0,3.9,0
+35068,Niagara West,59.5,14.3,19.2,0,4.5,2.5
+35069,Nickel Belt,28,14.1,55,0,2.8,0.1
+35070,Nipissing--Timiskaming,36.4,36.5,21.1,0,6,0
+35071,Northumberland--Peterborough South,53.4,21.1,20.6,0,4.7,0
+35072,Oakville,51.6,30.7,13.9,0,3.7,0
+35073,Oakville North--Burlington,54.2,27,15.5,0,3.1,0.3
+35074,Oshawa,51.1,7.7,37.1,0,3.5,0.6
+35075,Ottawa Centre,21.6,20.1,52.2,0,5,1.1
+35076,Orleans,45.2,38,14,0,2.9,0
+35077,Ottawa South,33.3,44,18.2,0,3,1.5
+35078,Ottawa--Vanier,27.9,38.1,28.7,0,5.1,0.2
+35079,Ottawa West--Nepean,44.7,31.5,19.8,0,4,0
+35080,Oxford,59,9.6,25.4,0,4.3,1.6
+35081,Parkdale--High Park,15.6,32.9,47.2,0,3.3,1.1
+35082,Parry Sound--Muskoka,55.7,11.5,24.2,0,8.1,0.5
+35083,Perth--Wellington,54.5,18,21.3,0,4.6,1.7
+35084,Peterborough--Kawartha,49.6,21.3,25,0,3.7,0.5
+35085,Pickering--Uxbridge,46,33.6,15.7,0,4.5,0
+35086,Renfrew--Nipissing--Pembroke,53.4,12.7,13.4,0,1.7,18.7
+35087,Richmond Hill,43.5,35.6,17,0,3.8,0
+35088,Carleton,61.7,20.9,13.3,0,4.1,0
+35089,St. Catharines,50.7,20.7,23.9,0,3.8,0.9
+35090,Toronto--St. Paul's,32.4,39.9,22.6,0,4.5,0
+35091,Sarnia--Lambton,52.6,14,29.9,0,2.5,0
+35092,Sault Ste. Marie,40.4,19.7,37.4,0,2.1,0.3
+35093,Scarborough--Agincourt,34.1,45.6,18,0,2.3,0
+35094,Scarborough Centre,34.9,31.9,30.7,0,2.6,0
+35095,Scarborough--Guildwood,34.7,35.8,26.7,0,2.2,0.6
+35096,Scarborough North,33.4,28.9,35.4,0,1.6,0.8
+35097,Scarborough--Rouge Park,31.6,34.8,31,0,2.4,0
+35098,Scarborough Southwest,31.7,29.3,34.9,0,4.1,0
+35099,Simcoe--Grey,48.4,12.7,17.4,0,5.5,15.9
+35100,Simcoe North,53.9,19.2,20.4,0,5.9,0.6
+35101,Spadina--Fort York,20.9,24.4,49.6,0,4.2,0.9
+35102,Stormont--Dundas--South Glengarry,62.1,17.9,17.5,0,2.2,0
+35103,Sudbury,28.3,18,49.9,0,3,0.8
+35104,Thornhill,63.2,22.5,11.5,0,2.5,0.3
+35105,Thunder Bay--Rainy River,27.2,21.7,48.6,0,2.4,0
+35106,Thunder Bay--Superior North,29.6,16.5,50.2,0,3,0.7
+35107,Timmins--James Bay,31.9,16,49.9,0,2.2,0
+35108,Toronto Centre,17.3,39.7,36.5,0,5.2,1.3
+35109,Toronto--Danforth,14.3,17.6,60.8,0,6.5,0.8
+35110,University--Rosedale,20.1,30.6,43.8,0,4.7,0.8
+35111,Vaughan--Woodbridge,56.6,30.7,10.7,0,2,0
+35112,Waterloo,41.4,38.3,14.9,0,4.7,0.7
+35113,Wellington--Halton Hills,63.7,16.4,13,0,6.4,0.6
+35114,Whitby,58.8,14.5,21.4,0,5,0.3
+35115,Willowdale,41.5,39.2,18.9,0,0.4,0
+35116,Windsor--Tecumseh,33.6,12.9,49.9,0,3,0.5
+35117,Windsor West,31.6,10.9,54.3,0,2.8,0.4
+35118,York Centre,48.5,33.2,15.9,0,2.3,0
+35119,York--Simcoe,63.7,11.3,18.6,0,5.4,0
+35120,York South--Weston,24.3,32.8,40.1,0,2.8,0
+35121,Humber River--Black Creek,22.1,47,27.8,0,1.6,1.4
+46001,Brandon--Souris,63.8,5.7,24.6,0,5.7,0
+46002,Charleswood--St. James--Assiniboia--Headingley,57.6,18.4,20.1,0,3.9,0
+46003,Churchill--Keewatinook Aski,26.1,19.9,51.7,0,2.3,0
+46004,Dauphin--Swan River--Neepawa,64.5,6.3,24.8,0,4.3,0.1
+46005,Elmwood--Transcona,46.9,5.2,44.8,0,3.1,0
+46006,Kildonan--St. Paul,58.5,7.9,30.1,0,2.6,1
+46007,Portage--Lisgar,75.8,6,10.2,0,5.6,2.4
+46008,Provencher,70.4,6.7,18.2,0,3,0
+46009,Saint Boniface--Saint Vital,50.1,31.2,15.8,0,2.9,0
+46010,Selkirk--Interlake--Eastman,66.5,4.9,25.1,0,3.5,0.1
+46011,Winnipeg Centre,27.6,11.1,53.7,0,7.1,0.6
+46012,Winnipeg North,27.4,35,35.4,0,1.8,0
+46013,Winnipeg South,51.7,32,14.1,0,2.1,0
+46014,Winnipeg South Centre,41.2,36.6,18.3,0,3.2,0
+47001,Battlefords--Lloydminster,65.9,3.4,28.1,0,2.6,0
+47002,Cypress Hills--Grasslands,70.6,5.8,20.8,0,2.8,0
+47003,Desnethe--Missinippi--Churchill River,46.9,5.3,45.4,0,2.5,0
+47004,Carlton Trail--Eagle Creek,68.4,3.9,24.4,0,2.6,0
+47005,Moose Jaw--Lake Centre--Lanigan,61,3.8,32.5,0,2.7,0
+47006,Prince Albert,62.4,3.4,31.5,0,2.2,0
+47007,Regina--Lewvan,43.9,8.2,45.2,0,2.8,0
+47008,Regina--Qu'Appelle,53.2,4.8,38.6,0,3,0
+47009,Regina--Wascana,35.7,41.8,20.1,0,2.5,0
+47010,Saskatoon--Grasswood,50.2,7.3,39.8,0,2.5,0
+47011,Saskatoon--University,48.6,9.6,38,0,2.9,0.9
+47012,Saskatoon West,42.5,3.8,51.1,0,2.6,0
+47013,Souris--Moose Mountain,72.9,5.6,18.5,0,3.1,0
+47014,Yorkton--Melville,68.9,6.6,22,0,2.4,0
+48001,Banff--Airdrie,70.7,8.1,13.1,0,7.7,0
+48002,Battle River--Crowfoot,83.1,2.2,9.8,0,3.9,0
+48003,Bow River,83.4,3.5,8.2,0,3.4,1.5
+48004,Calgary Centre,55.4,19.1,15.2,0,10.3,0
+48005,Calgary Confederation,52.4,17.6,15.8,0,13.7,0.4
+48006,Calgary Forest Lawn,63.3,17.5,13.2,0,5.3,0.7
+48007,Calgary Heritage,74.4,7.5,12.1,0,5.5,0.5
+48008,Calgary Midnapore,75.9,6.4,10.6,0,6.4,0.7
+48009,Calgary Nose Hill,69.3,11,12.8,0,6.7,0.1
+48010,Calgary Rocky Ridge,68.5,12.6,11.5,0,7.2,0
+48011,Calgary Shepard,75.5,7.2,11.1,0,5.6,0
+48012,Calgary Signal Hill,64.9,15.4,10.6,0,8.8,0.3
+48013,Calgary Skyview,56.3,28.6,10,0,4.6,0.4
+48014,Edmonton Centre,46.2,23.7,25.8,0,3.6,0.7
+48015,Edmonton Griesbach,52.5,6.6,37.5,0,3.4,0
+48016,Edmonton Manning,55.5,9.1,26.6,0,2.9,6
+48017,Edmonton Mill Woods,58.9,11.7,25.4,0,3,0.9
+48018,Edmonton Riverbend,59.4,14.5,21.2,0,5,0
+48019,Edmonton Strathcona,40.3,2.9,53.7,0,2.3,0.8
+48020,Edmonton West,64.2,12.5,19.5,0,3.7,0.2
+48021,Edmonton--Wetaskiwin,75.6,5.7,14.3,0,4.1,0.3
+48022,Foothills,77.8,3.5,10.1,0,4.8,3.8
+48023,Fort McMurray--Cold Lake,72.5,10.8,13.1,0,3.6,0
+48024,Grande Prairie--Mackenzie,76.1,3.2,15.4,0,3.8,1.6
+48025,Lakeland,79,5.1,11.2,0,4.2,0.5
+48026,Lethbridge,52.5,9.1,30,0,4.5,3.9
+48027,Medicine Hat--Cardston--Warner,68.7,11.2,14.9,0,4.4,0.8
+48028,Peace River--Westlock,77.8,3.6,13,0,3.9,1.7
+48029,Red Deer--Mountain View,79.4,3.5,11.9,0,5,0.1
+48030,Red Deer--Lacombe,77.4,3.6,14.3,0,4.7,0
+48031,St. Albert--Edmonton,64.5,10.8,20.1,0,4.6,0
+48032,Sherwood Park--Fort Saskatchewan,49.5,6.5,11.2,0,4.1,28.8
+48033,Sturgeon River--Parkland,77.5,5.5,13,0,4,0.1
+48034,Yellowhead,78.1,2.9,12.9,0,5.3,0.8
+59001,Abbotsford,66.9,8.7,19.2,0,4.7,0.5
+59002,Burnaby North--Seymour,44.2,15.7,35.2,0,3.9,1
+59003,Burnaby South,39.6,11.7,44,0,3.6,1.1
+59004,Cariboo--Prince George,56.3,5.1,30.1,0,6.2,2.4
+59005,Central Okanagan--Similkameen--Nicola,54.6,10.1,26,0,7.8,0
+59006,Chilliwack--Hope,59.6,11.2,23.5,0,5,0.7
+59007,Cloverdale--Langley City,57.4,11.8,24.7,0,4.6,0
+59008,Coquitlam--Port Coquitlam,55.5,8.3,31,0,4.3,0.9
+59009,Courtenay--Alberni,44.9,6.7,40.7,0,6.8,0.8
+59010,Cowichan--Malahat--Langford,43.1,5.8,43.6,0,7.2,0.3
+59011,Delta,48,18.6,28.1,0,4.7,0
+59012,Fleetwood--Port Kells,47.8,15.7,33.1,0,2.6,0
+59013,Kamloops--Thompson--Cariboo,52.3,5.4,36.9,0,5.1,0
+59014,Kelowna--Lake Country,58.4,11.5,21.4,0,0,0
+59015,Kootenay--Columbia,50.1,3.5,38.8,0,6.4,0
+59016,Langley--Aldergrove,65.8,9,19.3,0,5.3,0.6
+59017,Mission--Matsqui--Fraser Canyon,54.5,8.4,32,0,4.6,0.5
+59018,Nanaimo--Ladysmith,40.4,6.7,45.3,0,7.2,0.5
+59019,New Westminster--Burnaby,34.8,8.7,51.8,0,4.3,0.4
+59020,North Okanagan--Shuswap,55.4,7.5,26.5,0,10.7,0
+59021,North Vancouver,47.6,29.7,16.9,0,5.2,0.6
+59022,Pitt Meadows--Maple Ridge,54.8,5.4,34.9,0,4.9,0
+59023,Port Moody--Coquitlam,46.5,8.5,40.5,0,4.3,0.3
+59024,Prince George--Peace River--Northern Rockies,61.9,5.2,25.9,0,6.1,1.1
+59025,Richmond Centre,58.1,18.7,18.2,0,5,0
+59026,Esquimalt--Saanich--Sooke,37.6,9.7,39.4,0,12.9,0.4
+59027,Saanich--Gulf Islands,36.5,6.1,11,0,46.4,0
+59028,Skeena--Bulkley Valley,34.6,3.6,55.2,0,3.2,3.4
+59029,South Okanagan--West Kootenay,44.8,7.1,39.4,0,8.1,0.6
+59030,South Surrey--White Rock,52.9,19.1,19.2,0,5.9,3
+59031,Steveston--Richmond East,53.9,18.6,22.8,0,4.1,0.5
+59032,Surrey Centre,35.7,17.8,40,0,3.6,2.9
+59033,Surrey--Newton,27.4,34.1,35.3,0,2.6,0
+59034,Vancouver Centre,26.1,31,26.3,0,15.1,1.5
+59035,Vancouver East,18.9,9.9,62.8,0,7.6,0.7
+59036,Vancouver Granville,35.4,30.1,24.5,0,9.2,0
+59037,North Island--Powell River,46,6.4,41.7,0,5.2,0
+59038,Vancouver Kingsway,27.8,16.2,51.3,0,3.5,1.2
+59039,Vancouver Quadra,36.4,43.5,14.4,0,5.6,0
+59040,Vancouver South,42.4,33.8,21.1,0,2.2,0.6
+59041,Victoria,23.6,14,50.8,0,11.6,0
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,45.8,23.8,21.5,0,7.6,1.3
+60001,Yukon,33.8,32.9,14.4,0,18.9,0
+61001,Northwest Territories,32.1,18.4,45.8,0,3.1,0
+62001,Nunavut,49.9,28.7,19.4,0,2,0
